@@ -1,0 +1,11 @@
+# OS/editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary exports and local validation output
+*.tmp
+*.partial
+*.log
+

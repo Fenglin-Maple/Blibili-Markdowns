@@ -1,0 +1,49 @@
+import fs from 'node:fs';
+import path from 'node:path';
+
+const root = process.cwd();
+const metadataName = '_star-owner-document.json';
+function relative(file) { return path.relative(root, file).split(path.sep).join('/'); }
+function walk(directory) {
+  const output = [];
+  for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
+    if (entry.name === '.git' || entry.name === 'node_modules') continue;
+    const file = path.join(directory, entry.name);
+    if (entry.isDirectory()) output.push(...walk(file));
+    else if (entry.isFile() && entry.name === metadataName) output.push(file);
+  }
+  return output;
+}
+
+const documents = walk(root).map((file) => {
+  const metadata = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const metadataPath = relative(file);
+  const segments = metadataPath.split('/');
+  return {
+    documentId: String(metadata.documentId || ''),
+    documentType: String(metadata.documentType || ''),
+    bvid: String(metadata.bvid || ''),
+    title: String(metadata.title || ''),
+    owner: String(metadata.owner || ''),
+    collectionName: String(metadata.collectionName || ''),
+    contributorGithubId: String(metadata.contributorGithubId || segments[0] || ''),
+    updatedAt: String(metadata.updatedAt || metadata.uploadedAt || ''),
+    metadataPath,
+    documentRoot: metadataPath.slice(0, -metadataName.length)
+  };
+}).sort((a, b) => String(b.updatedAt).localeCompare(String(a.updatedAt)) || a.metadataPath.localeCompare(b.metadataPath));
+
+const generatedAt = documents.reduce((latest, item) => item.updatedAt > latest ? item.updatedAt : latest, '');
+const catalog = { schemaVersion: 1, generatedAt, total: documents.length, documents };
+const output = `${JSON.stringify(catalog, null, 2)}\n`;
+const target = path.join(root, 'catalog.json');
+if (process.argv.includes('--check')) {
+  if (!fs.existsSync(target) || fs.readFileSync(target, 'utf8') !== output) {
+    console.error('catalog.json is missing or stale; run node scripts/build-catalog.mjs');
+    process.exit(1);
+  }
+} else {
+  fs.writeFileSync(target, output, 'utf8');
+}
+console.log(`shared catalog ${process.argv.includes('--check') ? 'is current' : 'written'} (${documents.length} document(s))`);
+
