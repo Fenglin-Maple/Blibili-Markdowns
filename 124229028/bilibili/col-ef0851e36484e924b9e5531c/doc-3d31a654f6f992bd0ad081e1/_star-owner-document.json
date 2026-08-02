@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.745Z",
-  "updatedAt": "2026-08-02T18:35:46.745Z",
+  "updatedAt": "2026-08-02T18:53:05.891Z",
   "completedAt": "2026-07-17T21:54:44.130Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,16 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "subtitles/p01-ai-zh.json",
-    "[BV-BV11bRhBKEkc][标题-B站学习党狂喜！BiliNote 超强 AI 总结功能演示：长视频秒变精华笔记，效率飙升][UP-AI画-e7b12fb6.md"
+    "summary.md"
   ],
   "contentSha256": "2da30c4e3e4e7ddded92caf240e4f00390c06fb004a656ab54bbd9fbfb23d428",
   "assetSha256": {
-    "asr/asr-result.json": "59cec6cc39e9badf6336a6f9647452a2fd344a3d67d2c6048e34d8f33d8cc8d0",
-    "comments/comments.json": "39926421b333f29dda5a0d1832755d7f13be5eddc2b1a881fa595dd47cd6c937",
     "cover.jpg": "769c5d02526d4c8774ade0b6d4aacc3db3fcca2e7ffa1ac9814bd001681dbb7d",
     "frames/frame-001.jpg": "b58cf94ac20f0e2134aa98374e45d1fd45f2fb0c006e5c4750b5aa5d68a32208",
     "frames/frame-002.jpg": "1b25e4b7b1c37550758690e3d29b027a001e16ad7a99b9bddac179fdde32b40d",
@@ -61,16 +52,9 @@
     "frames/frame-009.jpg": "e2985071067622aac629f0c70506612a806dac7395cf7ada44e17e5d240f674e",
     "frames/frame-010.jpg": "fa240a9efbe5d97dacd1c0ab7e3aaad3594f2f70a7036f34dbfe4a987b64364a",
     "frames/frame-011.jpg": "18795b32c77008a23d748c16ff651819feaff2a6ac1ee7354d868b52476987d6",
-    "frames/frame-012.jpg": "5be66d81c02e1a0bdda61d8d3d7238c522fffd807ee63d46281662e3858e1f84",
-    "info.json": "4b2208dd9b6861fd9cf84b6a79f7508357f674583f0c811fafcf73f982a6397d",
-    "manifest.json": "5e5adc9eb950cf6d5f3c08c2e8daa3a86e0a1fb0a80c981057e74c42176f2dbc",
-    "subtitles/index.json": "b5760b7336ed96ef5e44c559f42806f8a79879b15e1f653aa3c864704581d49b",
-    "subtitles/p01-ai-zh.json": "e9383c6a67d7f4a7e3090df9db0a92c2c8156599b39cad0348c84c6e45c56bd4"
+    "frames/frame-012.jpg": "5be66d81c02e1a0bdda61d8d3d7238c522fffd807ee63d46281662e3858e1f84"
   },
   "fileSizes": {
-    "agent-draft-1.md": 22028,
-    "asr/asr-result.json": 5769,
-    "comments/comments.json": 983,
     "cover.jpg": 105687,
     "frames/frame-001.jpg": 66901,
     "frames/frame-002.jpg": 46606,
@@ -84,11 +68,11 @@
     "frames/frame-010.jpg": 155376,
     "frames/frame-011.jpg": 134010,
     "frames/frame-012.jpg": 68655,
-    "info.json": 2110,
-    "manifest.json": 545,
-    "subtitles/index.json": 967,
-    "subtitles/p01-ai-zh.json": 13618,
-    "[BV-BV11bRhBKEkc][标题-B站学习党狂喜！BiliNote 超强 AI 总结功能演示：长视频秒变精华笔记，效率飙升][UP-AI画-e7b12fb6.md": 22028
+    "summary.md": 22028
   },
-  "totalBytes": 1431305
+  "totalBytes": 1385285,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "2da30c4e3e4e7ddded92caf240e4f00390c06fb004a656ab54bbd9fbfb23d428"
+  }
 }

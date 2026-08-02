@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.603Z",
-  "updatedAt": "2026-08-02T18:35:46.603Z",
+  "updatedAt": "2026-08-02T18:53:05.882Z",
   "completedAt": "2026-07-26T13:47:58.062Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,15 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "[BV-BV1UEzEB8Eiu][标题-为了把B站变成AI知识库，我手搓了个免费插件...【建议收藏】][UP-爱听书的程序员阿超][发布日-2-44a36b78.md"
+    "summary.md"
   ],
   "contentSha256": "66eeefedd970935279e74f1ebe9ed4297ccbe3abacc5232bf67d876fb0323ca1",
   "assetSha256": {
-    "asr/asr-result.json": "4c2780629e4b7798eab269fc46250723abad0b3ca6a1635caf028b9873e9f108",
-    "comments/comments.json": "a3e277c49e35b66ecf2a82deccf44eb17b9918a2b7d9b5fbc55ec59fb5a993bf",
     "cover.jpg": "957a1b383e9604816625086c0d029f7174f783190e7364dc7ecea1a026bb80f7",
     "frames/frame-001.jpg": "4e82037e9fccbf654aea89599b269c4a083b16ff6ef3c6ce89ac4c24b0a9ceae",
     "frames/frame-002.jpg": "75543f230505278a6e2b7762b5446c77c3e86d4721a57457ad9e0c07ce2f6fbf",
@@ -60,15 +52,9 @@
     "frames/frame-009.jpg": "21dd3fcd69cc36b5749ce547bc210e32f8fd70630116aa6b82b78287612e6e51",
     "frames/frame-010.jpg": "a448d65795d13d97a2a14d3e2cb4763b32cd5c8fd215c80cf98fe6bc0076c0f0",
     "frames/frame-011.jpg": "204ac47dc35976238de5e55f82a566aee77ac3d8086b14a8ba5084df741834b4",
-    "frames/frame-012.jpg": "9de09a68d0034ee560f07c17e9235aeffaf9b2970a617c484b80cb7daa33df1d",
-    "info.json": "0f1d9b1df4298fcb255af25a2a5558132061a57a00faa445cd7c30dd19a4a0cc",
-    "manifest.json": "5f2db53c03274fecdc09e391dbd6e3cd45bc0bf9ffab6220e0accdfea8086af5",
-    "subtitles/index.json": "4a9fa4546e9fd9d7c2f888b4b9b02882f09ff2cf16def6f4747a3bd165b90bb4"
+    "frames/frame-012.jpg": "9de09a68d0034ee560f07c17e9235aeffaf9b2970a617c484b80cb7daa33df1d"
   },
   "fileSizes": {
-    "agent-draft-1.md": 55839,
-    "asr/asr-result.json": 5110,
-    "comments/comments.json": 896,
     "cover.jpg": 148687,
     "frames/frame-001.jpg": 64347,
     "frames/frame-002.jpg": 45468,
@@ -82,10 +68,11 @@
     "frames/frame-010.jpg": 71088,
     "frames/frame-011.jpg": 64432,
     "frames/frame-012.jpg": 62956,
-    "info.json": 2763,
-    "manifest.json": 545,
-    "subtitles/index.json": 325,
-    "[BV-BV1UEzEB8Eiu][标题-为了把B站变成AI知识库，我手搓了个免费插件...【建议收藏】][UP-爱听书的程序员阿超][发布日-2-44a36b78.md": 55839
+    "summary.md": 55839
   },
-  "totalBytes": 1306509
+  "totalBytes": 1241031,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "66eeefedd970935279e74f1ebe9ed4297ccbe3abacc5232bf67d876fb0323ca1"
+  }
 }

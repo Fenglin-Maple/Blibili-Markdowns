@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.583Z",
-  "updatedAt": "2026-08-02T18:35:46.583Z",
+  "updatedAt": "2026-08-02T18:53:05.949Z",
   "completedAt": "2026-07-29T12:40:52.660Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,14 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "[BV-BV1qY411c7K4][标题-【中英字幕】齐泽克谈黑格尔，手把手教你辩证法 part1][UP-拉黑字幕组][发布日-20220509][收藏日-202607-1d30d55b.md"
+    "summary.md"
   ],
   "contentSha256": "dbf8ed5f470f70f1f0702d0ee7e6a5b6ebdd5596fbd2b9fbf0fcb03f0ce18025",
   "assetSha256": {
-    "asr/asr-result.json": "f44c519fe56b6908fd0e1427a1816342642a9cfbd02ec29a210edde742bcd5d2",
-    "comments/comments.json": "120e45d0bdce99dcef9ff646c774317f4176fd16aa487fdbcaf3ea96d60daf62",
     "cover.jpg": "247554439f81ab13b934392948bf1547085df5b3727bc5eff80f4207e3f7e67a",
     "frames/frame-001.jpg": "b543a8b46e37a784c4ea4ebb95b6fa2aea82974434fc4a2343370c08a8743428",
     "frames/frame-002.jpg": "1236ad9b41179531b229bcad6f09a13b680856b0e8de999f8b54241b3e5d9c6d",
@@ -59,14 +52,9 @@
     "frames/frame-009.jpg": "d6f8ac7fe3a251c4a620b5f582031eb521e94842a4cce0a0755e28b9eb6115a3",
     "frames/frame-010.jpg": "a8f8dbfe96177f0c1e57bccc3dc8ac5374aac61a2142482d1e8b2dd2a2a832ed",
     "frames/frame-011.jpg": "a90f26545fddf9283eeba7b37a62a3e3386c3b4e329e2f03b0aa7725b66ed70c",
-    "frames/frame-012.jpg": "6b7fd3a67f10bc939a465dc970cfd9e7cd97e11a094cd6246c12b761bf8a9add",
-    "info.json": "0d54126a485bf5e38abea01fecfda902b6d63d762ead0678d6c58347e7a5d3be",
-    "manifest.json": "ad26e14f73563e04c9c097b08e3b94c2371410bcf223ac49224c83ee91048ad8"
+    "frames/frame-012.jpg": "6b7fd3a67f10bc939a465dc970cfd9e7cd97e11a094cd6246c12b761bf8a9add"
   },
   "fileSizes": {
-    "agent-draft-1.md": 32376,
-    "asr/asr-result.json": 69391,
-    "comments/comments.json": 797,
     "cover.jpg": 41849,
     "frames/frame-001.jpg": 63089,
     "frames/frame-002.jpg": 80607,
@@ -80,9 +68,11 @@
     "frames/frame-010.jpg": 141468,
     "frames/frame-011.jpg": 118698,
     "frames/frame-012.jpg": 142387,
-    "info.json": 2026,
-    "manifest.json": 593,
-    "[BV-BV1qY411c7K4][标题-【中英字幕】齐泽克谈黑格尔，手把手教你辩证法 part1][UP-拉黑字幕组][发布日-20220509][收藏日-202607-1d30d55b.md": 32376
+    "summary.md": 32376
   },
-  "totalBytes": 1646966
+  "totalBytes": 1541783,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "dbf8ed5f470f70f1f0702d0ee7e6a5b6ebdd5596fbd2b9fbf0fcb03f0ce18025"
+  }
 }

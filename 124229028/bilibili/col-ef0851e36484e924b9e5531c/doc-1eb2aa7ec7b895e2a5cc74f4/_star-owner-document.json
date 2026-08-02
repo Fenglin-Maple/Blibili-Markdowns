@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.684Z",
-  "updatedAt": "2026-08-02T18:35:46.684Z",
+  "updatedAt": "2026-08-02T18:53:05.871Z",
   "completedAt": "2026-07-17T22:03:41.623Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,16 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "subtitles/p01-ai-zh.json",
-    "[BV-BV1Fsi6Y1EHU][标题-全网没人告诉你的AI视频总结方法！1分钟看完3小时视频（提取文案、做笔记、双语翻译、思维][UP-栗氪聊-9ecf3444.md"
+    "summary.md"
   ],
   "contentSha256": "70af01968cda68e930810e6c80a3bbcfaf961a8e565e081ed4ebaa35dfda0d9d",
   "assetSha256": {
-    "asr/asr-result.json": "d33979b5a21b89ec63e8d4dbde02bd800f49753ec3adec6d2a6f003f28e086d5",
-    "comments/comments.json": "d5375d2cbcea1d84f43450f663b10195952efaed5343eb08c8e16d197f4400dd",
     "cover.jpg": "7d916ae0dd0fa2e5c828a55e28df93934906ea311a7d8513839256b2eb4e1afe",
     "frames/frame-001.jpg": "c4d0b62bf2e2752fdf7529b284092210947d13a4b3c65b23e8f3cc7ae0da7612",
     "frames/frame-002.jpg": "f21800b317376faee19cfcac518374f7b7ca7a104fe8e21f9632b8ceac2c02ab",
@@ -61,16 +52,9 @@
     "frames/frame-009.jpg": "eccad6d370c84e5ab9e67b514a64411db323f893f8e6949e43cb0142dca6f54c",
     "frames/frame-010.jpg": "3cc5268ae90173add996c7c5e6e50fdb9687834880fcd88adcfef4488e350176",
     "frames/frame-011.jpg": "0cb353bba077ca3324aa1d658475232f985a90d5a97e5df08e7cc1b2dab2c62b",
-    "frames/frame-012.jpg": "8f5e348bfb2386998283463d874fd092a0019199c4152d9a860c240286513b02",
-    "info.json": "c08263a4885cf4163599d134d575a76b380b000cc5d914a10117d601f919aa01",
-    "manifest.json": "4c288c5c7bff357bff4b9d45304e75a0b33af8022c07f7b3c5e1ba00a8bfd48d",
-    "subtitles/index.json": "7dd12cf2323f8e8fdd73e5161c6f8ab0e4abad260cd866d632e33be68f5d9a2f",
-    "subtitles/p01-ai-zh.json": "be355f42a6f5fb0f9f7e8a2fe5cce1b4ad5f4cb1014079cd842730279a425e80"
+    "frames/frame-012.jpg": "8f5e348bfb2386998283463d874fd092a0019199c4152d9a860c240286513b02"
   },
   "fileSizes": {
-    "agent-draft-1.md": 24486,
-    "asr/asr-result.json": 9164,
-    "comments/comments.json": 2617,
     "cover.jpg": 142249,
     "frames/frame-001.jpg": 23969,
     "frames/frame-002.jpg": 127248,
@@ -84,11 +68,11 @@
     "frames/frame-010.jpg": 74343,
     "frames/frame-011.jpg": 167548,
     "frames/frame-012.jpg": 148476,
-    "info.json": 2106,
-    "manifest.json": 545,
-    "subtitles/index.json": 998,
-    "subtitles/p01-ai-zh.json": 14809,
-    "[BV-BV1Fsi6Y1EHU][标题-全网没人告诉你的AI视频总结方法！1分钟看完3小时视频（提取文案、做笔记、双语翻译、思维][UP-栗氪聊-9ecf3444.md": 24486
+    "summary.md": 24486
   },
-  "totalBytes": 1549609
+  "totalBytes": 1494884,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "70af01968cda68e930810e6c80a3bbcfaf961a8e565e081ed4ebaa35dfda0d9d"
+  }
 }

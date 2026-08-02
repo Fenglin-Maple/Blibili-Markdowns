@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.719Z",
-  "updatedAt": "2026-08-02T18:35:46.719Z",
+  "updatedAt": "2026-08-02T18:53:05.915Z",
   "completedAt": "2026-07-17T22:00:24.039Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,16 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "subtitles/p01-ai-zh.json",
-    "[BV-BV1rYNs6sEdR][标题-人类为什么要玩游戏？这是刻在 DNA 里的精神自救][UP-黑桐谷歌][发布日-20260711][收藏-ca83cf5e.md"
+    "summary.md"
   ],
   "contentSha256": "899fed8154111d7e3c8947c652811636367dae799fbc681b440902e668b17229",
   "assetSha256": {
-    "asr/asr-result.json": "8edf07595c539f330034fa1c800fe844fbed31e1eccaf7bd53a5252ca6d0d4c4",
-    "comments/comments.json": "2ca91b60255c8322919aa0bbe027e0e741ae92e40aaa861b94e369746bb9e051",
     "cover.jpg": "87db5e99ba127e1696017e57aec346a75359a8b2824b88462eba3496b4dde775",
     "frames/frame-001.jpg": "47025a7ff88e0968b7f64e5a67ae7585f63f0a350b75e8b34f91e581cb665762",
     "frames/frame-002.jpg": "ad803893f8f1bc3bfee246687234a70bd131b1b0716c2b80ee9bd510f302c9bd",
@@ -61,16 +52,9 @@
     "frames/frame-009.jpg": "f568595e7794232aeeb2cd1c06e725b8412a035d6ef999fb54e5d9c73068d742",
     "frames/frame-010.jpg": "56e411dd29e2ba3cae13efa43b8e352c710d679367b4a2f244ba798d7cc19551",
     "frames/frame-011.jpg": "85ffb60a351874d9e9b3701e6b9d4699e10cffb1f43973e85fe26dc5097e3546",
-    "frames/frame-012.jpg": "5b19a958dc3810336dd2cb3e823f10a86ddb5025a74c07233efeeb0093fe2845",
-    "info.json": "d739a457008d9a3a5d4e19a32cac285e2d5f99648127c25c52031fe232471a67",
-    "manifest.json": "125e07bd57fe89aa435922fc44ecb40350eeb35e3ec25787b10e1a40458780ea",
-    "subtitles/index.json": "ddd9bdaa365e9154034474a6828e77fdfa94fecc5cc0862ab7ad3db7e13f09e6",
-    "subtitles/p01-ai-zh.json": "35961504c4a12b3f68ed8a7f7bbe7fbf56605c09961cd78b647222d240e9d897"
+    "frames/frame-012.jpg": "5b19a958dc3810336dd2cb3e823f10a86ddb5025a74c07233efeeb0093fe2845"
   },
   "fileSizes": {
-    "agent-draft-1.md": 27273,
-    "asr/asr-result.json": 45438,
-    "comments/comments.json": 647,
     "cover.jpg": 406175,
     "frames/frame-001.jpg": 45159,
     "frames/frame-002.jpg": 60810,
@@ -84,11 +68,11 @@
     "frames/frame-010.jpg": 50719,
     "frames/frame-011.jpg": 212146,
     "frames/frame-012.jpg": 46445,
-    "info.json": 4060,
-    "manifest.json": 545,
-    "subtitles/index.json": 920,
-    "subtitles/p01-ai-zh.json": 93276,
-    "[BV-BV1rYNs6sEdR][标题-人类为什么要玩游戏？这是刻在 DNA 里的精神自救][UP-黑桐谷歌][发布日-20260711][收藏-ca83cf5e.md": 27273
+    "summary.md": 27273
   },
-  "totalBytes": 1537698
+  "totalBytes": 1365539,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "899fed8154111d7e3c8947c652811636367dae799fbc681b440902e668b17229"
+  }
 }

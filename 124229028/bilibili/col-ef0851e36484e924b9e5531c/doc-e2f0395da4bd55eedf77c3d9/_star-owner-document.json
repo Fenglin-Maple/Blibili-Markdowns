@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.660Z",
-  "updatedAt": "2026-08-02T18:35:46.660Z",
+  "updatedAt": "2026-08-02T18:53:05.954Z",
   "completedAt": "2026-07-26T11:22:39.772Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,15 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "[BV-BV1vbTP6sEB2][标题-听说你的收藏夹里全是ai指南【B站AI创造公开赛】][UP-他们都叫我蜗牛学长][发布日-2026062-e19655b1.md"
+    "summary.md"
   ],
   "contentSha256": "8e35eb1bb164b7953ffad2e0b896329c698efa08ed71f2a9ab71bca665f24857",
   "assetSha256": {
-    "asr/asr-result.json": "8923956fee2fd8a9a32c31bda9f5e1648a29923b9fa154cc7e40d37ce400bb07",
-    "comments/comments.json": "1d71e5561101a1e5a7f4fa59a4d64ea1330aca455fe7f3f97b9a0ea01bf0d437",
     "cover.jpg": "baf9ef50f6e2bfcfb456c6b47494c3367107b57523ee16170ed9755007c790a7",
     "frames/frame-001.jpg": "2af7838b795b7b58c1279ed7dc68e5f8df433fce0406fba831e8c59407a37cf5",
     "frames/frame-002.jpg": "e506fcc4784d0725e95dce7a79517fecec7b03bb0936fd9ab758540eb3ee8ba7",
@@ -60,15 +52,9 @@
     "frames/frame-009.jpg": "7ba509ab1774b597ce43fe06f1cc5585a6329d9cb898945d2b56a8741777cc34",
     "frames/frame-010.jpg": "25478047ebae8b9b31a00ef983ae7c0fa3ad0bf407261d6c9436dcee766b0979",
     "frames/frame-011.jpg": "aeee877ec7521e5fe7edc9f33e708007786230cd265517a611d83db378d094ac",
-    "frames/frame-012.jpg": "fb71e54dde8d1a4c1f384c9cf0a0ee4258fe140af2c24877f8a50890e5f1060a",
-    "info.json": "09a3831bf7e332437b8d1402b15703c57879fcfff5fd5f2b2de332b7dc5f8b73",
-    "manifest.json": "8f084d61327ef992771775afa28322e65dcb4ba322f0c63f8b4127092e42a983",
-    "subtitles/index.json": "38b30e0ded87a509bfed415ad0271f78e6cac0888909c90f5feb663a426d1617"
+    "frames/frame-012.jpg": "fb71e54dde8d1a4c1f384c9cf0a0ee4258fe140af2c24877f8a50890e5f1060a"
   },
   "fileSizes": {
-    "agent-draft-1.md": 17652,
-    "asr/asr-result.json": 3585,
-    "comments/comments.json": 841,
     "cover.jpg": 687738,
     "frames/frame-001.jpg": 15224,
     "frames/frame-002.jpg": 23849,
@@ -82,10 +68,11 @@
     "frames/frame-010.jpg": 30175,
     "frames/frame-011.jpg": 36810,
     "frames/frame-012.jpg": 36147,
-    "info.json": 1922,
-    "manifest.json": 545,
-    "subtitles/index.json": 309,
-    "[BV-BV1vbTP6sEB2][标题-听说你的收藏夹里全是ai指南【B站AI创造公开赛】][UP-他们都叫我蜗牛学长][发布日-2026062-e19655b1.md": 17652
+    "summary.md": 17652
   },
-  "totalBytes": 1097684
+  "totalBytes": 1072830,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "8e35eb1bb164b7953ffad2e0b896329c698efa08ed71f2a9ab71bca665f24857"
+  }
 }

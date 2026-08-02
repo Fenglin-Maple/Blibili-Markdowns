@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.709Z",
-  "updatedAt": "2026-08-02T18:35:46.709Z",
+  "updatedAt": "2026-08-02T18:53:05.905Z",
   "completedAt": "2026-07-17T22:00:31.527Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,16 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "subtitles/p01-ai-zh.json",
-    "[BV-BV1RmTq6nEhE][标题-【视频转图文笔记】踩过BiliNote部署的所有坑后，我劝你直接用 Docker][UP-AI茶谈][发-b6e8ca1b.md"
+    "summary.md"
   ],
   "contentSha256": "a44f06f5d5f39e07291acc8fec447b22fd17addd1aedee88e731beb9c09d4c88",
   "assetSha256": {
-    "asr/asr-result.json": "5f204293f3dbe40a7f2bb75327efbf90dab5df1cf181089369bb36819143e00a",
-    "comments/comments.json": "426ec9251c2d3ac679fff3138c3d18c0294d1afc55b0fbcc145337233df4ae4f",
     "cover.jpg": "d6761b0d84968d19653a8b83789c87778a2aa93fde5c76c1046ae7be11b513b4",
     "frames/frame-001.jpg": "c751eead9d437e425cb0147db1400acdaab7a395e7f5c5fe798aa40ed3864717",
     "frames/frame-002.jpg": "ea0b31ef7ce25a25c6548eb68893a0e01dbb216e1d682ae695be9f60272ddc08",
@@ -61,16 +52,9 @@
     "frames/frame-009.jpg": "8fe6061fb06ddb70b266593d1b9d30f24323e282e1d0e5615623bc9864a24161",
     "frames/frame-010.jpg": "55d1ee7b820f95eeeaf8b8f9f823b5dd504262fda65c0a0e95f7474d12ffe835",
     "frames/frame-011.jpg": "3ea3a41e5c3a14d2c0b2cb058f977f61e9c1db4144f4f5828dd43733bc6fc027",
-    "frames/frame-012.jpg": "04344b880bf1b5af801ff141bc1ff9add96d4fa7e4956f093a60e13d3818e06f",
-    "info.json": "ddb17d0a3ab3d9444f19d2c92ed11a26d077bb37e668d95f9179030e72b626c7",
-    "manifest.json": "e7058ac7d6515da07431f33ed186ebf9dd54dc0f0ae18a5403f79bb24b2aa0e1",
-    "subtitles/index.json": "4daf58fad1515a76b238826c3b456792eb167e06778d302cc0c86b2d38ffc30b",
-    "subtitles/p01-ai-zh.json": "9f136b84419c876257128a6751383430105b156bc75e10871447eba3a9367481"
+    "frames/frame-012.jpg": "04344b880bf1b5af801ff141bc1ff9add96d4fa7e4956f093a60e13d3818e06f"
   },
   "fileSizes": {
-    "agent-draft-1.md": 22555,
-    "asr/asr-result.json": 11370,
-    "comments/comments.json": 395,
     "cover.jpg": 390767,
     "frames/frame-001.jpg": 56698,
     "frames/frame-002.jpg": 89688,
@@ -84,11 +68,11 @@
     "frames/frame-010.jpg": 118120,
     "frames/frame-011.jpg": 149602,
     "frames/frame-012.jpg": 102902,
-    "info.json": 2217,
-    "manifest.json": 545,
-    "subtitles/index.json": 888,
-    "subtitles/p01-ai-zh.json": 114740,
-    "[BV-BV1RmTq6nEhE][标题-【视频转图文笔记】踩过BiliNote部署的所有坑后，我劝你直接用 Docker][UP-AI茶谈][发-b6e8ca1b.md": 22555
+    "summary.md": 22555
   },
-  "totalBytes": 2035922
+  "totalBytes": 1883212,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "a44f06f5d5f39e07291acc8fec447b22fd17addd1aedee88e731beb9c09d4c88"
+  }
 }

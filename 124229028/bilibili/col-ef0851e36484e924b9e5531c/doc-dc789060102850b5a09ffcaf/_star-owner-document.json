@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.729Z",
-  "updatedAt": "2026-08-02T18:35:46.729Z",
+  "updatedAt": "2026-08-02T18:53:05.945Z",
   "completedAt": "2026-07-17T21:59:57.098Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,16 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "subtitles/p01-ai-zh.json",
-    "[BV-BV1YnDMBBEPg][标题-AI自动看视频写总结，视频笔记神器bilinote安装技巧][UP-腹黑布丁一号][发布日-202604-c02de3ae.md"
+    "summary.md"
   ],
   "contentSha256": "65d261310657783acec78aaef50ba556c1f5240bc5348a99a9509859ee35850d",
   "assetSha256": {
-    "asr/asr-result.json": "196a3e9758670f89080c236cae857d84806f83cf0abc18d7624b9b240b0ee41a",
-    "comments/comments.json": "9c534cf2a36a11904ca24bd509c25ce41c4d56c4cc4a3e5775ddadb8a56f3484",
     "cover.jpg": "9490dc5e791a1c4afe506ec102ebb4e82f92fa0816e43e89ec9d4ecbe106b75a",
     "frames/frame-001.jpg": "8f8bc4d7ad76fa2f1e46bee3514e6a5bb225bee2ea8bf461c59a484cc2683203",
     "frames/frame-002.jpg": "1e4e0bc026c70f628d3b13709d542164454fb57cc74d206983136e4681fa8e32",
@@ -61,16 +52,9 @@
     "frames/frame-009.jpg": "369544426f4435a834200c4d372c629eac6a5169691891a1b569d62fb0a0b235",
     "frames/frame-010.jpg": "5d7699be72b59e9d9e6b1078686e69c59490f4e852001814291a192027122876",
     "frames/frame-011.jpg": "c52db3a2996f1ff8956841d6fa2e0bbbfea633f5b404aa3f170b121bcd6ff2ca",
-    "frames/frame-012.jpg": "5a6a0af6415f496d2c5aaac31ea2798c8aa88bd13d8f18d32dc8770430463eb7",
-    "info.json": "c3e50f896c62a98c0633a8174cd156e563c0a4e64aa004530be950a7dc7fd83c",
-    "manifest.json": "7b46cc106c9b87d03b8438bef48fd3bd7a72ace9ecb940d84ff1d8e652d85cb5",
-    "subtitles/index.json": "a8e20ec17fc9e6fa2441445f61530903401305fad8e8c7faaf09f37e3c004e0b",
-    "subtitles/p01-ai-zh.json": "04104ca0aa4bc7ff6822d9dddff56cef74dbe004d015d1b5fa7935d6ab425134"
+    "frames/frame-012.jpg": "5a6a0af6415f496d2c5aaac31ea2798c8aa88bd13d8f18d32dc8770430463eb7"
   },
   "fileSizes": {
-    "agent-draft-1.md": 20252,
-    "asr/asr-result.json": 4577,
-    "comments/comments.json": 604,
     "cover.jpg": 150603,
     "frames/frame-001.jpg": 48186,
     "frames/frame-002.jpg": 62752,
@@ -84,11 +68,11 @@
     "frames/frame-010.jpg": 78347,
     "frames/frame-011.jpg": 151751,
     "frames/frame-012.jpg": 82145,
-    "info.json": 1933,
-    "manifest.json": 545,
-    "subtitles/index.json": 895,
-    "subtitles/p01-ai-zh.json": 11454,
-    "[BV-BV1YnDMBBEPg][标题-AI自动看视频写总结，视频笔记神器bilinote安装技巧][UP-腹黑布丁一号][发布日-202604-c02de3ae.md": 20252
+    "summary.md": 20252
   },
-  "totalBytes": 1050217
+  "totalBytes": 1009957,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "65d261310657783acec78aaef50ba556c1f5240bc5348a99a9509859ee35850d"
+  }
 }

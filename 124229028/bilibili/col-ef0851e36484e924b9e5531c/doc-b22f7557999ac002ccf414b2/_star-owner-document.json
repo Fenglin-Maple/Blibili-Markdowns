@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.612Z",
-  "updatedAt": "2026-08-02T18:35:46.612Z",
+  "updatedAt": "2026-08-02T18:53:05.922Z",
   "completedAt": "2026-07-26T13:45:30.405Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,15 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "[BV-BV1mwTi6AEm1][标题-别让B站收藏夹吃灰！免费插件一键秒变AI知识库【B站AI创造公开赛】][UP-爱听书的程序员阿超][发布-6b3922a7.md"
+    "summary.md"
   ],
   "contentSha256": "46641abd8f898b3c80ac1ddc8596ea6b81003699933b2e731e9de72aa721a046",
   "assetSha256": {
-    "asr/asr-result.json": "0a4c6ec3ffbf267d19051105890148dde686f9f50bb89bfd9148810e27bbb792",
-    "comments/comments.json": "70fe1151baf9ecc10d912a2e70a24cd58d2ddda140d1a62eb8da5186cd24bbe9",
     "cover.jpg": "d2c0b57e754ffd7c4b97427a6ca65a1c80542b524584a077b73ca1f014f82e7a",
     "frames/frame-001.jpg": "f572d724f484fc0a64773e8ee45cb4596d19cb43861df45a732215845c46cfb1",
     "frames/frame-002.jpg": "8b9a889df5f5381c90f23c0f94d9bc99d4d310982f8d8fb83d6b473149842c43",
@@ -60,15 +52,9 @@
     "frames/frame-009.jpg": "ee9622b358da0d0c8660a7596ce3daefd3d794f164e0b3b358228e78f8f4f092",
     "frames/frame-010.jpg": "8be5bfa43023c2225dc906b40cb2c85d5783d0e8cbb1192121a8f0a33ed44f7e",
     "frames/frame-011.jpg": "8b332f9144bfb17dd18baa516b9c5eb132282875845231861ea8d64f058e22db",
-    "frames/frame-012.jpg": "28f6c91b51c59e3e9899b4e148b0580e33de88344f5715a0209d66051ca4fd22",
-    "info.json": "580145df4a78cc4b4b9ba9bf5fc7e15a8731503efe8f31011e707dd7064b5f98",
-    "manifest.json": "7f2e2f6b72edb17b238f98e8121bc09bad52d251e464b1b2aa39da873268835a",
-    "subtitles/index.json": "f8ae86f1481e603c921e7e951749e363594d62c2e52e628fca9b180b6ca8d07c"
+    "frames/frame-012.jpg": "28f6c91b51c59e3e9899b4e148b0580e33de88344f5715a0209d66051ca4fd22"
   },
   "fileSizes": {
-    "agent-draft-1.md": 25281,
-    "asr/asr-result.json": 4603,
-    "comments/comments.json": 773,
     "cover.jpg": 135006,
     "frames/frame-001.jpg": 23551,
     "frames/frame-002.jpg": 55412,
@@ -82,10 +68,11 @@
     "frames/frame-010.jpg": 79767,
     "frames/frame-011.jpg": 38938,
     "frames/frame-012.jpg": 40037,
-    "info.json": 2830,
-    "manifest.json": 545,
-    "subtitles/index.json": 334,
-    "[BV-BV1mwTi6AEm1][标题-别让B站收藏夹吃灰！免费插件一键秒变AI知识库【B站AI创造公开赛】][UP-爱听书的程序员阿超][发布-6b3922a7.md": 25281
+    "summary.md": 25281
   },
-  "totalBytes": 941592
+  "totalBytes": 907226,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "46641abd8f898b3c80ac1ddc8596ea6b81003699933b2e731e9de72aa721a046"
+  }
 }

@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.629Z",
-  "updatedAt": "2026-08-02T18:35:46.629Z",
+  "updatedAt": "2026-08-02T18:53:05.926Z",
   "completedAt": "2026-07-26T11:30:05.345Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,15 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "[BV-BV1YMME6FEb6][标题-收藏夹不是知识库：让素材真正变成能用的笔记][UP-codexu][发布日-20260709][收藏日--fc16c8c1.md"
+    "summary.md"
   ],
   "contentSha256": "ea31e566dc32d1202481527d968e3d0842b5c2d90567a1469722b88c428dae7b",
   "assetSha256": {
-    "asr/asr-result.json": "8403126e1eea1aab6077b5065b43303d74db2f3a4c60e7243f9c10a1ab66aeae",
-    "comments/comments.json": "8e92e7d608e7b9f61a671a2f10d46fe634caf9adae7cf69cd86f07e5bb551f2a",
     "cover.jpg": "d4e9da526a246f075519249297063ccbe96863a3f3af2df840e299c4dcf4ee8f",
     "frames/frame-001.jpg": "e3b8dc8d76999e0da1f039fad8017bbd99b269ff7d0dcbc5e212841a52618bae",
     "frames/frame-002.jpg": "d486b907466fe379d44586e265d5e309eee604ecd382958349e671ac3494f0a0",
@@ -60,15 +52,9 @@
     "frames/frame-009.jpg": "7282eacb07a5542a60c47f4a2cd061a53868f449c10547fd41e7f73ee9599d6c",
     "frames/frame-010.jpg": "780812d3876b390cd834d76ab53d9821d2428c1a70990ad85e053a156e8eb9e8",
     "frames/frame-011.jpg": "452f0bb2c945c8508f4d92aa89cfbbf46ace17ddf098b75c928c9558389332e6",
-    "frames/frame-012.jpg": "6073a62c17757715b0ad5d98d1d7dfd8302136434d4b23bcf88ef06d3bb7171f",
-    "info.json": "c7717d1e552772ed6f397a988653725a4b99caab2291434d473350ab1636b693",
-    "manifest.json": "899d563b57b8d3743d45cc2fea5abb1f3bc6330e51f930d24474f3e3fed89c72",
-    "subtitles/index.json": "aadf20173ea7a0fecc36e22981b291779138abbdd629766bc276abff45297f5b"
+    "frames/frame-012.jpg": "6073a62c17757715b0ad5d98d1d7dfd8302136434d4b23bcf88ef06d3bb7171f"
   },
   "fileSizes": {
-    "agent-draft-1.md": 15531,
-    "asr/asr-result.json": 1858,
-    "comments/comments.json": 84,
     "cover.jpg": 68477,
     "frames/frame-001.jpg": 21790,
     "frames/frame-002.jpg": 29172,
@@ -82,10 +68,11 @@
     "frames/frame-010.jpg": 30362,
     "frames/frame-011.jpg": 29187,
     "frames/frame-012.jpg": 31631,
-    "info.json": 2081,
-    "manifest.json": 545,
-    "subtitles/index.json": 307,
-    "[BV-BV1YMME6FEb6][标题-收藏夹不是知识库：让素材真正变成能用的笔记][UP-codexu][发布日-20260709][收藏日--fc16c8c1.md": 15531
+    "summary.md": 15531
   },
-  "totalBytes": 455296
+  "totalBytes": 434890,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "ea31e566dc32d1202481527d968e3d0842b5c2d90567a1469722b88c428dae7b"
+  }
 }

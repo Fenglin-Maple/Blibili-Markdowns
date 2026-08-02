@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.619Z",
-  "updatedAt": "2026-08-02T18:35:46.619Z",
+  "updatedAt": "2026-08-02T18:53:05.932Z",
   "completedAt": "2026-07-26T13:43:33.506Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,15 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "[BV-BV17mKg6kEho][标题-【全面开源】我用CodeX+Obsidian搭建了一套AI自动化知识库，有福共享，我把过][UP-Vik-bf4aef0d.md"
+    "summary.md"
   ],
   "contentSha256": "e96f97e88b37fd44afa146ced11830ad5a396e4492b1a53f2200cef1fd1a502c",
   "assetSha256": {
-    "asr/asr-result.json": "9e43a83e6e020537a92c3421203d657fcd5e8d9f8fb768df8e0bd692d4fec66e",
-    "comments/comments.json": "664b0c56e1cebd5be22d744653e87d1d39ad9c62f345772bb360d9d2ac46d21a",
     "cover.jpg": "e921a8d4cc33fef4a6d3787475b2eea4410242e17d0fc2e596c8e41fcae32b2f",
     "frames/frame-001.jpg": "d45c901e61b322d45584dd25318abf6758d424bf3d68fdcac3db0017b9cf8450",
     "frames/frame-002.jpg": "9f6d0c05decf1a8f0d7dfad63cb2c6a478d99da1127fe6dc96013b3690c90821",
@@ -60,15 +52,9 @@
     "frames/frame-009.jpg": "7e8ab63289181b07e2dc345a8b4a61383755a370f1f5d7cb78a076a8610ed7e3",
     "frames/frame-010.jpg": "b87d63613c24e62c0f2096d45ac1cb5685a899d4f336d5be287b7075baa66f77",
     "frames/frame-011.jpg": "81228d8481b501d692c9f7f21412d5a8b86ec2fbbd49f384ee8badfbc4b17092",
-    "frames/frame-012.jpg": "6bfe3d62b3008caed583ba3f79c7f59fd8ff7c369ad6681db348a2e503b526ac",
-    "info.json": "e0ea58acc112153d717ceb281aca24eeeccbaf9d2b93ada79730a56144093806",
-    "manifest.json": "1dab98c539858b9ce9b26daa86039558de8baa85fdcb94dc6b2651eb761b684a",
-    "subtitles/index.json": "f2e949431c6c723114250c42144e534f9bb3bf8839446b2f8fa22c71e33e9cc9"
+    "frames/frame-012.jpg": "6bfe3d62b3008caed583ba3f79c7f59fd8ff7c369ad6681db348a2e503b526ac"
   },
   "fileSizes": {
-    "agent-draft-1.md": 27243,
-    "asr/asr-result.json": 4048,
-    "comments/comments.json": 510,
     "cover.jpg": 1691365,
     "frames/frame-001.jpg": 26997,
     "frames/frame-002.jpg": 38915,
@@ -82,10 +68,11 @@
     "frames/frame-010.jpg": 41339,
     "frames/frame-011.jpg": 39054,
     "frames/frame-012.jpg": 40158,
-    "info.json": 2025,
-    "manifest.json": 545,
-    "subtitles/index.json": 395,
-    "[BV-BV17mKg6kEho][标题-【全面开源】我用CodeX+Obsidian搭建了一套AI自动化知识库，有福共享，我把过][UP-Vik-bf4aef0d.md": 27243
+    "summary.md": 27243
   },
-  "totalBytes": 2285016
+  "totalBytes": 2250250,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "e96f97e88b37fd44afa146ced11830ad5a396e4492b1a53f2200cef1fd1a502c"
+  }
 }

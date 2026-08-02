@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.644Z",
-  "updatedAt": "2026-08-02T18:35:46.644Z",
+  "updatedAt": "2026-08-02T18:53:05.886Z",
   "completedAt": "2026-07-26T11:26:19.923Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,15 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "[BV-BV16d7R6NEu7][标题-B站视频提取文案与同步笔记教程：用谛听AI一键导出Markdown到Obsidian][UP-谛听安途]-9bf3d9c2.md"
+    "summary.md"
   ],
   "contentSha256": "41f44598702d5ec68c17543f537d5c0113466df5344452adc9f4546cdba2d05a",
   "assetSha256": {
-    "asr/asr-result.json": "578b31b4373b2a117764775f8689d4f3ccf4937efb3de9c7858c10d08efa63bb",
-    "comments/comments.json": "4705c433a97231214427ed29de02862bacb524ba2f43da3ff9b57aad64669907",
     "cover.jpg": "41e34e695917264445f27acf765d5680e90f921408587e9b976caec643d4e3c6",
     "frames/frame-001.jpg": "ea341ce604bed25d011e18269d72655e438e5bb74b6a6c640231ce600a93b6c7",
     "frames/frame-002.jpg": "c89f070b7d38595c1c07506b1eb17033404095b938826a7235b6942822865af8",
@@ -60,15 +52,9 @@
     "frames/frame-009.jpg": "edd69f6b7554cd8a5f687f4279455fd68b01e74ea9ae18ce01b0b81229d44960",
     "frames/frame-010.jpg": "7ab166129d57026cab460c7d099e9ebb8c1b72c98cc7cff7d2a0e0de9d6d139e",
     "frames/frame-011.jpg": "928686ee95bd78106f3adbe2b90e0a96e6dea38a2c9ee04fef3a4041a2cdfa63",
-    "frames/frame-012.jpg": "f53db08321056377334be03445c142585efe056a9809b731241d78bf7aa5750f",
-    "info.json": "c19e83872603e4e8c7a7837c35a02263d6e8240068a3f939585d1df516c040db",
-    "manifest.json": "9f77226dc588e7832408ab2a2037c657a7f4d1ecf1ddc94069beffab0b6c027f",
-    "subtitles/index.json": "f0245252c9da8c302396dc51421384feacc2a55582480b9d4320082f35daf2b0"
+    "frames/frame-012.jpg": "f53db08321056377334be03445c142585efe056a9809b731241d78bf7aa5750f"
   },
   "fileSizes": {
-    "agent-draft-1.md": 15611,
-    "asr/asr-result.json": 1925,
-    "comments/comments.json": 543,
     "cover.jpg": 260166,
     "frames/frame-001.jpg": 34046,
     "frames/frame-002.jpg": 41062,
@@ -82,10 +68,11 @@
     "frames/frame-010.jpg": 58183,
     "frames/frame-011.jpg": 55517,
     "frames/frame-012.jpg": 71221,
-    "info.json": 2642,
-    "manifest.json": 545,
-    "subtitles/index.json": 332,
-    "[BV-BV16d7R6NEu7][标题-B站视频提取文案与同步笔记教程：用谛听AI一键导出Markdown到Obsidian][UP-谛听安途]-9bf3d9c2.md": 15611
+    "summary.md": 15611
   },
-  "totalBytes": 1034057
+  "totalBytes": 1012459,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "41f44598702d5ec68c17543f537d5c0113466df5344452adc9f4546cdba2d05a"
+  }
 }

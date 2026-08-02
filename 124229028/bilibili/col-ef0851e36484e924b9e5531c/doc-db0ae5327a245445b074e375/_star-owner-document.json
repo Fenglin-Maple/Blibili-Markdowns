@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.652Z",
-  "updatedAt": "2026-08-02T18:35:46.652Z",
+  "updatedAt": "2026-08-02T18:53:05.940Z",
   "completedAt": "2026-07-26T11:24:28.406Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,15 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "[BV-BV1pv2VBfEDw][标题-收藏夹不再吃灰，帮你整理收藏夹的知识库AI][UP-骋风算力][发布日-20251205][收藏日-20-ab374178.md"
+    "summary.md"
   ],
   "contentSha256": "678d0b642d1b71be8bd4eaef4c5fb538de523579a49d363b86ea11500bc1aa8c",
   "assetSha256": {
-    "asr/asr-result.json": "36335bc493897afe7783ef6b366a18260de8dd48127d23c176e7acd4877045c5",
-    "comments/comments.json": "133833b224568ef17c94ea1a72c79070113738e9cbc562f0f0927baa4dbad130",
     "cover.jpg": "8a5f906d4e3107caaaeb0f5be0d5eba290570f37aeed2d4d8df5a813f7c2ba15",
     "frames/frame-001.jpg": "8c74339c1b09e79721be6ceccdad5c546c72fcd07dfd1dcbc66c9731d4de44c0",
     "frames/frame-002.jpg": "95ef7c9a38b4c85e08b36c49dd2b05c7135624404ee157d2139a5f261e693de5",
@@ -60,15 +52,9 @@
     "frames/frame-009.jpg": "3fa9a8b9bb6d05d5ef2996b1fbdbe5fd6cdb81db51252dbb2e402c56776a6708",
     "frames/frame-010.jpg": "203cde9c9ce6a13b52d14b5cb35d5faa81cf131572245a469db7b3280b1ac723",
     "frames/frame-011.jpg": "792776745bdfa01fde2ab12d46fc2f3cd01ad85861147923a7cdc50c6fa23c2e",
-    "frames/frame-012.jpg": "47577fc0ff4f2041196c2545e2e8c294f70d2f47a26986cf650b1e84560f7bd1",
-    "info.json": "25761be27f14751644e96aaef3e63c8f679f214f98bda7f063c48dd1491a2874",
-    "manifest.json": "d94b1bf3f5875db05f9f78d158b38cb527f9bd25c1c28630ba4d461483be7872",
-    "subtitles/index.json": "50d0f45756d9096fa29253840720621e9404a6a88696bcff56996dd17a898f36"
+    "frames/frame-012.jpg": "47577fc0ff4f2041196c2545e2e8c294f70d2f47a26986cf650b1e84560f7bd1"
   },
   "fileSizes": {
-    "agent-draft-1.md": 16653,
-    "asr/asr-result.json": 1279,
-    "comments/comments.json": 84,
     "cover.jpg": 62690,
     "frames/frame-001.jpg": 26035,
     "frames/frame-002.jpg": 28678,
@@ -82,10 +68,11 @@
     "frames/frame-010.jpg": 31328,
     "frames/frame-011.jpg": 32045,
     "frames/frame-012.jpg": 33118,
-    "info.json": 1950,
-    "manifest.json": 545,
-    "subtitles/index.json": 303,
-    "[BV-BV1pv2VBfEDw][标题-收藏夹不再吃灰，帮你整理收藏夹的知识库AI][UP-骋风算力][发布日-20251205][收藏日-20-ab374178.md": 16653
+    "summary.md": 16653
   },
-  "totalBytes": 526038
+  "totalBytes": 505224,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "678d0b642d1b71be8bd4eaef4c5fb538de523579a49d363b86ea11500bc1aa8c"
+  }
 }

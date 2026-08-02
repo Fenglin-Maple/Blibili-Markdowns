@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.638Z",
-  "updatedAt": "2026-08-02T18:35:46.638Z",
+  "updatedAt": "2026-08-02T18:53:05.919Z",
   "completedAt": "2026-07-26T11:28:23.628Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,15 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "[BV-BV1617N6ZEGC][标题-NoteGen v0.30.0：移除 Tesseract，安装包瘦到 17.9 MB，识][UP-cod-b5ddf297.md"
+    "summary.md"
   ],
   "contentSha256": "5ca5fdf6305c603f8a6dd447d28efa312a2918eba046368d58d76ca864ba2551",
   "assetSha256": {
-    "asr/asr-result.json": "ddc4bd12dc05bfec4ca34022ef0bd4cee3187f62ee5c80b2f8055722f52fec0a",
-    "comments/comments.json": "d8f698b75eec199bacdf6b3c50fab7ce7035cf03a0d65771690c1fdfa1434ddd",
     "cover.jpg": "38dbbf74fdfad4b255194170ee591978c7682afaf614abb77c7080e3e91b89e0",
     "frames/frame-001.jpg": "eebd4534d1d36019e5e5af3c8535eebf02e8ff86f026875bb577fabfe75ca1d1",
     "frames/frame-002.jpg": "fbd44cc189139b0e941bbbaaf71c7e8072fea820802016a1134220db6486f015",
@@ -60,15 +52,9 @@
     "frames/frame-009.jpg": "4d497b13f1ab0822996d291d1b2f34db0544ec64e0f3a1b9f30c150f76fe2d3f",
     "frames/frame-010.jpg": "4cfffc2ef4088708c5859084d9f63b728d79dd4f3084e02563ccf17e35d4b1a8",
     "frames/frame-011.jpg": "e3c2ced8992ea3df8bfeae848b9f003c2cec0606ff1bda1d182b510e04ab35af",
-    "frames/frame-012.jpg": "e1a19f5a034c4f25c029ca64c4a1e1904451b0b3f5818cb04126faeaa59ad729",
-    "info.json": "f4044b89f47dd950927a64c33a7ed62ff33df501ed8836ca06b35b7f66afc351",
-    "manifest.json": "725aaf978b3547495a34304f1d702c70f0cdcd614fc68e690ba3b853f8abddf2",
-    "subtitles/index.json": "c39f678f186daf7adbad85318cdbab3f67a084228bd0656a5d294920fc023536"
+    "frames/frame-012.jpg": "e1a19f5a034c4f25c029ca64c4a1e1904451b0b3f5818cb04126faeaa59ad729"
   },
   "fileSizes": {
-    "agent-draft-1.md": 17257,
-    "asr/asr-result.json": 2333,
-    "comments/comments.json": 731,
     "cover.jpg": 47086,
     "frames/frame-001.jpg": 17178,
     "frames/frame-002.jpg": 21605,
@@ -82,10 +68,11 @@
     "frames/frame-010.jpg": 15992,
     "frames/frame-011.jpg": 22487,
     "frames/frame-012.jpg": 27785,
-    "info.json": 2344,
-    "manifest.json": 545,
-    "subtitles/index.json": 319,
-    "[BV-BV1617N6ZEGC][标题-NoteGen v0.30.0：移除 Tesseract，安装包瘦到 17.9 MB，识][UP-cod-b5ddf297.md": 17257
+    "summary.md": 17257
   },
-  "totalBytes": 379348
+  "totalBytes": 355819,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "5ca5fdf6305c603f8a6dd447d28efa312a2918eba046368d58d76ca864ba2551"
+  }
 }

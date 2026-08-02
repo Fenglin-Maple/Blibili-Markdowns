@@ -20,12 +20,9 @@
   "cid": "",
   "sourceCollectionKind": "bilibili",
   "uploadedAt": "2026-08-02T18:35:46.694Z",
-  "updatedAt": "2026-08-02T18:35:46.694Z",
+  "updatedAt": "2026-08-02T18:53:05.936Z",
   "completedAt": "2026-07-17T22:02:32.220Z",
   "files": [
-    "agent-draft-1.md",
-    "asr/asr-result.json",
-    "comments/comments.json",
     "cover.jpg",
     "frames/frame-001.jpg",
     "frames/frame-002.jpg",
@@ -39,16 +36,10 @@
     "frames/frame-010.jpg",
     "frames/frame-011.jpg",
     "frames/frame-012.jpg",
-    "info.json",
-    "manifest.json",
-    "subtitles/index.json",
-    "subtitles/p01-ai-zh.json",
-    "[BV-BV1s4Vh6AEiy][标题-一键提取B站视频文字 skill 再次升级！][UP-546haha][发布日-20260529][收藏-7ec9c392.md"
+    "summary.md"
   ],
   "contentSha256": "c719f3e9c25d4e5685b99b6e3b5b31074d7c10b92314fe3bcf692804f639918a",
   "assetSha256": {
-    "asr/asr-result.json": "459eb69db5c134ceaad0d3a39ef118370df0adda622cc933c47e54cadc354424",
-    "comments/comments.json": "167af3ccfcb97e30b7a068c41ec4a372cc6ec60f910a92d11b0d353b97007865",
     "cover.jpg": "2982103c1634d31c480427a311e399e8e7b4476c3adaff033d0acdbbc21e2efe",
     "frames/frame-001.jpg": "a8b9fc917e9144bf6a1194d57dbedd4fbd19552eccf4d4d9a1fe7d7d73148f4f",
     "frames/frame-002.jpg": "99fbef7e23db028badeb8f098c00cf0815507324c6f14a204f72fb48644b2bff",
@@ -61,16 +52,9 @@
     "frames/frame-009.jpg": "67eab03d64e4303cb2f8cbc72a60d5001d243cb6b20ce0e20d5ed1f2ad55c90a",
     "frames/frame-010.jpg": "2a3f490c4fd8507b8c7027be20dc507dbc61635223dd197da62b162e2da05a41",
     "frames/frame-011.jpg": "ceb355fe5fe14e513024019cc99d7469ef358a78934bc1408822b498dbf7ae4a",
-    "frames/frame-012.jpg": "91dfbd0dd31f7d2f071777cc4f06c7c52fcf35a3ddba65af61e3c4fee15d777f",
-    "info.json": "5e93fdba2a38b2c10ad40bd178fa782a158db8a5d0c670d01a5428085261dddf",
-    "manifest.json": "c7cc04e15f9df305b675a019bb7c755d47b8abb0251d2fba894659007de2ea0f",
-    "subtitles/index.json": "4c8dda0324b6f59755fc955c711ab2e76432b6c67fa9184635f84fb3bd9dcdca",
-    "subtitles/p01-ai-zh.json": "a436480bdb63c239b73c98ac101e88695f426faf8b40610f3bafdcf22086f9b7"
+    "frames/frame-012.jpg": "91dfbd0dd31f7d2f071777cc4f06c7c52fcf35a3ddba65af61e3c4fee15d777f"
   },
   "fileSizes": {
-    "agent-draft-1.md": 19400,
-    "asr/asr-result.json": 3816,
-    "comments/comments.json": 1043,
     "cover.jpg": 108950,
     "frames/frame-001.jpg": 26138,
     "frames/frame-002.jpg": 32468,
@@ -84,11 +68,11 @@
     "frames/frame-010.jpg": 44205,
     "frames/frame-011.jpg": 43641,
     "frames/frame-012.jpg": 44810,
-    "info.json": 2091,
-    "manifest.json": 545,
-    "subtitles/index.json": 874,
-    "subtitles/p01-ai-zh.json": 11836,
-    "[BV-BV1s4Vh6AEiy][标题-一键提取B站视频文字 skill 再次升级！][UP-546haha][发布日-20260529][收藏-7ec9c392.md": 19400
+    "summary.md": 19400
   },
-  "totalBytes": 772908
+  "totalBytes": 733303,
+  "entryMarkdown": "summary.md",
+  "markdownSha256": {
+    "summary.md": "c719f3e9c25d4e5685b99b6e3b5b31074d7c10b92314fe3bcf692804f639918a"
+  }
 }
