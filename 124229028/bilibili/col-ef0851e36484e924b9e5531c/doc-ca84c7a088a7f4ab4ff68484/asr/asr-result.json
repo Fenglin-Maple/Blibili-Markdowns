@@ -1,0 +1,112 @@
+{
+  "model": "medium",
+  "source": "D:\\AIcode\\other\\bili-agent-orchestrator\\workspace\\枫林_Maples\\AI视频总结\\[BV-BV1s4Vh6AEiy][标题-一键提取B站视频文字 skill 再次升级！][UP-546haha][发布日-20260529][收藏-b54c1611\\audio\\audio.wav",
+  "language": "zh",
+  "languageProbability": 0.98291015625,
+  "requestedLanguage": "auto",
+  "duration": 127.1893125,
+  "device": "cuda",
+  "computeType": "float16",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.37,
+      "end": 8.47,
+      "text": "事情是这样的,在之前的视频里,我做了B站视频转录的skill,最近我给这个skill做了升级。"
+    },
+    {
+      "id": 1,
+      "start": 8.9,
+      "end": 16.62,
+      "text": "这期给大家介绍,众所周知,B站是长视频平台,有时候看到高级大视频,想转成文字保存。"
+    },
+    {
+      "id": 2,
+      "start": 17.02,
+      "end": 34.18,
+      "text": "所以上期,我作了这个skills的基础功能,手动挡转路,用法很简单,安装我的skill之后,把B站链接扔给agent,说帮我转录这个视频,他就给你返回一个TXT文件,包含视频信息,摘要,言文。"
+    },
+    {
+      "id": 3,
+      "start": 34.52,
+      "end": 39.82,
+      "text": "在用的过程中,我发现,一个一个链接手动发给AI还是太麻烦了。"
+    },
+    {
+      "id": 4,
+      "start": 40.1,
+      "end": 46.44,
+      "text": "于是我就给旧白skill做了一次升级,加上了自动挡功能,收藏家自动转路。"
+    },
+    {
+      "id": 5,
+      "start": 46.66,
+      "end": 60.46,
+      "text": "具体就是,先创建个新收藻家,然后把你的收藯家铁接告诉agent,让他每隔6小时转路这个收藏家里的视频,agent就会设置定时任务,每6小時自动检查你的收藻家。"
+    },
+    {
+      "id": 6,
+      "start": 61.06,
+      "end": 68.3,
+      "text": "如果发现有新收藯的视頻,就自动转入自动写摘要自动保存TXT,然后发消息通知你。"
+    },
+    {
+      "id": 7,
+      "start": 68.6,
+      "end": 79.82,
+      "text": "你只需要把视频收�手动挡方便你随时转入视频,只要发链接给agent让他转路就行。"
+    },
+    {
+      "id": 8,
+      "start": 80.36,
+      "end": 88.36,
+      "text": "自动挠需要你先把收藏家铁接告诉agent,然后让他帮你每隔6小时自动转录这个收藻家里的视频就OK。"
+    },
+    {
+      "id": 9,
+      "start": 88.76,
+      "end": 91.12,
+      "text": "再让大家看看AI输出的内容吧。"
+    },
+    {
+      "id": 10,
+      "start": 91.76,
+      "end": 100.76,
+      "text": "上面是视频信息,中间是AI摘要,下面是完整言文,不管是你想留着以后看,还是做个人知识库都很方便。"
+    },
+    {
+      "id": 11,
+      "start": 100.76,
+      "end": 105.98,
+      "text": "最后告诉大家积极怎么用,如果你用的是虾,跑一行命令就行。"
+    },
+    {
+      "id": 12,
+      "start": 106.38,
+      "end": 109.06,
+      "text": "用链接进入clawhub官网安装也行。"
+    },
+    {
+      "id": 13,
+      "start": 109.38,
+      "end": 121.72,
+      "text": "如果你用的是马,直接把我claw hub的铁接发给hermesagent,让他做一个hermes里能运行的版本就行只有名字和claw hub银接我都放评论区了,有需要自取。"
+    },
+    {
+      "id": 14,
+      "start": 122.16,
+      "end": 125.34,
+      "text": "谢谢大家,我是六哈哈,我们下期再见。"
+    }
+  ],
+  "diagnostics": {
+    "sentenceCount": 15,
+    "speechSeconds": 119.66,
+    "speechCoverage": 0.9408,
+    "firstSpeechAt": 0.37,
+    "lastSpeechAt": 125.34,
+    "largeGapCount": 0,
+    "largestGaps": [],
+    "warnings": []
+  }
+}

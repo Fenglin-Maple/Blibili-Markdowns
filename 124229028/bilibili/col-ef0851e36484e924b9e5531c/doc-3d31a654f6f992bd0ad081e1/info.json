@@ -1,0 +1,89 @@
+{
+  "bvid": "BV11bRhBKEkc",
+  "aid": 116530935303280,
+  "title": "B站学习党狂喜！BiliNote 超强 AI 总结功能演示：长视频秒变精华笔记，效率飙升1000%",
+  "owner": {
+    "mid": 1632228919,
+    "name": "AI画师大阳",
+    "face": "https://i1.hdslb.com/bfs/face/ee853eebf26e5095a296284ffa1e34cf1dd371b4.jpg"
+  },
+  "pubdate": 1778121084,
+  "ctime": 1778121084,
+  "desc": "BiliNote软件下载链接：https://pan.quark.cn/s/6925c0b93409",
+  "pic": "http://i2.hdslb.com/bfs/archive/0ad0fdeb53ce6c97b0160359351c2b02095db3ac.jpg",
+  "duration": 307,
+  "dimension": {
+    "width": 1920,
+    "height": 1080,
+    "rotate": 0
+  },
+  "pages": [
+    {
+      "cid": 38149033490,
+      "page": 1,
+      "from": "vupload",
+      "part": "B站学习党狂喜！BiliNote 超强 AI 总结功能演示：长视频秒变精华笔记，效率飙升1000%",
+      "duration": 307,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/_000030s6xmc6qjedn28wsygisl6t71b_firsti.jpg",
+      "ctime": 1778121084
+    }
+  ],
+  "redirectUrl": "",
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 1,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "stat": {
+    "aid": 116530935303280,
+    "view": 8547,
+    "danmaku": 1,
+    "reply": 88,
+    "favorite": 467,
+    "coin": 47,
+    "share": 46,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 148,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "tags": [
+    "视频",
+    "课程",
+    "原创",
+    "AI",
+    "AI视频总结",
+    "BiliNote",
+    "AI视频笔记",
+    "笔记",
+    "效率",
+    "视频内容提取"
+  ],
+  "url": "https://www.bilibili.com/video/BV11bRhBKEkc",
+  "fetchedAt": "2026-07-17T21:52:07.014Z",
+  "coverFile": "cover.jpg"
+}

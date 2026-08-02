@@ -1,0 +1,28 @@
+{
+  "model": "medium",
+  "source": "D:\\AIcode\\other\\bili-agent-orchestrator\\workspace\\枫林_Maples\\AI视频总结\\[BV-BV1pv2VBfEDw][标题-收藏夹不再吃灰，帮你整理收藏夹的知识库AI][UP-骋风算力][发布日-20251205][收藏日-20-272ac851\\audio\\audio.wav",
+  "language": "zh",
+  "languageProbability": 0.994140625,
+  "requestedLanguage": "auto",
+  "duration": 25.1704375,
+  "device": "cuda",
+  "computeType": "float16",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 25.14,
+      "text": "这个开源项目让你从此告别收藏及吃灰的怪圈这个叫小黑的跨平台AI知识库它可以将网页信息、微信聊天记录照片、视频等一件收藉并整理成可以编辑的笔记并且形成标签化的知诲库同时你也可以上传本地文件支持PDF Word、PPT MP3等各种格式最重要的是它不会和你闲聊你每次提问它都会基于你的知词库给出答案并写会标注出答点的来源需要的朋友快去试试吧"
+    }
+  ],
+  "diagnostics": {
+    "sentenceCount": 1,
+    "speechSeconds": 25.14,
+    "speechCoverage": 0.9988,
+    "firstSpeechAt": 0.0,
+    "lastSpeechAt": 25.14,
+    "largeGapCount": 0,
+    "largestGaps": [],
+    "warnings": []
+  }
+}

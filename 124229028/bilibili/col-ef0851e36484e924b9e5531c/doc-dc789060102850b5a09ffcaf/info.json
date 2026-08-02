@@ -1,0 +1,84 @@
+{
+  "bvid": "BV1YnDMBBEPg",
+  "aid": 116345345672417,
+  "title": "AI自动看视频写总结，视频笔记神器bilinote安装技巧",
+  "owner": {
+    "mid": 108171540,
+    "name": "腹黑布丁一号",
+    "face": "https://i0.hdslb.com/bfs/face/031084387c376ee415d6a9fa59301bc2dd4ab1b1.jpg"
+  },
+  "pubdate": 1775289450,
+  "ctime": 1775289450,
+  "desc": "核心就是ffmpeg的安装，以及安装后还是不行的处理办法，亲测有效反正是",
+  "pic": "http://i2.hdslb.com/bfs/archive/a24bfe07c84367547536aef1efb7151e6f0eb541.jpg",
+  "duration": 101,
+  "dimension": {
+    "width": 1670,
+    "height": 1080,
+    "rotate": 0
+  },
+  "pages": [
+    {
+      "cid": 37231988688,
+      "page": 1,
+      "from": "vupload",
+      "part": "bilinote安装技巧",
+      "duration": 101,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1670,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002mw2wekb4l2es1z07m87jylftzb_firsti.jpg",
+      "ctime": 1775289450
+    }
+  ],
+  "redirectUrl": "",
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 1,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "stat": {
+    "aid": 116345345672417,
+    "view": 5205,
+    "danmaku": 1,
+    "reply": 24,
+    "favorite": 271,
+    "coin": 24,
+    "share": 22,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 68,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "tags": [
+    "学习",
+    "技巧",
+    "教程",
+    "bilinote",
+    "AI生成视频总结"
+  ],
+  "url": "https://www.bilibili.com/video/BV1YnDMBBEPg",
+  "fetchedAt": "2026-07-17T21:54:45.791Z",
+  "coverFile": "cover.jpg"
+}

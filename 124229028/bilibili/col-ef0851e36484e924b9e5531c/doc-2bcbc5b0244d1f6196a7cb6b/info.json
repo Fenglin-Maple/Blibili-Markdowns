@@ -1,0 +1,89 @@
+{
+  "bvid": "BV1UEzEB8Eiu",
+  "aid": 115933129478304,
+  "title": "为了把B站变成AI知识库，我手搓了个免费插件...【建议收藏】",
+  "owner": {
+    "mid": 521041866,
+    "name": "爱听书的程序员阿超",
+    "face": "https://i0.hdslb.com/bfs/face/59082481e3c6abade1f62518359c5c676fbff387.jpg"
+  },
+  "pubdate": 1768999492,
+  "ctime": 1768999492,
+  "desc": "在 AI 知识库越来越火的今天，NotebookLM 这样的 AI 知识库工具可以大大提升我们的学习效率。 🎉\n但是，NotebookLM 目前只支持 Youtube 视频，面对 B 站海量的优质视频内容，却无法导入到 NotebookLM 中，这实在是太可惜了。\n\n于是，作为AI博主！我用 AI 开发了这款 SubBatch 浏览器插件，让你轻松将 B 站优质视频内容转化为个人知识宝库。\n\n支持批量处理个人主页、收藏夹、合集、视频选集，一键导出字幕，快速导入 NotebookLM，让 AI 知识库真正支持 B 站内容！\n\n浏览器插件名字：SubBatch - 字幕批量处理工具\n支持浏览器：Chrome、Edge\n\n求个关注和三连呀~ 铁子们！🥳\n感谢感谢！",
+  "pic": "http://i0.hdslb.com/bfs/archive/7a00d9bf91de7f8f41a5bec59e90b47e0893fedf.jpg",
+  "duration": 224,
+  "dimension": {
+    "width": 3840,
+    "height": 2160,
+    "rotate": 0
+  },
+  "pages": [
+    {
+      "cid": 35526348383,
+      "page": 1,
+      "from": "vupload",
+      "part": "为了把B站变成AI知识库，我手搓了个免费插件...【建议收藏】",
+      "duration": 224,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 3840,
+        "height": 2160,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002dkhmq9hu4tih2l6mmouvswrsnb_firsti.jpg",
+      "ctime": 1768999492
+    }
+  ],
+  "redirectUrl": "",
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 1,
+    "no_reprint": 1,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "stat": {
+    "aid": 115933129478304,
+    "view": 21761,
+    "danmaku": 80,
+    "reply": 352,
+    "favorite": 2495,
+    "coin": 1141,
+    "share": 228,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 1478,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "tags": [
+    "AI",
+    "字幕",
+    "人工智能",
+    "学习",
+    "AI知识库",
+    "NoteBookLM",
+    "ima",
+    "知识库",
+    "AI工具",
+    "AI IN ALL！"
+  ],
+  "url": "https://www.bilibili.com/video/BV1UEzEB8Eiu",
+  "fetchedAt": "2026-07-26T13:45:31.977Z",
+  "coverFile": "cover.jpg"
+}

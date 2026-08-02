@@ -1,0 +1,31 @@
+{
+  "bvid": "BV1rYNs6sEdR",
+  "fetchedAt": "2026-07-17T21:52:05.235Z",
+  "available": true,
+  "count": 1,
+  "rejectedCount": 0,
+  "pages": [
+    {
+      "page": 1,
+      "cid": 39901790481,
+      "title": "黑桐谷歌  人类为什么要玩游戏-001---------- (1)",
+      "subtitles": [
+        {
+          "id": "1607875537379052000",
+          "language": "ai-zh",
+          "languageName": "中文",
+          "type": 1,
+          "aiType": 0,
+          "url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1133656953357692645039557978016a1907b441042369bcee4df8fdbe?auth_key=1784325125-a799e7e5b81f400d80174d469f5cefdb-0-7c88c9fca60ce2ba9d9b692aacd5e4ef",
+          "json": "p01-ai-zh.json",
+          "lines": 598,
+          "subtitleDuration": 838.52,
+          "videoDuration": 2257,
+          "valid": true,
+          "srt": "p01-ai-zh.srt",
+          "text": "p01-ai-zh.txt"
+        }
+      ]
+    }
+  ]
+}

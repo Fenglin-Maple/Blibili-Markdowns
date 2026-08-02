@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1KA7p6HEC7",
+  "aid": 116821718014654,
+  "title": "【BiliNote】长视频不想慢慢看？我做了个工具，自动转录并生成学习笔记",
+  "owner": {
+    "mid": 28065777,
+    "name": "大柴的通识课堂",
+    "face": "https://i0.hdslb.com/bfs/face/9299f043d6fc3f3a46dd70bcd33324f6e1236a90.jpg"
+  },
+  "pubdate": 1782558174,
+  "ctime": 1782558174,
+  "desc": "项目地址：https://github.com/PrideWood/bilinote",
+  "pic": "http://i2.hdslb.com/bfs/archive/9a771c14c780aa961f7c2cbf47ccf3044632b0d2.jpg",
+  "duration": 852,
+  "dimension": {
+    "width": 1920,
+    "height": 1080,
+    "rotate": 0
+  },
+  "pages": [
+    {
+      "cid": 39453853400,
+      "page": 1,
+      "from": "vupload",
+      "part": "【BiliNote】长视频不想慢慢看？我做了个工具，自动转录并生成学习笔记",
+      "duration": 852,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000dd294kydqtg32369e598kaxg5b_firsti.jpg",
+      "ctime": 1782558174
+    }
+  ],
+  "redirectUrl": "",
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 1,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "stat": {
+    "aid": 116821718014654,
+    "view": 1747,
+    "danmaku": 0,
+    "reply": 15,
+    "favorite": 181,
+    "coin": 8,
+    "share": 12,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 47,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "tags": [
+    "学习",
+    "效率工具",
+    "音频转文字",
+    "VibeCoding"
+  ],
+  "url": "https://www.bilibili.com/video/BV1KA7p6HEC7",
+  "fetchedAt": "2026-07-17T22:12:54.443Z",
+  "coverFile": "cover.jpg"
+}

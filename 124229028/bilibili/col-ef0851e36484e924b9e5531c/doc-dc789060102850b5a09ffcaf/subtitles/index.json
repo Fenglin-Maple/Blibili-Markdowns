@@ -1,0 +1,31 @@
+{
+  "bvid": "BV1YnDMBBEPg",
+  "fetchedAt": "2026-07-17T21:54:46.494Z",
+  "available": false,
+  "count": 0,
+  "rejectedCount": 1,
+  "pages": [
+    {
+      "page": 1,
+      "cid": 37231988688,
+      "title": "bilinote安装技巧",
+      "subtitles": [
+        {
+          "id": "1610092957942337000",
+          "language": "ai-zh",
+          "languageName": "中文",
+          "type": 1,
+          "aiType": 0,
+          "url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/113383059752423264988299519abc6147dc42edc1a09306845e085a10?auth_key=1784325286-06eb82396fe84433abe9ca1c56404a26-0-ab8ef0d71f867ff21bea09f07f030cf0",
+          "json": "p01-ai-zh.json",
+          "lines": 75,
+          "subtitleDuration": 210.4,
+          "videoDuration": 101,
+          "valid": false,
+          "reason": "SUBTITLE_DURATION_MISMATCH",
+          "toleranceSeconds": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "videoUrl": "https://www.bilibili.com/video/BV1qY411c7K4",
+  "createdAt": "2026-07-29T12:32:31.465Z",
+  "outputs": {
+    "merged": "merged.mp4",
+    "audio": "audio/audio.wav",
+    "frames": "frames/",
+    "asr": "asr/",
+    "asrSrt": "asr/transcript.srt",
+    "asrTimedText": "asr/asr-transcript.txt",
+    "asrSegments": "asr/asr-result.json",
+    "asrHasTimestamps": true,
+    "info": "info.json",
+    "comments": "comments/comments.json"
+  },
+  "warnings": [
+    "subtitles: Tool process exited with code 1.\n[video-tool] Invalid URL"
+  ],
+  "completedAt": "2026-07-29T12:37:58.228Z"
+}
