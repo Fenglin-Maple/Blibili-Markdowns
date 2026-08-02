@@ -1,0 +1,1593 @@
+{
+  "model": "medium",
+  "source": "D:\\AIcode\\other\\bili-agent-orchestrator\\workspace\\枫林_Maples\\AI视频总结\\[BV-BV1qY411c7K4][标题-【中英字幕】齐泽克谈黑格尔，手把手教你辩证法 part1][UP-拉黑字幕组][发布日-20220509][收藏日-202607-f5343bd7\\audio\\audio.wav",
+  "language": "nl",
+  "languageProbability": 0.2451171875,
+  "requestedLanguage": "auto",
+  "duration": 3611.26025,
+  "device": "cuda",
+  "computeType": "float16",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.27,
+      "end": 4.33,
+      "text": "Long live comrade Stalin, no freedom for the enemies of freedom."
+    },
+    {
+      "id": 1,
+      "start": 31.46,
+      "end": 37.4,
+      "text": "The idea that the event is nothing but its own process, no?"
+    },
+    {
+      "id": 2,
+      "start": 37.78,
+      "end": 54.64,
+      "text": "No, he has a gap there. He always emphasizes that event is like a momentary flash and then you have the problem of fidelity. I don't think he would have accepted... Again, let me be"
+    },
+    {
+      "id": 3,
+      "start": 54.64,
+      "end": 67.4,
+      "text": "very clear. I'm here on his side. I share the same problems in an appropriately Hegelian way. I think that precisely these oscillations are very productive. I think a theory gets interesting"
+    },
+    {
+      "id": 4,
+      "start": 67.4,
+      "end": 81.62,
+      "text": "precisely when you are forced to be inconsistent and you know... I mean theories which just function smoothly are totally not interesting. The same is when we are talking about it"
+    },
+    {
+      "id": 5,
+      "start": 81.62,
+      "end": 96.98,
+      "text": "for example in cognitivism. I like intelligent cognitvists who admit, you know, there is a deadlock, a problem here, something happens and then... This is on what I focus in the middle"
+    },
+    {
+      "id": 6,
+      "start": 96.98,
+      "end": 112.12,
+      "text": "chapter of that part of that obscenity Parallax View on how all of them have to admit that in order for all this brain neuronal retraction to get to consciousness, a kind of magic"
+    },
+    {
+      "id": 7,
+      "start": 112.12,
+      "end": 125.9,
+      "text": "short circuit should happen when it appears as if the result effect causes its own cause. And it's interesting how totally different authors they all have recourse to the same metaphor."
+    },
+    {
+      "id": 8,
+      "start": 125.9,
+      "end": 145.8,
+      "text": "I think that's where Freud or Hegel should enter. And again, there are intelligent cognitivists who admit this deadlock because you maybe know the debate between so-called reductionist"
+    },
+    {
+      "id": 9,
+      "start": 145.8,
+      "end": 167.63,
+      "text": "and the great idealist guy is David Chalmers. Chalmers simply thinks that he has a point, but I don't take his point. His position is to put it very simply that there is a way... Of"
+    },
+    {
+      "id": 10,
+      "start": 167.63,
+      "end": 180.8,
+      "text": "course all conscious activities even the most complex ones of course you can somehow reduce them to neuronal processes and so on but his point is very nice. He says the problem is"
+    },
+    {
+      "id": 11,
+      "start": 180.8,
+      "end": 196.87,
+      "text": "not complexity. He rejects, and I totally agree with him here, the idea that we can have a stupid automatic mechanism as long as the tasks are relatively simple. That you need consciousness"
+    },
+    {
+      "id": 12,
+      "start": 196.87,
+      "end": 211.07,
+      "text": "with a certain amount of complexity. I don't think this. I think first, if anything, consciousness as every neurobiologist will tell you consciousness is an operator of simplification."
+    },
+    {
+      "id": 13,
+      "start": 211.61,
+      "end": 222.73,
+      "text": "Consciousness simplifies. And I think if there is a... My dogma is swing here and I don´t know if they were just flattering me but when I have a debate, I mean private debate not public,"
+    },
+    {
+      "id": 14,
+      "start": 222.97,
+      "end": 234.64,
+      "text": "with some neurologists I will be very modest, I don't want to go too much. They pretend that... I don´t know what they were talking after I left maybe that dirty good that we got rid"
+    },
+    {
+      "id": 15,
+      "start": 234.64,
+      "end": 242.14,
+      "text": "of him but at least face-to-face they pretended they were interested that there is something in it mainly in what?"
+    },
+    {
+      "id": 16,
+      "start": 243.59,
+      "end": 259.27,
+      "text": "I said that my two basic dogmas are A. That it's not complexity, it's quite the opposite, the simplification. This is what Badu meant, probably he explained it also to you during his"
+    },
+    {
+      "id": 17,
+      "start": 259.27,
+      "end": 275.02,
+      "text": "classes this crucial point what he calls of le point. You have a complex situation then at a certain point you should say a decision yes or no, this brutal reduction. And also for"
+    },
+    {
+      "id": 18,
+      "start": 275.02,
+      "end": 286.96,
+      "text": "example when you have a complexity situation the true work of intelligence is not this here me and Badu, that's our private joke like to make fun of, unfair a little bit, of Derrida"
+    },
+    {
+      "id": 19,
+      "start": 286.96,
+      "end": 299.12,
+      "text": "he said that Derridas basic dogma is always A but the situation is a little more complex it's not like this, it's more... Of course it´s complex but this is common sense stupidity"
+    },
+    {
+      "id": 20,
+      "start": 299.12,
+      "end": 313.16,
+      "text": "how should I put it The act of consciousness is precisely when you have a complex phenomenon and of course in real life everything is complex to isolate one feature, to say but it's"
+    },
+    {
+      "id": 21,
+      "start": 313.16,
+      "end": 326.61,
+      "text": "really about this So again consciousness is an operator of simplification all that complexity you're unconscious not even in the Freudian sense in the simple sense of you know what"
+    },
+    {
+      "id": 22,
+      "start": 326.61,
+      "end": 341.6,
+      "text": "goes... Non-conscious Yes can do And second thing and that's what interests some deep interest some brain scientist I spoke with My idea is that I based it on a very simple analogy"
+    },
+    {
+      "id": 23,
+      "start": 341.6,
+      "end": 357.6,
+      "text": "that consciousness is at its zero level it must have emerged as a consciousness of a failure in the simple sense you are for example writing You write it automatically It's totally"
+    },
+    {
+      "id": 24,
+      "start": 357.6,
+      "end": 370.06,
+      "text": "ingrained into your neuronal reflexes You don't think about it When do you become aware of it as such When something doesn't function At that point oh my god You notice things when"
+    },
+    {
+      "id": 25,
+      "start": 370.06,
+      "end": 383.12,
+      "text": "they don´t function And my idea was simply to generalize this radically What if consciousness as such is originally linked to some ultimate failure Maybe the Heideggerians would have"
+    },
+    {
+      "id": 26,
+      "start": 383.12,
+      "end": 399.1,
+      "text": "said death or some failure Non-functioning and so on So again I want to... Because you know why This is I think the only way to avoid One of the good argument of Those who... Of Chalmers"
+    },
+    {
+      "id": 27,
+      "start": 399.1,
+      "end": 413.69,
+      "text": "and those guys Who have a very good argument Against this people who try to prove that Consciousness can be reduced to neuronal processes What they prove is let's say They take a very"
+    },
+    {
+      "id": 28,
+      "start": 413.69,
+      "end": 427.57,
+      "text": "complex activity And then they prove it that You can account for this activity At the purely material level of neuronal interaction Whatever That you can reduce it But then a question"
+    },
+    {
+      "id": 29,
+      "start": 427.57,
+      "end": 441.43,
+      "text": "remains If you can't reduce it Why then consciousness at all You know what I mean The better you explain complex activities Through neuronal mechanism The more the enigma remains Why"
+    },
+    {
+      "id": 30,
+      "start": 441.43,
+      "end": 456.43,
+      "text": "do you need to be aware of it Why doesn't it simply function As a kind of complex computer What is the function of awareness And I don't think that They usually then even with Danet"
+    },
+    {
+      "id": 31,
+      "start": 456.43,
+      "end": 468.87,
+      "text": "Who might otherwise appreciate I don´t agree here He tends to play the card of complexity Like when things get complex At a certain level You simply need some kind of central agency"
+    },
+    {
+      "id": 32,
+      "start": 468.87,
+      "end": 482.22,
+      "text": "Who introduces order blah blah blah I don't think that works Here again I have a limited sympathy with How is the guy called With Chalmers who says You know his big argument That the"
+    },
+    {
+      "id": 33,
+      "start": 482.22,
+      "end": 498.2,
+      "text": "problem is not complexity The problem is this How do they call it The heart problem Raw fact of awareness Why awareness In what sense does it help Our survival adaptation To be aware"
+    },
+    {
+      "id": 34,
+      "start": 498.2,
+      "end": 514.04,
+      "text": "of something Why cannot our It's easy to say Let me take an example You can say I walk around I become aware of I will be evil towards you It's my nature Don't take it personally I"
+    },
+    {
+      "id": 35,
+      "start": 514.04,
+      "end": 524.9,
+      "text": "like that Scorpio Who bites the frog In the middle of the stream Even if he will die for it Let´s say I walk on Saspe I see one of you My reaction is Let's take a tour So that you"
+    },
+    {
+      "id": 36,
+      "start": 524.9,
+      "end": 539.42,
+      "text": "don't ask Me some stupid questions Sorry It's my nature What I want to say is that Now you will say clearly My awareness functions As a survival mechanism and so on How it helps me"
+    },
+    {
+      "id": 37,
+      "start": 539.42,
+      "end": 552.1,
+      "text": "survive But then I can say But still It's not clear Why should I be aware of it Why can't we do it As a simple blind mechanism Which perceives the danger And gives the signal You know"
+    },
+    {
+      "id": 38,
+      "start": 552.1,
+      "end": 566.8,
+      "text": "what I mean The raw fact of awareness Is an enigma And I don't agree again With Chalmers conclusion Where as you probably know His idea is simply that To the Thor I think this is the"
+    },
+    {
+      "id": 39,
+      "start": 566.8,
+      "end": 584.88,
+      "text": "weak Strong atomic force Gravity whatever Magnetic force That the only solution Is to a kind of It's ironic how As a big idealist He ends up in a way In a strange mixture Of idealism"
+    },
+    {
+      "id": 40,
+      "start": 585.64,
+      "end": 601.16,
+      "text": "With the most vulgar materialism He says that The only way is to grasp awareness As simply another fundamental Natural force It's literally You know quintessence You know what quintessences"
+    },
+    {
+      "id": 41,
+      "start": 601.16,
+      "end": 613.22,
+      "text": "means The fifth essence So that on the top of You know the Thor ones The weak strong atomic force And what magnetic and What the other sheet Gravity or what No To this Thor We should"
+    },
+    {
+      "id": 42,
+      "start": 613.22,
+      "end": 627.42,
+      "text": "simply add Another fundamental force But I think This is precisely The false issue He He simply I mean You mean the standard The standard theory of physics Yeah Forces Thor There are"
+    },
+    {
+      "id": 43,
+      "start": 627.42,
+      "end": 639.18,
+      "text": "Thor And now we all know The story I mean superficially The big problem Is how to unite them And all that And so on And here interesting Things happen You know this Oscillation about"
+    },
+    {
+      "id": 44,
+      "start": 639.18,
+      "end": 653.84,
+      "text": "String theory First it was winning Then it was losing Then some 10 years ago It was winning But now this is the Stock market tendency In quantum physics Now it's losing again And it's"
+    },
+    {
+      "id": 45,
+      "start": 653.84,
+      "end": 667.19,
+      "text": "very interesting What's the latest Tendency I was told You know There is a wonderful term Called How should I call it Ptholomization You know Ptholemaeus His was Geocentric system"
+    },
+    {
+      "id": 46,
+      "start": 667.19,
+      "end": 671.45,
+      "text": "And then there were New and new data Which didn't fit"
+    },
+    {
+      "id": 47,
+      "start": 673.45,
+      "end": 690.09,
+      "text": "To maintain His model He had to introduce More and more complex Supplementary hypothesis So the idea is that Yes We have a problem But that String theory Is not too radical But not"
+    },
+    {
+      "id": 48,
+      "start": 690.09,
+      "end": 703.32,
+      "text": "radical Enough It's still Ptholomization It's not yet Copernicus Ptholemization Which is why They need all this shit You know Ten dimensions And the tragedies That It's not only That"
+    },
+    {
+      "id": 49,
+      "start": 703.32,
+      "end": 717.8,
+      "text": "we cannot measure them They even didn't devise A possible experiment Of how to Measure and so on So I like this speculation The idea is that We will have to wait For a much more Radical"
+    },
+    {
+      "id": 50,
+      "start": 720.07,
+      "end": 734.33,
+      "text": "Much more radical Revolution And the hypothesis Is that One or two Either time or space Will have to go Probably time That is to say That One of these Very elementary Constituents"
+    },
+    {
+      "id": 51,
+      "start": 734.33,
+      "end": 744.79,
+      "text": "Of reality Will have to be Erex Now finally To get back To your fundamental theory About a failure That accounts for At least the question Of white consciousness This reminds me Of"
+    },
+    {
+      "id": 52,
+      "start": 744.79,
+      "end": 746.75,
+      "text": "Julian James You know Who is this?"
+    },
+    {
+      "id": 53,
+      "start": 747.09,
+      "end": 759.65,
+      "text": "Julian James The origin of Consciousness And the breakdown Of the bicameral mind Yeah Yeah The research On mirror neurons Is a kind of Fundamental breakdown And because the brain Needs"
+    },
+    {
+      "id": 54,
+      "start": 759.65,
+      "end": 769.15,
+      "text": "to talk to itself Yeah Neuro-physiologically even This is what creates Consciousness It's kind of like A materialism But not exactly Do you know about that?"
+    },
+    {
+      "id": 55,
+      "start": 769.29,
+      "end": 778.05,
+      "text": "No, no, no I only know Is he That I know this idea Is he the guy Who claimed That for example"
+    },
+    {
+      "id": 56,
+      "start": 779.82,
+      "end": 792.52,
+      "text": "Prior to ancient Greece people Simply were still Yes Bicameral In the sense that They For them Simply For example What they experienced The sacred and so on Consciousness It was simply"
+    },
+    {
+      "id": 57,
+      "start": 793.2,
+      "end": 805.4,
+      "text": "Another power Yes So culture becomes A stitching together Conscious Not spontaneous You know what's Only my problem here I am afraid Of a temptation Here Temptation In the sense that"
+    },
+    {
+      "id": 58,
+      "start": 805.4,
+      "end": 815.82,
+      "text": "You know These theories Are so attractive That we Blacking Philosophers Are easily seduced And oh my god Then you link This to Hegel Oh I am I don't know if you have This expression"
+    },
+    {
+      "id": 59,
+      "start": 815.82,
+      "end": 828.94,
+      "text": "If you are too pretentious We in Slovenia We have this Back to obscenity We have This expression You think you are Coding God by his balls So I just I like the theory I'm just simply"
+    },
+    {
+      "id": 60,
+      "start": 828.94,
+      "end": 842.81,
+      "text": "skeptical In the sense of How tested it is Scientifically I know that Wonderful things Catherine Malabou That Hegelian Brain scientist Convinced me That wonderful Things Are going"
+    },
+    {
+      "id": 61,
+      "start": 842.81,
+      "end": 857.14,
+      "text": "on now Brain scientist On the top quality Especially about this We all know This so called Plasticity of mind No Neuroplasticity Yeah Not only this Vulgar plasticity In the sense of"
+    },
+    {
+      "id": 62,
+      "start": 857.14,
+      "end": 871.23,
+      "text": "Transfunctioning And so on But other stuff Which makes it very easy And nice for Hegelian like her to So if you want A good book On Hegel Again Look at It's published by Princeton"
+    },
+    {
+      "id": 63,
+      "start": 871.23,
+      "end": 875.69,
+      "text": "University Press Okay The title is The Future of Hegel What's the name again?"
+    },
+    {
+      "id": 64,
+      "start": 875.93,
+      "end": 889.07,
+      "text": "Malabou M-A-L-A B-O-U Catherine Malabout It's translated in English What's also very good Is that it has A long introduction Which was originally In French A review of the book A long"
+    },
+    {
+      "id": 65,
+      "start": 889.07,
+      "end": 903.8,
+      "text": "Introduction by Derrida Which is a wonderful Text You can see that You cannot Oppose in this Simplistic way Derridas versus Hegel Hegel Total metaphysics Everything is Followed by"
+    },
+    {
+      "id": 66,
+      "start": 903.8,
+      "end": 920.04,
+      "text": "the By the idea Derrida knows Something remains And so on Derridas is almost She almost Reconverted Derrids to Hegel Because Derridas was If you read Closely Was all the time Much"
+    },
+    {
+      "id": 67,
+      "start": 920.04,
+      "end": 939.0,
+      "text": "more ambiguous Towards Hegel For example A standard Deconstructionist Would tell you The basic mechanism Hegelian of Is Aufhebung You took something And you Elevate it Internalize"
+    },
+    {
+      "id": 68,
+      "start": 939.0,
+      "end": 953.6,
+      "text": "it Through idealization But then It appears that The basic motive Of deconstructionist But this Sublation In the reduction Of the otherness Through mediation Internalization Never"
+    },
+    {
+      "id": 69,
+      "start": 953.6,
+      "end": 968.4,
+      "text": "fully functions There is always Remainder And so on So it appears As if The final Sorry The ultimate push Topic Of Derrida Is precisely Undecided Hegel But no Already Somewhere in"
+    },
+    {
+      "id": 70,
+      "start": 968.4,
+      "end": 981.28,
+      "text": "his Early works I don't know where Forgot Derrida says that Sublation What Hegel calls Aufhebung Is so close to Difference That the line Is almost Imperceptible Sometimes So again"
+    },
+    {
+      "id": 71,
+      "start": 981.28,
+      "end": 996.56,
+      "text": "Derridas Always emphasize That he even Says sometimes That maybe Hegel is Not the ultimate Idealist But on the contrary The point Where metaphysics Comes The closest To deconstruction"
+    },
+    {
+      "id": 72,
+      "start": 997.18,
+      "end": 1011.37,
+      "text": "No no no Okay but Listen We get lost here Let me do some work Hegel today And maybe A little bit tomorrow And some ethics Okay So I want to Begin with"
+    },
+    {
+      "id": 73,
+      "start": 1012.62,
+      "end": 1025.51,
+      "text": "Again The basic Difference Between This kind of Organic Evolution And what Hegel means By a Dialectical Process Organic"
+    },
+    {
+      "id": 74,
+      "start": 1027.57,
+      "end": 1042.63,
+      "text": "It is very simply A self Deployment Of a Global Universal Principle At all levels At the individual Level You have an organism Of course Everything changes Your stuff changes You are"
+    },
+    {
+      "id": 75,
+      "start": 1042.63,
+      "end": 1058.1,
+      "text": "in contact But through All these Gradual changes The organism Survives This You know Like you have a certain We cannot say Universality But encompassing Entity The one How The Organic"
+    },
+    {
+      "id": 76,
+      "start": 1058.1,
+      "end": 1074.32,
+      "text": "Process Is how The one Survives Through The Continuous Generation Corruption And so on Things change All the time So that they remain The same And even if we move From individual Level"
+    },
+    {
+      "id": 77,
+      "start": 1074.32,
+      "end": 1090.12,
+      "text": "To the higher Level Of a species You can say It is the same It is that Individuals die Are born Struggle But through Precisely Through this very Constant Dynamic Process The species"
+    },
+    {
+      "id": 78,
+      "start": 1090.12,
+      "end": 1098.62,
+      "text": "Remains The same Sustains itself And this is what People usually Understand By dialectics How?"
+    },
+    {
+      "id": 79,
+      "start": 1099.14,
+      "end": 1113.84,
+      "text": "You don't have On the one hand This stability Of some Universal principle And then The irrelevant Empirical movement But that An idea Is alive Precisely When it Maintains Itself Through"
+    },
+    {
+      "id": 80,
+      "start": 1114.42,
+      "end": 1132.08,
+      "text": "It's Dynamic But for Hegel This precisely Is the limit Of nature Let's put it In this way In this OK Now you will say But also in nature A species Can vanish Yes But then It is simple"
+    },
+    {
+      "id": 81,
+      "start": 1132.08,
+      "end": 1145.3,
+      "text": "External negation Hegel would have said It is not An imminent Negation Like I reproduce Myself Then a stronger Animal comes Hits me up Or an After It hits me I die OK But this is Hegel"
+    },
+    {
+      "id": 82,
+      "start": 1145.3,
+      "end": 1152.44,
+      "text": "would have put it Totally external Contingency It can happen Of course But it's Irrelevant"
+    },
+    {
+      "id": 83,
+      "start": 1153.98,
+      "end": 1163.63,
+      "text": "The principle Again Of life Is that The universality Or The one Remains By itself"
+    },
+    {
+      "id": 84,
+      "start": 1164.94,
+      "end": 1178.84,
+      "text": "Through the other You interact With the other And it is This very Interaction Which sustains You as The one And of course This sounds very dialectical Like Oh my god You see how It's"
+    },
+    {
+      "id": 85,
+      "start": 1178.84,
+      "end": 1194.36,
+      "text": "the very change Which Allows me To remain The same The moment I no longer Change I die I'm not even The same And so on and so on But this is not What Hegel Is about Why not For Hegel"
+    },
+    {
+      "id": 86,
+      "start": 1194.36,
+      "end": 1212.36,
+      "text": "There is Something quite different Which goes on With what he calls Spirit It is Imagine it like This If Oh my god I think this What is this Anyone No Why not I mean really Something"
+    },
+    {
+      "id": 87,
+      "start": 1212.36,
+      "end": 1217.22,
+      "text": "dirty Like Wolfgang Fuck off And so on You will not be able To"
+    },
+    {
+      "id": 88,
+      "start": 1218.62,
+      "end": 1230.74,
+      "text": "I like Wolfgang But he pretends To be Liberal You know He always accuses me You are a Proposthalinist But then Did you notice How From time to time You know He is from East Germany"
+    },
+    {
+      "id": 89,
+      "start": 1230.74,
+      "end": 1235.39,
+      "text": "No He denies it now But the Stalinist"
+    },
+    {
+      "id": 90,
+      "start": 1237.45,
+      "end": 1250.29,
+      "text": "How you call it Discipline Blah blah How Then All of a sudden When you talk All of the sudden You get A trace Of this harshness Like yesterday Did you Notice how When we were talking"
+    },
+    {
+      "id": 91,
+      "start": 1250.29,
+      "end": 1263.47,
+      "text": "About Adorno Habermas And he said Yes Habermus And traitor This is very hard To say This is this brutal Traitor You know Like All this Wolfgang You know This"
+    },
+    {
+      "id": 92,
+      "start": 1265.31,
+      "end": 1270.83,
+      "text": "And so on I loved it I told Wolfgang He needs More of that"
+    },
+    {
+      "id": 93,
+      "start": 1272.05,
+      "end": 1291.55,
+      "text": "Okay So again Here we have The one Or the same Life is this How And here we have Continuous changes Life is This How The one Maintains Inself Through The very process Of changes Again"
+    },
+    {
+      "id": 94,
+      "start": 1291.55,
+      "end": 1299.01,
+      "text": "As I told you At individual level You You have to change To interact Precisely To remain The same"
+    },
+    {
+      "id": 95,
+      "start": 1300.26,
+      "end": 1315.46,
+      "text": "And again People usually think This is dialectics You see how Sameness and unity Are connected The only way To remain The same Is to change Blah blah blah With Hitler Something different"
+    },
+    {
+      "id": 96,
+      "start": 1315.46,
+      "end": 1331.4,
+      "text": "Happens Let's say We start With one We have a process But then As I developed yesterday You remember When I said How an idea In its realization Undermines itself We set one An idea"
+    },
+    {
+      "id": 97,
+      "start": 1331.4,
+      "end": 1349.42,
+      "text": "I want to be this Then I realize myself In particular Life And The idea Itself Desolves And another Element As it were Takes over The change Is at this level For Hegel The change The"
+    },
+    {
+      "id": 98,
+      "start": 1349.42,
+      "end": 1364.58,
+      "text": "universal itself It's not just It's Not just The medium Which remains The same The changes are At this level So that We People usually say But it all Remains With Hegel Within the"
+    },
+    {
+      "id": 99,
+      "start": 1364.58,
+      "end": 1376.86,
+      "text": "same totality The subject Externalizes Itself Then it swallows Back The otherness And so on Yes The idea Comes back to itself But to put it In vulgar terms It's no longer The same"
+    },
+    {
+      "id": 100,
+      "start": 1376.86,
+      "end": 1377.36,
+      "text": "idea"
+    },
+    {
+      "id": 101,
+      "start": 1378.67,
+      "end": 1391.02,
+      "text": "The idea This Disappears And through the process Another idea Comes out Which Idea This was previously Just a moment here What we mean by this For example Take"
+    },
+    {
+      "id": 102,
+      "start": 1392.36,
+      "end": 1409.55,
+      "text": "Marx Puts this In wonderfully Simple terms Take The relationship of Money and Capital First Money is the Encompassing No Even At the zero level What runs the process Are simply Commodities"
+    },
+    {
+      "id": 103,
+      "start": 1409.55,
+      "end": 1423.53,
+      "text": "Commodity is The master You produce something That you want To exchange And money Is just A subordinate Moment No In the sense of I don't know I produce something You produce Something"
+    },
+    {
+      "id": 104,
+      "start": 1423.53,
+      "end": 1436.55,
+      "text": "We Exchange it But then It gets too complex What if You have something That I want And we need The mediator Money Blah, blah So it's money Here At the elementary level Money still"
+    },
+    {
+      "id": 105,
+      "start": 1436.55,
+      "end": 1454.38,
+      "text": "appears To be a Subordinate Moment Then A Medium of Exchange Then Something happens With Capital It is that Money Which was previously A subordinate Moment Becomes The subject Of the"
+    },
+    {
+      "id": 106,
+      "start": 1454.38,
+      "end": 1469.58,
+      "text": "process It's no longer Commodity Money Commodity It's no longer That You know This again As Marx put it In a simple Pre-capitalist Exchange The movement is Commodty Money Commoditty"
+    },
+    {
+      "id": 107,
+      "start": 1469.58,
+      "end": 1474.22,
+      "text": "I sell something In order to buy Another thing With capital"
+    },
+    {
+      "id": 108,
+      "start": 1476.04,
+      "end": 1479.11,
+      "text": "Money Which was just A subordinate Mediator"
+    },
+    {
+      "id": 109,
+      "start": 1480.49,
+      "end": 1495.4,
+      "text": "Becomes The subject So that It is What encompasses The process The true subject Of the process Becomes What was Previously Just a subordinate Moment Was Money itself The same goes"
+    },
+    {
+      "id": 110,
+      "start": 1495.4,
+      "end": 1511.8,
+      "text": "for Marx For production Marx put this In wonderful terms When he says that From the individual Standpoint of The producer You produce To satisfy Your needs But From the global Standpoint"
+    },
+    {
+      "id": 111,
+      "start": 1512.41,
+      "end": 1523.35,
+      "text": "Needs are Generated In order to keep The production running That The true goal Of the historical process Is not to satisfy Your need But is the Development of production Itself And"
+    },
+    {
+      "id": 112,
+      "start": 1523.35,
+      "end": 1539.59,
+      "text": "so on So Is that Say's law Say's Law It's called Say's Law and economics How do you call it Say's Law What does it mean What does It say The need generates The production"
+    },
+    {
+      "id": 113,
+      "start": 1541.06,
+      "end": 1544.74,
+      "text": "Generates The need You produce The goods The need"
+    },
+    {
+      "id": 114,
+      "start": 1546.84,
+      "end": 1560.56,
+      "text": "Yeah I didn't even know That it's called Say's Law Because I mean It's already For example The I mean Marx said This already In the different The production Even The early Marx Who"
+    },
+    {
+      "id": 115,
+      "start": 1560.56,
+      "end": 1575.04,
+      "text": "might Intensify The humanist Marx and so on That reverses The usual Capitalist Or a finite Need Building Yeah Yes The goods Who cares And then eventually The need To just Yeah You"
+    },
+    {
+      "id": 116,
+      "start": 1575.04,
+      "end": 1590.0,
+      "text": "could say that But Okay Sorry It sounds like Lewis Mumford's ideas On technological Determinism That the Way of doing Something Becomes The reason For doing Something Yeah Yeah Okay"
+    },
+    {
+      "id": 117,
+      "start": 1590.0,
+      "end": 1603.54,
+      "text": "But let's not Lose Right now I agree But these are all Examples You see how And this is what Hegel wrote The process Is a process Of something A subject What happens for Hegel In spiritual"
+    },
+    {
+      "id": 118,
+      "start": 1604.1,
+      "end": 1618.8,
+      "text": "Properly Dialectics Is that It's not only That the same Reproduces Itself Through Changes Is that The very Encompassing Unity As it were Of a process Changes What You know Something"
+    },
+    {
+      "id": 119,
+      "start": 1618.8,
+      "end": 1635.2,
+      "text": "Which was Previously A subordinated moment Becomes The totalizing Moment So what happens In history It's not that A totality Differentiates Itself No That A historical process Is rather"
+    },
+    {
+      "id": 120,
+      "start": 1635.2,
+      "end": 1651.66,
+      "text": "A constant Process Of real Totalization What changes It's Not that You have Let us say Let's take State Again You don't have A concept Of state Which then Realizes itself In different"
+    },
+    {
+      "id": 121,
+      "start": 1651.66,
+      "end": 1667.32,
+      "text": "Forms What is For Hegel At stake In historical changes Is that The very General notion Of what Is at What a state Means Changes The struggles At the level Of universality Let me give"
+    },
+    {
+      "id": 122,
+      "start": 1667.32,
+      "end": 1682.16,
+      "text": "you An example It's a simple one But I'm not Let's make something clear With all my So that You will not Misunderstand me When I say Let's take A simple example The idiot I'm addressing"
+    },
+    {
+      "id": 123,
+      "start": 1682.16,
+      "end": 1696.1,
+      "text": "Here It's me Not you That is to say I am always Obsessed precisely Because I'm dealing With theorists Who are usually Considered Difficult To read Even for some people Bluffing Like"
+    },
+    {
+      "id": 124,
+      "start": 1696.1,
+      "end": 1710.7,
+      "text": "Lacan, Hegel I'm obsessed With this idea If you can't Put it clearly Don't Laugh about it And so on So I think that Again We are back At what consciousness is And so one You know The"
+    },
+    {
+      "id": 125,
+      "start": 1710.7,
+      "end": 1723.8,
+      "text": "great art Is not to play This complexly The great Art Is And here This is Hegel's Strength often To provide a simple Formula Or image And then All of a sudden Oh my god You say Now"
+    },
+    {
+      "id": 126,
+      "start": 1723.8,
+      "end": 1732.82,
+      "text": "I see Which is why I will later Come to a joke Which I think Is the ultimate Hegelian joke Probably you know it But let's go Back to it Let's take I think I mentioned this In one of"
+    },
+    {
+      "id": 127,
+      "start": 1732.82,
+      "end": 1744.5,
+      "text": "my books Let's Take the history Of philosophy You cannot say This is what I mean And Hegel means With either Concrete universality Or this Change At the very level"
+    },
+    {
+      "id": 128,
+      "start": 1747.44,
+      "end": 1762.05,
+      "text": "Of universality Or historicity Program When you read An introduction To philosophy You usually get It's a very simple Point Again that I will be making You usually get Some kind of"
+    },
+    {
+      "id": 129,
+      "start": 1762.05,
+      "end": 1775.37,
+      "text": "Quality Some kind Of general Classification It can be Of philosophical Disciplines Or it can Be of different Orientations You can say What would be the Usuality to say If we That we"
+    },
+    {
+      "id": 130,
+      "start": 1775.37,
+      "end": 1791.21,
+      "text": "have today Three, four Main tendencies In philosophy We have Different modes Of analytic Philosophy More traditional Philosophy Of science Analysis Or now more Cognitivism Brain sciences"
+    },
+    {
+      "id": 131,
+      "start": 1791.21,
+      "end": 1803.35,
+      "text": "We have Phenomenology We have Deconstructionism We have Versions Of German Idealism So you simply Differentiate But you know Where I challenge you This would be The Hegelian challenge"
+    },
+    {
+      "id": 132,
+      "start": 1803.35,
+      "end": 1821.3,
+      "text": "If you look At it closely You will see that No such Mapping is neutral Every such Mapping Presupposes Already a certain Philosophical There is no Metalanguage It is clear That For"
+    },
+    {
+      "id": 133,
+      "start": 1821.3,
+      "end": 1822.04,
+      "text": "example"
+    },
+    {
+      "id": 134,
+      "start": 1823.37,
+      "end": 1838.63,
+      "text": "Usually Such a distinction Of philosophy Either has An analytical Bias Where the story Is And they can be Very arrogant Today The story Is that Only with Contemporary Analytical Philosophy"
+    },
+    {
+      "id": 135,
+      "start": 1838.63,
+      "end": 1843.39,
+      "text": "Post-classical Not that Logical Empiricism But this Contemporarily"
+    },
+    {
+      "id": 136,
+      "start": 1844.71,
+      "end": 1859.17,
+      "text": "Philosophy Simply became Another Positive knowledge Science So that The gap is Continental Philosophy Is poetry It can have Interesting Metaphoric Insights But A Hegelian Would have"
+    },
+    {
+      "id": 137,
+      "start": 1859.17,
+      "end": 1872.93,
+      "text": "put A totally different Accent That Analytical Philosophy Is not A proper Philosophy At all It's basically Just some kind Of positive Description That the task Of philosophy Is to"
+    },
+    {
+      "id": 138,
+      "start": 1872.93,
+      "end": 1889.69,
+      "text": "Think To reflect on I simplify it What Heidegger calls A right mis-event Or Liftung In the sense of Opening Clearing The way The meaning Of being Being is disclosed To us It's kind"
+    },
+    {
+      "id": 139,
+      "start": 1889.69,
+      "end": 1902.71,
+      "text": "of a Ultra-transcendental Reflection of What historically For us today Means Something really Exists Being And so on So for Kim That's not So what I'm telling you Is that There is"
+    },
+    {
+      "id": 140,
+      "start": 1902.71,
+      "end": 1905.67,
+      "text": "no neutral Classification That"
+    },
+    {
+      "id": 141,
+      "start": 1907.01,
+      "end": 1925.15,
+      "text": "Each Philosophical orientation Is not only Itself But it's Itself And a certain View On the totality And The point is That You cannot step On your own Shoulder And give A neutral Classification"
+    },
+    {
+      "id": 142,
+      "start": 1925.15,
+      "end": 1937.19,
+      "text": "Every classification Each The totality Of philosophy Appears to you Differently If you are an analytical Philosopher If you're a Deconstructionist If you Are a deconstructionist The"
+    },
+    {
+      "id": 143,
+      "start": 1937.19,
+      "end": 1950.6,
+      "text": "big divide Will be Between You know this constant Attempt How to overcome Metaphysics Their story is There is a certain Metaphysic Reclosure And then The measure is How much Did you"
+    },
+    {
+      "id": 144,
+      "start": 1950.6,
+      "end": 1964.22,
+      "text": "Break through To some Others here Which is why And here But you Once wonderfully Annoyed Wolfgang Where Wolfgang was attacking In one debate Years ago At this stupid Evening talks"
+    },
+    {
+      "id": 145,
+      "start": 1964.22,
+      "end": 1979.3,
+      "text": "Me and Alain as Being too Dualistic You know You still think In old Metaphysical Category This that You are But he says No Today We live in a Different era We are entering Different"
+    },
+    {
+      "id": 146,
+      "start": 1979.3,
+      "end": 1990.86,
+      "text": "domain Post-metaphysical Blah, blah And then of course But you In a very nasty way Said So your dualism is Dualism and non-dualism Is a self-referential Dualism Which is even A strong"
+    },
+    {
+      "id": 147,
+      "start": 1990.86,
+      "end": 2006.33,
+      "text": "Even a stronger one No Also I remember That this was A nice story It was so Idiot She was so mad Although I am friendly With her Abigail Ronell Gave a talk Some maybe Some of you were"
+    },
+    {
+      "id": 148,
+      "start": 2006.33,
+      "end": 2021.67,
+      "text": "there Some four years ago I think Work On Wagner And Nietzsche And her point Was that The greatness of Nietzche was to Find the strength To betray Wagner His master teacher And then"
+    },
+    {
+      "id": 149,
+      "start": 2021.67,
+      "end": 2041.38,
+      "text": "she went Into all this poetry Of how The creative Moment Of thinking Is The betrayal Of the master No And then With one Bitchy remark But you Ruined The show You just asked her Okay"
+    },
+    {
+      "id": 150,
+      "start": 2041.38,
+      "end": 2054.1,
+      "text": "Where is your betrayal Of Derrida And then it was Incredible How this simple Remark There was also the other How is he called Another deconstructionist Follower of Derrid I forgot"
+    },
+    {
+      "id": 151,
+      "start": 2054.1,
+      "end": 2069.06,
+      "text": "his name The German guy Who was there And Abigail's Answer Was to Immediate Result To what But you would have Called Paraconsistent logic Yes It's not really Always There are exceptions"
+    },
+    {
+      "id": 152,
+      "start": 2074.46,
+      "end": 2087.4,
+      "text": "How is it called Something The deconstructionist Did a very Desperate move He said Derrida Doesn't need this Because He's so creative That he is all the time Already betraying Himself"
+    },
+    {
+      "id": 153,
+      "start": 2087.4,
+      "end": 2101.02,
+      "text": "And so on No It was quite funny To know how they Okay It's a nice Behalian moment But let me go on So philosophy back You see At a very simple point The wager of Hegel's notion Of"
+    },
+    {
+      "id": 154,
+      "start": 2101.02,
+      "end": 2115.47,
+      "text": "historicity Or concrete Or universality It's not that There is no Universality There is Universality But that The life Is in Universality Itself We are at the level of And this is"
+    },
+    {
+      "id": 155,
+      "start": 2115.47,
+      "end": 2130.13,
+      "text": "history History is History of Universalities History means Precisely There is No metalanguage In the sense Of There is No You cannot step out Of you On your shoulder And see Globally"
+    },
+    {
+      "id": 156,
+      "start": 2130.13,
+      "end": 2145.08,
+      "text": "How things are Every All-encompassing View On history Is already part of History For example Even in politics You remember If you are not Too young That Now I'll beat you But it's"
+    },
+    {
+      "id": 157,
+      "start": 2145.08,
+      "end": 2157.14,
+      "text": "unfortunately That You remember That once upon a time In politics There was something Called left and right Maybe you Remember Those old times You know what Here you have this What"
+    },
+    {
+      "id": 158,
+      "start": 2157.14,
+      "end": 2161.5,
+      "text": "I'm talking about At its purest Left and right Yes But"
+    },
+    {
+      "id": 159,
+      "start": 2163.27,
+      "end": 2176.22,
+      "text": "You cannot give I challenge you to give A neutral description Of the social Political space Where You will say What is left What is right If you look closely You will see that Every"
+    },
+    {
+      "id": 160,
+      "start": 2176.22,
+      "end": 2189.94,
+      "text": "description Of what is left And what is right Is already Either left Or right Is description Because Left and right Are not just Two political positions Within a political space The"
+    },
+    {
+      "id": 161,
+      "start": 2189.94,
+      "end": 2192.9,
+      "text": "totality of The space Appears to you"
+    },
+    {
+      "id": 162,
+      "start": 2194.18,
+      "end": 2206.72,
+      "text": "Differently If you are A right winger Or a left winger To put it In very simplistic terms Not always But fundamentally The basic rightist motive Is that of Organic stability First"
+    },
+    {
+      "id": 163,
+      "start": 2206.72,
+      "end": 2220.32,
+      "text": "A true right wanger Doesn't say I'm a right wenger He likes to They like to Distinguish The organic center And the extreme And the extremes For them It would be This Organic Stable"
+    },
+    {
+      "id": 164,
+      "start": 2220.32,
+      "end": 2237.84,
+      "text": "Center And the extreme Excesses For The left finger Is the opposite It's that The fundamental fact Is struggle As such So You see my point This is what Hegel means By historicity Proper"
+    },
+    {
+      "id": 165,
+      "start": 2237.84,
+      "end": 2255.3,
+      "text": "That Again It's not only That universal idea Then articulates itself That for example Philosophy Subdivides Into this That philosophy And so on Each Particularity As it were Has its"
+    },
+    {
+      "id": 166,
+      "start": 2255.3,
+      "end": 2271.1,
+      "text": "own Universality The only way To define What is philosophy Is to go Through all forms Of philosophy Not because of A simple Evolutionism That the Philosophy develops But again Because"
+    },
+    {
+      "id": 167,
+      "start": 2271.1,
+      "end": 2279.55,
+      "text": "there is No neutral Universal notion Of philosophy You know The movement Is at the level Of universality Itself"
+    },
+    {
+      "id": 168,
+      "start": 2280.86,
+      "end": 2298.88,
+      "text": "That would have been To put it in Very simple point And which is right In politics For Hegel The historical moment Proper Occurs In this In the moments When a certain Historical form"
+    },
+    {
+      "id": 169,
+      "start": 2298.88,
+      "end": 2313.49,
+      "text": "Is threatened And then A new Form arises And Hegel Is very clearly Here This is the role Of so called Great historical Personalities Heroes Who are At the same time Criminals Criminales"
+    },
+    {
+      "id": 170,
+      "start": 2313.49,
+      "end": 2331.95,
+      "text": "In the sense of Outside The law The way Hegel is Usually Is that Yes You as a hero Follow your Arrogant Instincts Like of course Caesar wanted power But You are Following the line"
+    },
+    {
+      "id": 171,
+      "start": 2331.95,
+      "end": 2345.67,
+      "text": "Of what Hegel calls Coming of Reason You are an Unconscious tool Of a historical Reason You think You are following Your narrow Motives Epotism And so on But in reality You just"
+    },
+    {
+      "id": 172,
+      "start": 2347.01,
+      "end": 2362.18,
+      "text": "You are just An instrument Of the higher Rationality Reasoning History And so one And so On I don't think It works As such It works like this In Hegel I think we should here Take into"
+    },
+    {
+      "id": 173,
+      "start": 2362.18,
+      "end": 2377.32,
+      "text": "account What I already Said And rather See The process As much more Open When a certain Historical forum Is falling Apart There is a moment Of genuine Contingency And then The hero"
+    },
+    {
+      "id": 174,
+      "start": 2377.88,
+      "end": 2390.48,
+      "text": "Does something And if he Is lucky You just Here following What in his wonderful Text You should read him He's not an idiot The guy who died The British philosopher Bernard Williams"
+    },
+    {
+      "id": 175,
+      "start": 2390.48,
+      "end": 2400.06,
+      "text": "You know what He calls Moral luck This is a deeply Hegelian idea The idea that That even in Morality"
+    },
+    {
+      "id": 176,
+      "start": 2401.36,
+      "end": 2415.02,
+      "text": "You cannot In advance Measure the ethical Status of an act By the purity Of intention Whatever That it depends on The very Ethical status Of an act Depends on how It turns And so on"
+    },
+    {
+      "id": 177,
+      "start": 2415.02,
+      "end": 2427.94,
+      "text": "and so on So again Hegel's idea Is rather that Something Which is Contingency May Through a Repetition Then establish itself As necessity The example here Would have been Precisely"
+    },
+    {
+      "id": 178,
+      "start": 2427.94,
+      "end": 2443.84,
+      "text": "Caesar You know Hegel uses This nice Paradox That Caesar is At the same time The name of an individual And then it became A title That's for Hegel The function Of repetition First"
+    },
+    {
+      "id": 179,
+      "start": 2443.84,
+      "end": 2459.0,
+      "text": "you do it You fail But you return As universality In order for a thing To assert itself As necessity It has to Repeat itself True Again First you have A person Caesar Then it's repeated"
+    },
+    {
+      "id": 180,
+      "start": 2459.0,
+      "end": 2474.42,
+      "text": "As a title And in a wonderfully Funny way Hegel goes through history Giving other examples Of how Napoleon also Had to lose twice First in 1813 Then in 1850 No So that His loss Was"
+    },
+    {
+      "id": 181,
+      "start": 2474.42,
+      "end": 2493.41,
+      "text": "a necessity So now Let's go on What does Hegel Means by this Retrospective Character Of the Meaning of our acts That's again Now I will do A little bit Of Antigone Because that's Hegel's"
+    },
+    {
+      "id": 182,
+      "start": 2493.41,
+      "end": 2509.29,
+      "text": "Basic insight That Hegel is not An intentionalist His position Is extremely Interesting here Very modern If you want Hegel point Is not You do something That You know All this game"
+    },
+    {
+      "id": 183,
+      "start": 2509.29,
+      "end": 2525.72,
+      "text": "Of intentions You intend to Do something For Hegel The meaning Of an act Arises Only through The act Itself For Hegel The rule Is rather that You intend To do something And it's Only"
+    },
+    {
+      "id": 184,
+      "start": 2525.72,
+      "end": 2541.63,
+      "text": "through The meaning Sorry Through the act Itself That you discover Retroactively What you really Meant To do Meaning is not Pre-existing Hegel is not here In this sense An internalist"
+    },
+    {
+      "id": 185,
+      "start": 2541.63,
+      "end": 2555.67,
+      "text": "Hegel is Totally opposed To this false Hermeneutic idea Of What do I know What did you mean With that I would have to Know your mind To know What did You mean No For Hegel You yourself"
+    },
+    {
+      "id": 186,
+      "start": 2555.67,
+      "end": 2569.4,
+      "text": "Don't know What you meant You wanted Something But it's Through the act That It becomes Retroactively Clear to you What you mean And again In a radical reading Of Hegel I claim This"
+    },
+    {
+      "id": 187,
+      "start": 2569.4,
+      "end": 2583.0,
+      "text": "doesn't mean That somebody else Does know That you know That you are just A tool You think You are doing A but Some divine intelligence Reasoning history Controls it No It's Contingency"
+    },
+    {
+      "id": 188,
+      "start": 2583.0,
+      "end": 2598.86,
+      "text": "Reason of It's It's History is As Hegel As Gould Stephen J. Gould Marxist Darwinian If you put it One big process Of expectation Hegel I think Is the art theories Of expectation You"
+    },
+    {
+      "id": 189,
+      "start": 2598.86,
+      "end": 2613.44,
+      "text": "do something Meant For a certain goal It's accepted It's But in an improvise Open way I will try to prove This to you now By taking The big example From phenomenology Antigone It is"
+    },
+    {
+      "id": 190,
+      "start": 2613.44,
+      "end": 2629.58,
+      "text": "so elementary That I didn't want you To To give you The literature But if you want Tomorrow I can give you Some parts Of Hegel Which are Worth Reading I prefer this Arrogant way Not"
+    },
+    {
+      "id": 191,
+      "start": 2629.58,
+      "end": 2634.42,
+      "text": "you read Hegel Then you interpret me I tell you What to look in Hegel Then you read Hegel"
+    },
+    {
+      "id": 192,
+      "start": 2635.64,
+      "end": 2654.21,
+      "text": "Sorry Yeah Okay So For Hegel What is crucial As you maybe know Is the passage From tragedy To comedy Comedy Is for Hegel The truth of tragedy It doesn't mean The usual thing That tragedy"
+    },
+    {
+      "id": 193,
+      "start": 2654.21,
+      "end": 2668.18,
+      "text": "Is not serious The way Hegel Is interpreted here Is again In a false Pseudo-dialectical way People usually think Like this Once you are caught Into the action You participate It's"
+    },
+    {
+      "id": 194,
+      "start": 2668.18,
+      "end": 2681.26,
+      "text": "tragic It's the real Struggle But then From the position Of the universal idea You see how All these struggles Are just moments In a global unity So this is wisdom How all we fight"
+    },
+    {
+      "id": 195,
+      "start": 2681.26,
+      "end": 2692.78,
+      "text": "Our struggles But you know All these Ridiculously stupid Proverbs Like Aren't we Only elements In some Higher theater Please Written by God We don't even know What and so on And so"
+    },
+    {
+      "id": 196,
+      "start": 2692.78,
+      "end": 2709.03,
+      "text": "on I think Proverbs Proverbs Are the Stupidity Of language Embodied What are proverbs Whatever you do You always find A proverb To justify it I claim Let's say I am doing something"
+    },
+    {
+      "id": 197,
+      "start": 2709.03,
+      "end": 2720.48,
+      "text": "Which is a little bit risky I succeed What will be your Reaction If you are stupid I'm not saying You are Probably Will tell something Like I don't know It means to me We have proverbs"
+    },
+    {
+      "id": 198,
+      "start": 2720.48,
+      "end": 2735.54,
+      "text": "Only those who Risk profit Or whatever Like Proverbs Justifying The necessity Of taking A risk Let us say That I fail Oh you will get Again I do not know We in Balkan It is in Slovenia"
+    },
+    {
+      "id": 199,
+      "start": 2735.54,
+      "end": 2749.24,
+      "text": "We have a nice Proverb This skeptical It says something Like You cannot urinate Against the wind You know And incidentally If you talk about Slips of tongue Which produce Obscene effects"
+    },
+    {
+      "id": 200,
+      "start": 2749.24,
+      "end": 2763.16,
+      "text": "This is my favorite Ultimate obscenity Once I made this point In Paris At a seminar By Jacqueline Miller And I wanted to make This point again And I wanted To translate Of course It"
+    },
+    {
+      "id": 201,
+      "start": 2763.16,
+      "end": 2783.54,
+      "text": "was in French Into French This You cannot Urinate Against the wind I confused The French Words And I Confused Instead of On the You cannot cheat Cheat Against the Wind Miller was Just"
+    },
+    {
+      "id": 202,
+      "start": 2783.54,
+      "end": 2799.98,
+      "text": "looked cold At me And said The wind must be Really strong I know These were Nice moments Of my Experience There Okay But Let's Let's Go on So"
+    },
+    {
+      "id": 203,
+      "start": 2804.29,
+      "end": 2822.12,
+      "text": "It's not this Position of wisdom That Kegel means By the passage From tragedy To comedy He means Something else What he wants To illustrate Apropos Antigone Is again Precisely This"
+    },
+    {
+      "id": 204,
+      "start": 2822.12,
+      "end": 2836.72,
+      "text": "Retrospectivity Of the true Meaning Of our Acts You do Something Retrospectively You discover But for Kegels This discovery Is constitutive You get my point It's not that Some higher"
+    },
+    {
+      "id": 205,
+      "start": 2836.72,
+      "end": 2847.84,
+      "text": "intelligence Knew from the very beginning There is no Reasoning history In this sense Reason is always Retroactive You can tell a story But only Afterwards Okay"
+    },
+    {
+      "id": 206,
+      "start": 2849.39,
+      "end": 2853.09,
+      "text": "What's Kegels point Of Antigone"
+    },
+    {
+      "id": 207,
+      "start": 2855.32,
+      "end": 2870.63,
+      "text": "Antigones For Kegel Deploys What Happens When A subject Acts Upon The premises Of some What Kegel calls Ethics of immediate Substantial Custom"
+    },
+    {
+      "id": 208,
+      "start": 2874.01,
+      "end": 2890.99,
+      "text": "The idea is that You know how Antigone Acts Confronting Creon It's not Reflective acting It's Not Her point Is not To argue In this typical Modern way Conflicting Ethical Claims He"
+    },
+    {
+      "id": 209,
+      "start": 2890.99,
+      "end": 2906.85,
+      "text": "simply Does it Because It's In her nature To do it He is Referring As a Fact To some Something Some unwritten Loss Compel Her to do it What she's Doing And for Kegel This immediate"
+    },
+    {
+      "id": 210,
+      "start": 2906.85,
+      "end": 2920.57,
+      "text": "Reliance On this Ethical Substance You know Antigone Is not thinking Like In certain situation You act like this Like that It's this kind of Ethical Substantial Immediacy Here is this"
+    },
+    {
+      "id": 211,
+      "start": 2920.57,
+      "end": 2937.64,
+      "text": "Beautiful quote Zeus Did not announce Those laws Laws Which justify Her resistance To Creon Zeus Did not Announce Those laws To me And justice Living With the gods Below Send no such"
+    },
+    {
+      "id": 212,
+      "start": 2937.64,
+      "end": 2951.6,
+      "text": "Laws For men I did not think Anything Which you Proclaimed Strong enough To let a mortal Override The gods And their unwritten And unchanging Laws They are not just For today or yesterday"
+    },
+    {
+      "id": 213,
+      "start": 2951.6,
+      "end": 2968.32,
+      "text": "But exist forever And no one Knows Where they first Appear So I did Not mean To let A fear of any Human will Let to my Punishment Among the Gods So again Her position Here is what"
+    },
+    {
+      "id": 214,
+      "start": 2968.32,
+      "end": 2984.84,
+      "text": "Hegel Calls Immediate Ethical Substance You rely On your Let's call it Very naively Spontaneous Ethical Instinct I cannot do it Otherwise That's The substantial Justice Which is An"
+    },
+    {
+      "id": 215,
+      "start": 2984.84,
+      "end": 2994.36,
+      "text": "organic Part of my Being Hegel is very Precise here He doesn't Oppose this To freedom Now let's Do a little bit Hegel"
+    },
+    {
+      "id": 216,
+      "start": 3018.86,
+      "end": 3020.26,
+      "text": "Hegel"
+    },
+    {
+      "id": 217,
+      "start": 3025.59,
+      "end": 3040.42,
+      "text": "We've been dominated By some objective Mechanism This is A typical position Of modern Freedom Because you know You already In order to Experience Something as A compulsion You already"
+    },
+    {
+      "id": 218,
+      "start": 3040.42,
+      "end": 3055.52,
+      "text": "Must have a minimal Position outside If you are In the Compulsion It's not a compulsion And now This is why Antigone Is for Hegel Also The figure of Love What is love Love is On the"
+    },
+    {
+      "id": 219,
+      "start": 3055.52,
+      "end": 3070.46,
+      "text": "one hand The ultimate Freedom We all know You cannot Fall in love On a On an order You can be Although Okay It's more complex In politics Everything is possible We do say You must"
+    },
+    {
+      "id": 220,
+      "start": 3070.46,
+      "end": 3082.07,
+      "text": "Love your parents You must Love your country But that's another point Let's not go What I'm saying Is that Let's say If you fall In love That's the paradox Of love On the one hand"
+    },
+    {
+      "id": 221,
+      "start": 3082.07,
+      "end": 3097.89,
+      "text": "It's free Free in the sense That you Shouldn't be If you are Forced By yourself Or by an External authority To love somebody It's no longer Love So Love is In this sense Free You feel"
+    },
+    {
+      "id": 222,
+      "start": 3097.89,
+      "end": 3109.29,
+      "text": "all your being In authentic Passionate love But at the same time It's not free In the sense That you have Absolutely No choice You know what I mean Like You cannot say No I will not"
+    },
+    {
+      "id": 223,
+      "start": 3109.29,
+      "end": 3121.05,
+      "text": "Point out So that you will not You must already Probably have A long list To report me To some politically Correct committee Or what I don't want to add But okay I will look up Okay"
+    },
+    {
+      "id": 224,
+      "start": 3122.37,
+      "end": 3136.87,
+      "text": "You know If I say Now I want To fall in love It's a lady there There The moment I approach It's not love Love is always The choice of Love is Always retracted In authentic Love You"
+    },
+    {
+      "id": 225,
+      "start": 3136.87,
+      "end": 3151.53,
+      "text": "never know When you fall in love All of a sudden Retroactively You discover I am in love You cannot The now Is never here And here you have I'm so sad We don't have time For it The"
+    },
+    {
+      "id": 226,
+      "start": 3151.53,
+      "end": 3165.83,
+      "text": "most subversive Beautiful speculations Of the other Great German Idealist Schelling Who goes into this How The highest Freedom Is always Unconscious Namely Contrary to The common sense"
+    },
+    {
+      "id": 227,
+      "start": 3165.83,
+      "end": 3180.97,
+      "text": "Which Tells us Free acts Must be conscious For Schelling The ultimate Freedom is Unconscious In the sense Of this fundamental Decision Which you With your Conscious ego Like fundamental"
+    },
+    {
+      "id": 228,
+      "start": 3180.97,
+      "end": 3192.45,
+      "text": "Decision Like The choice of A love partner For example Which is Contingent Totally free Like Love is By definition Contingents You never know"
+    },
+    {
+      "id": 229,
+      "start": 3194.35,
+      "end": 3210.69,
+      "text": "In whom That falling in love But The point is that It is necessarily Experienced as Something Not even blindly Imposed It's simply Your nature You cannot do it Otherwise And I like"
+    },
+    {
+      "id": 230,
+      "start": 3210.69,
+      "end": 3225.79,
+      "text": "this Schelling's Nice totalitarian view His idea Is that Even if you have No choice You are still Fully responsible for it That what You cannot Do Is to say He even Takes this Theology"
+    },
+    {
+      "id": 231,
+      "start": 3225.79,
+      "end": 3233.59,
+      "text": "For example He says Okay slightly Antisemitic I'm sorry The example He says It was Forever"
+    },
+    {
+      "id": 232,
+      "start": 3235.09,
+      "end": 3248.26,
+      "text": "Decided Determined In the very Faith of Judas That he will Betray Christ He didn't have a choice It was his destiny But nonetheless He is fully responsible For it And then He makes"
+    },
+    {
+      "id": 233,
+      "start": 3248.26,
+      "end": 3259.76,
+      "text": "A much more Appropriate Not such a stupid Antisemetic Concrete example And it's true When he says that When you encounter A truly evil person And I did encounter Some of them It's"
+    },
+    {
+      "id": 234,
+      "start": 3259.76,
+      "end": 3269.86,
+      "text": "true You can see That their evil Is part Of their nature They simply Are like that But nonetheless They are responsible Okay"
+    },
+    {
+      "id": 235,
+      "start": 3271.49,
+      "end": 3284.45,
+      "text": "Schelling's Solution Of this enigma Which you find Already in Kant Is a wonderful one Is a kind of Transcendental A priori Act It sounds idealist But it's not It's very close to what"
+    },
+    {
+      "id": 236,
+      "start": 3284.45,
+      "end": 3300.78,
+      "text": "In psychoanalysis We would have called The choice Of the fundamental Fantasy That in some kind of Atemporal A priori Act We are As Sharper Would you put it Responsible for our Project"
+    },
+    {
+      "id": 237,
+      "start": 3300.78,
+      "end": 3315.7,
+      "text": "For what we are Of course In our temporal Reality We experience This as our nature You cannot change it But fundamentally At an unconscious level We are responsible for it And this"
+    },
+    {
+      "id": 238,
+      "start": 3315.7,
+      "end": 3329.24,
+      "text": "is how Also Freud Says When you know Freud already answers This boring Foucauldian Approach Before Foucal's time Of course That psychoanalysis Is comparable to confession You have"
+    },
+    {
+      "id": 239,
+      "start": 3329.24,
+      "end": 3344.08,
+      "text": "to confess Your Blah, blah No Freud says Psychoanalysis Is much worse In confession You are responsible For what you did For blah, blah In For what You know In psychoanalysis You are"
+    },
+    {
+      "id": 240,
+      "start": 3344.08,
+      "end": 3359.16,
+      "text": "responsible Even for what you don't know And what you didn't do And so on No Because again Is this Let's call it Sorry, sorry But okay Now let's go further Here You can see The difference"
+    },
+    {
+      "id": 241,
+      "start": 3359.16,
+      "end": 3376.28,
+      "text": "Between What Hegel calls The substantial Ethics This naivety Of ethical Sharptance Where You simply act Like this Because You cannot Do it Otherwise And the modern Ethics The modern"
+    },
+    {
+      "id": 242,
+      "start": 3376.28,
+      "end": 3397.42,
+      "text": "ethics For Hegel Is The paradigm Of modern ethics Is Immanuel Kant There Kant Brings to extreme This idea of Reflexive Character Of all Ethical Norms In the sense Of For Kant The loss"
+    },
+    {
+      "id": 243,
+      "start": 3397.42,
+      "end": 3414.03,
+      "text": "That you have Moral Loss Moral norms Whatever That you follow Are never simply Given to you You are Responsible For them This is what Kant means By Radical Freedom And so on That How"
+    },
+    {
+      "id": 244,
+      "start": 3414.03,
+      "end": 3426.65,
+      "text": "should I put it When Kant Makes you What does Kant Mean by subjective Autonomy Which is exactly The opposite of Antigone He doesn't want To say Oh You are free To act autonomously"
+    },
+    {
+      "id": 245,
+      "start": 3426.65,
+      "end": 3442.64,
+      "text": "No What Kant Prohibits Is You know This typical Ethical Excuses Let's say I have to hurt you As part of My duty I have To do something Because of My moral Duty Which will Hurt You"
+    },
+    {
+      "id": 246,
+      "start": 3442.64,
+      "end": 3457.44,
+      "text": "And you are My friend And then The usual Hypocritical Excuse is I'm sorry But I know It will hurt you But I cannot help it It's not my choice It's my duty No You cannot say this For"
+    },
+    {
+      "id": 247,
+      "start": 3457.44,
+      "end": 3471.9,
+      "text": "Kant For Kant You are Not only Responsible To do Your Duty You are also Responsible To define What your Duty is You should stand Behind it There is Again This is Typical Modernity"
+    },
+    {
+      "id": 248,
+      "start": 3471.9,
+      "end": 3486.02,
+      "text": "There is No substantial Other Which Guarantees As it were To you That this is Your Duty That's modern Freedom It's kind of a more Reflexive Freedom It's not only Freedom You can follow"
+    },
+    {
+      "id": 249,
+      "start": 3486.02,
+      "end": 3494.6,
+      "text": "Your duty Or not It's freedom In the sense Of responsibility So to put it In another Way People usually Use"
+    },
+    {
+      "id": 250,
+      "start": 3496.29,
+      "end": 3511.04,
+      "text": "You usually say There is no Excuse For not doing Your duty You have to do it Kant Is adding Another twist To it His point is There is also No excuse For doing Your duty In the sense"
+    },
+    {
+      "id": 251,
+      "start": 3511.04,
+      "end": 3518.08,
+      "text": "of You cannot say Sorry That's my duty No You have To stand Fully behind it This is why Going back"
+    },
+    {
+      "id": 252,
+      "start": 3519.44,
+      "end": 3531.7,
+      "text": "To the start Sorry Give me a good example Yesterday The Scottish Justice Minister Yes I guess And he said I'm doing my job I didn't choose This moment I'm going And he stood behind"
+    },
+    {
+      "id": 253,
+      "start": 3531.7,
+      "end": 3540.98,
+      "text": "it He didn't blame anybody I like this That he stood Behind it I don't agree with him Or whatever You know what Bothered me Okay let's not lose Time on this But I would like To reply"
+    },
+    {
+      "id": 254,
+      "start": 3540.98,
+      "end": 3551.98,
+      "text": "to You know What interests me Is that I have no sympathy For terrorists Blah blah But something did Intrigue me If you watch TV Did you notice That Scottish guy I think The father"
+    },
+    {
+      "id": 255,
+      "start": 3551.98,
+      "end": 3565.6,
+      "text": "Of one of the victims On the side Who said If that is true It really puts everything In the new light That they discovered That there was Some break into Where the luggage Was kept"
+    },
+    {
+      "id": 256,
+      "start": 3565.6,
+      "end": 3581.66,
+      "text": "At Heathrow The night before For this flight And that Not only They didn't inquire Into this But that This entire event Was suppressed Which is Which is With great Probability Probability"
+    },
+    {
+      "id": 257,
+      "start": 3581.66,
+      "end": 3592.84,
+      "text": "Probably where The bomb was I mean If this is true Then it's Truly It's not just Arab terrorists Looking for excuses And so on That's not the real story The real story Is there's a"
+    },
+    {
+      "id": 258,
+      "start": 3592.84,
+      "end": 3604.98,
+      "text": "strong suspicion By not the usual Suspense But mainstream media That something Is being suppressed That it's really Not guilty More likely Grand and limited Again I'm not here To paranoia"
+    },
+    {
+      "id": 259,
+      "start": 3604.98,
+      "end": 3611.24,
+      "text": "I don't buy Those stories Although again I know There are some shady clips You know those stories Of"
+    }
+  ],
+  "diagnostics": {
+    "sentenceCount": 260,
+    "speechSeconds": 3474.98,
+    "speechCoverage": 0.9623,
+    "firstSpeechAt": 0.27,
+    "lastSpeechAt": 3611.24,
+    "largeGapCount": 2,
+    "largestGaps": [
+      {
+        "start": 4.33,
+        "end": 31.46,
+        "seconds": 27.13
+      },
+      {
+        "start": 2994.36,
+        "end": 3018.86,
+        "seconds": 24.5
+      }
+    ],
+    "warnings": []
+  }
+}
