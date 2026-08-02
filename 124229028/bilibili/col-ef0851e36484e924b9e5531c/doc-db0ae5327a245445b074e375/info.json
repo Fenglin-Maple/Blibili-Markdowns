@@ -1,0 +1,86 @@
+{
+  "bvid": "BV1pv2VBfEDw",
+  "aid": 115665516103879,
+  "title": "收藏夹不再吃灰，帮你整理收藏夹的知识库AI",
+  "owner": {
+    "mid": 1903202518,
+    "name": "骋风算力",
+    "face": "https://i1.hdslb.com/bfs/face/f9802138620d2f14355cb0e97106bbaf8ed730dc.jpg"
+  },
+  "pubdate": 1764928800,
+  "ctime": 1764915920,
+  "desc": "收藏夹不再吃灰，帮你整理收藏夹的知识库AI",
+  "pic": "http://i1.hdslb.com/bfs/archive/d086cd5fb3f5876dc1894f1648029c15a0989334.jpg",
+  "duration": 26,
+  "dimension": {
+    "width": 1080,
+    "height": 1920,
+    "rotate": 0
+  },
+  "pages": [
+    {
+      "cid": 34517552880,
+      "page": 1,
+      "from": "vupload",
+      "part": "收藏夹不再吃灰，帮你整理收藏夹的知识库AI",
+      "duration": 26,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1080,
+        "height": 1920,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003ufbjww2nyfm92301tqw5wmgq6b_firsti.jpg",
+      "ctime": 1764915920
+    }
+  ],
+  "redirectUrl": "",
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 1,
+    "no_reprint": 1,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "stat": {
+    "aid": 115665516103879,
+    "view": 1152,
+    "danmaku": 0,
+    "reply": 0,
+    "favorite": 144,
+    "coin": 6,
+    "share": 40,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 43,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "tags": [
+    "人工智能",
+    "AI",
+    "骋风算力",
+    "收藏夹",
+    "开源项目",
+    "github",
+    "知识库"
+  ],
+  "url": "https://www.bilibili.com/video/BV1pv2VBfEDw",
+  "fetchedAt": "2026-07-26T11:22:42.071Z",
+  "coverFile": "cover.jpg"
+}

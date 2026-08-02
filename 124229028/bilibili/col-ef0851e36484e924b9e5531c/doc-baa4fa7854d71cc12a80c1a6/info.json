@@ -1,0 +1,84 @@
+{
+  "bvid": "BV1YMME6FEb6",
+  "aid": 116887736490724,
+  "title": "收藏夹不是知识库：让素材真正变成能用的笔记",
+  "owner": {
+    "mid": 283876696,
+    "name": "codexu",
+    "face": "https://i1.hdslb.com/bfs/face/683c2d0f92967767a5882ff9e4b84ed40d38d8ab.jpg"
+  },
+  "pubdate": 1783565552,
+  "ctime": 1783565552,
+  "desc": "很多人不是没有记录，而是把材料停在收藏夹、稍后读、截图和聊天记录里。NoteGen 的价值，是先接住这些素材，再整理成 Markdown，让内容能被复盘、查找、同步和提问。",
+  "pic": "http://i0.hdslb.com/bfs/archive/30a1bede51a7ce920380156e856de9ca05192e7e.jpg",
+  "duration": 62,
+  "dimension": {
+    "width": 1080,
+    "height": 1920,
+    "rotate": 0
+  },
+  "pages": [
+    {
+      "cid": 39778323469,
+      "page": 1,
+      "from": "vupload",
+      "part": "收藏夹不是知识库：让素材真正变成能用的笔记",
+      "duration": 62,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1080,
+        "height": 1920,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/_0000185vlg6rihagi231oadduyslkhb_firsti.jpg",
+      "ctime": 1783565552
+    }
+  ],
+  "redirectUrl": "",
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 0,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "stat": {
+    "aid": 116887736490724,
+    "view": 94,
+    "danmaku": 0,
+    "reply": 0,
+    "favorite": 3,
+    "coin": 0,
+    "share": 0,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 11,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "tags": [
+    "AI 笔记",
+    "NoteGen",
+    "知识管理",
+    "效率工具",
+    "Markdown"
+  ],
+  "url": "https://www.bilibili.com/video/BV1YMME6FEb6",
+  "fetchedAt": "2026-07-26T11:28:25.443Z",
+  "coverFile": "cover.jpg"
+}

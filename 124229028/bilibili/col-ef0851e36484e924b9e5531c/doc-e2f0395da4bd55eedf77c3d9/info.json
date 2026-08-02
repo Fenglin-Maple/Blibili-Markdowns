@@ -1,0 +1,86 @@
+{
+  "bvid": "BV1vbTP6sEB2",
+  "aid": 116825039903308,
+  "title": "听说你的收藏夹里全是ai指南【B站AI创造公开赛】",
+  "owner": {
+    "mid": 591170964,
+    "name": "他们都叫我蜗牛学长",
+    "face": "https://i0.hdslb.com/bfs/face/b423824662370552039bb607a222a6223afe91a0.jpg"
+  },
+  "pubdate": 1782622800,
+  "ctime": 1782608752,
+  "desc": "",
+  "pic": "http://i0.hdslb.com/bfs/archive/a40c4b03a1696e819aaf7af374bc04ccabebe705.jpg",
+  "duration": 130,
+  "dimension": {
+    "width": 2160,
+    "height": 3840,
+    "rotate": 0
+  },
+  "pages": [
+    {
+      "cid": 39467224649,
+      "page": 1,
+      "from": "vupload",
+      "part": "听说你的收藏夹里全是ai指南【B站AI创造公开赛】",
+      "duration": 130,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 2160,
+        "height": 3840,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/_000039efg5zhiot6e21p9v2xaxehrsb_firsti.jpg",
+      "ctime": 1782608752
+    }
+  ],
+  "redirectUrl": "",
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 0,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "stat": {
+    "aid": 116825039903308,
+    "view": 7169,
+    "danmaku": 2,
+    "reply": 20,
+    "favorite": 1396,
+    "coin": 56,
+    "share": 63,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 780,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "tags": [
+    "AI",
+    "课程",
+    "学习",
+    "B站AI创造公开赛",
+    "经验分享",
+    "收藏夹",
+    "skill"
+  ],
+  "url": "https://www.bilibili.com/video/BV1vbTP6sEB2",
+  "fetchedAt": "2026-07-26T11:20:44.527Z",
+  "coverFile": "cover.jpg"
+}

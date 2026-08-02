@@ -1,0 +1,31 @@
+{
+  "bvid": "BV11bRhBKEkc",
+  "fetchedAt": "2026-07-17T21:52:07.843Z",
+  "available": true,
+  "count": 1,
+  "rejectedCount": 0,
+  "pages": [
+    {
+      "page": 1,
+      "cid": 38149033490,
+      "title": "B站学习党狂喜！BiliNote 超强 AI 总结功能演示：长视频秒变精华笔记，效率飙升1000%",
+      "subtitles": [
+        {
+          "id": "1609757497004973800",
+          "language": "ai-zh",
+          "languageName": "中文",
+          "type": 1,
+          "aiType": 0,
+          "url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/1133804425061552649443928595ff732eec32d428e43f3bdc307bd456?auth_key=1784325128-86977928bad6432a9b231e5e25e86144-0-00738e99cf0d93caa768140e49aea2f5",
+          "json": "p01-ai-zh.json",
+          "lines": 86,
+          "subtitleDuration": 169.8,
+          "videoDuration": 307,
+          "valid": true,
+          "srt": "p01-ai-zh.srt",
+          "text": "p01-ai-zh.txt"
+        }
+      ]
+    }
+  ]
+}

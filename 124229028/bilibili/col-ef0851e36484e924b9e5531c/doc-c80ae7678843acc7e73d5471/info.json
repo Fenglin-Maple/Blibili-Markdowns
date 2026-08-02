@@ -1,0 +1,83 @@
+{
+  "bvid": "BV17mKg6kEho",
+  "aid": 116927615734836,
+  "title": "【全面开源】我用CodeX+Obsidian搭建了一套AI自动化知识库，有福共享，我把过程还原成了实战手册，大家需要来拿～",
+  "owner": {
+    "mid": 571526162,
+    "name": "Vikki的无限进步",
+    "face": "https://i2.hdslb.com/bfs/face/d462d14f7040493af3cbe80926ae8d81a159d3fb.jpg"
+  },
+  "pubdate": 1784174130,
+  "ctime": 1784173877,
+  "desc": "-",
+  "pic": "http://i1.hdslb.com/bfs/archive/c78f3429aac05f19a62b403c2a813354c03e4256.jpg",
+  "duration": 166,
+  "dimension": {
+    "width": 2160,
+    "height": 3840,
+    "rotate": 0
+  },
+  "pages": [
+    {
+      "cid": 39996100075,
+      "page": 1,
+      "from": "vupload",
+      "part": "【全面开源】我用CodeX+Obsidian搭建了一套AI自动化知识库，有福共享，我把过程还原成了实战手册，大家需要来拿～",
+      "duration": 166,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 2160,
+        "height": 3840,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003vpszsuj6lr4p2fai5tt3vu8scb_firsti.jpg",
+      "ctime": 1784173877
+    }
+  ],
+  "redirectUrl": "",
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 1,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "stat": {
+    "aid": 116927615734836,
+    "view": 692,
+    "danmaku": 0,
+    "reply": 4,
+    "favorite": 49,
+    "coin": 0,
+    "share": 4,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 33,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "tags": [
+    "AI",
+    "人工智能",
+    "学习",
+    "知识库"
+  ],
+  "url": "https://www.bilibili.com/video/BV17mKg6kEho",
+  "fetchedAt": "2026-07-26T13:42:12.621Z",
+  "coverFile": "cover.jpg"
+}

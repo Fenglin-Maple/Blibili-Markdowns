@@ -1,0 +1,84 @@
+{
+  "bvid": "BV1qY411c7K4",
+  "aid": 256492405,
+  "title": "【中英字幕】齐泽克谈黑格尔，手把手教你辩证法 part1",
+  "owner": {
+    "mid": 486006139,
+    "name": "拉黑字幕组",
+    "face": "https://i1.hdslb.com/bfs/face/a9f875aba27775b43b2b05d180ad15dbd035e32c.jpg"
+  },
+  "pubdate": 1652103785,
+  "ctime": 1652103786,
+  "desc": "https://www.youtube.com/watch?v=2rzMkvf1Ess&list=PLAaAumdV3kcIIYUnpJfW8-wIvbKNbzKVw&index=80&t=522s\n前两集全熟 在B站up主真名哥那里齐泽克谈黑格尔（录音档）_哔哩哔哩_bilibili",
+  "pic": "http://i1.hdslb.com/bfs/archive/fe80e4b80abe2004382a29516da44aafbce7cba0.jpg",
+  "duration": 3612,
+  "dimension": {
+    "width": 1920,
+    "height": 1080,
+    "rotate": 0
+  },
+  "pages": [
+    {
+      "cid": 717597013,
+      "page": 1,
+      "from": "vupload",
+      "part": "齐黑1",
+      "duration": 3612,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n220511a221mhiqaf2vnjd1uuw9svkue_firsti.jpg",
+      "ctime": 1652262810
+    }
+  ],
+  "redirectUrl": "",
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 0,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "stat": {
+    "aid": 256492405,
+    "view": 111366,
+    "danmaku": 119,
+    "reply": 288,
+    "favorite": 7345,
+    "coin": 1185,
+    "share": 534,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 3285,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "tags": [
+    "哲学",
+    "齐泽克",
+    "黑格尔",
+    "社科人文",
+    "辩证法"
+  ],
+  "url": "https://www.bilibili.com/video/BV1qY411c7K4",
+  "fetchedAt": "2026-07-29T12:32:29.847Z",
+  "coverFile": "cover.jpg"
+}
