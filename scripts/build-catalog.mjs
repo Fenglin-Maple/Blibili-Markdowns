@@ -18,15 +18,26 @@ function walk(directory) {
 const documents = walk(root).map((file) => {
   const metadata = JSON.parse(fs.readFileSync(file, 'utf8'));
   const metadataPath = relative(file);
-  const segments = metadataPath.split('/');
   return {
     documentId: String(metadata.documentId || ''),
     documentType: String(metadata.documentType || ''),
+    sourceType: String(metadata.sourceType || ''),
     bvid: String(metadata.bvid || ''),
     title: String(metadata.title || ''),
     owner: String(metadata.owner || ''),
     collectionName: String(metadata.collectionName || ''),
-    contributorGithubId: String(metadata.contributorGithubId || segments[0] || ''),
+    userName: String(metadata.userName || ''),
+    bilibiliUid: String(metadata.bilibiliUid || ''),
+    remoteCollectionId: String(metadata.remoteCollectionId || ''),
+    sourceCollectionKind: String(metadata.sourceCollectionKind || ''),
+    contributorGithubId: String(metadata.contributorGithubId || metadataPath.split('/')[0] || ''),
+    contributorGithubLogin: String(metadata.contributorGithubLogin || ''),
+    entryMarkdown: String(metadata.entryMarkdown || ''),
+    totalBytes: Number(metadata.totalBytes || 0),
+    fileCount: Array.isArray(metadata.files) ? metadata.files.length : 0,
+    contentSha256: String(metadata.contentSha256 || ''),
+    completedAt: String(metadata.completedAt || ''),
+    uploadedAt: String(metadata.uploadedAt || ''),
     updatedAt: String(metadata.updatedAt || metadata.uploadedAt || ''),
     metadataPath,
     documentRoot: metadataPath.slice(0, -metadataName.length)
@@ -46,4 +57,3 @@ if (process.argv.includes('--check')) {
   fs.writeFileSync(target, output, 'utf8');
 }
 console.log(`shared catalog ${process.argv.includes('--check') ? 'is current' : 'written'} (${documents.length} document(s))`);
-

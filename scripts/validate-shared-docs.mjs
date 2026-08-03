@@ -38,7 +38,8 @@ function pullRequestChanges() {
   try {
     const event = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
     const baseSha = String(event.pull_request?.base?.sha || '');
-    const actorId = String(process.env.GITHUB_ACTOR_ID || event.sender?.id || '');
+    const actorId = String(event.pull_request?.user?.id || '');
+    if (!/^\d+$/.test(actorId)) throw new Error('Pull Request 事件缺少真实提交者 GitHub 数字 ID');
     if (!/^[a-f0-9]{40}$/i.test(baseSha)) throw new Error('缺少 Pull Request base SHA');
     const output = execFileSync('git', ['diff', '--name-only', baseSha + '...HEAD'], { cwd: root, encoding: 'utf8' });
     return { files: output.split(/\r?\n/).map((item) => item.trim()).filter(Boolean), actorId };
