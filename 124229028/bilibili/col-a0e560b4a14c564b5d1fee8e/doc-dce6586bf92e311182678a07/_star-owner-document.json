@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-dce6586bf92e311182678a07",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1yPLQ6xELj",
+  "title": "Anthropic宣布7月8日起对Claude用户实施身份或年龄验证",
+  "owner": "deephub",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.607Z",
+  "updatedAt": "2026-08-04T22:24:18.607Z",
+  "completedAt": "2026-07-13T11:11:09.023Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg"
+  ],
+  "contentSha256": "d31f5de7dc36d45a2a5342ca22a564b0620a2e00ecb59a84ccb31065bc65b7b7",
+  "markdownSha256": {
+    "summary.md": "d31f5de7dc36d45a2a5342ca22a564b0620a2e00ecb59a84ccb31065bc65b7b7"
+  },
+  "assetSha256": {
+    "cover.jpg": "77c1a64bb3ee32f9a1319a9e84480b647c02ab5016f5b00dbc4fcd69a75b000e",
+    "frames/frame-001.jpg": "904dc72b777ba1d0553249be982071003822bc2e043b80063312bb351ab6a68e"
+  },
+  "fileSizes": {
+    "summary.md": 14147,
+    "cover.jpg": 58359,
+    "frames/frame-001.jpg": 13059
+  },
+  "totalBytes": 85565
+}

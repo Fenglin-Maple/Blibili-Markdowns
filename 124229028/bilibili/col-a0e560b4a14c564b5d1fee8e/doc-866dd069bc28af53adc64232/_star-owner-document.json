@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-866dd069bc28af53adc64232",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1dej16eEkN",
+  "title": "AI圈突然窒息：seedance2.5来了，支持单视频30秒，支持50个多模态参考素材，更可控的视频生成与编辑。坏消息，可能用不起",
+  "owner": "赛博同志",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.048Z",
+  "updatedAt": "2026-08-04T22:24:18.048Z",
+  "completedAt": "2026-07-15T17:15:41.988Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg",
+    "frames/frame-006.jpg"
+  ],
+  "contentSha256": "bb8ab4e47836186747f12c3db4ec9580b8e24c495060020a2e4769f6763608b0",
+  "markdownSha256": {
+    "summary.md": "bb8ab4e47836186747f12c3db4ec9580b8e24c495060020a2e4769f6763608b0"
+  },
+  "assetSha256": {
+    "cover.jpg": "f885540b44a4f65c4aa355fe297842992a88de2ea3e962571bc78f2bc7d246c2",
+    "frames/frame-001.jpg": "84dcb17da593131cb0336c40c0be360ecf6fec54110523786f1009ebf7dba1b3",
+    "frames/frame-002.jpg": "b1007b2dec1a6a59b0df0ac2184f10f4a2b321bb58cdd7aa30f129f8a49a86fe",
+    "frames/frame-003.jpg": "e0a85c02f77bd1b46de49c9fda9f0356b513a257e592c89bdc7c6cf0258a12d3",
+    "frames/frame-004.jpg": "4fc91df25af888f2d89df9a063cf41fd57d5f599da25a019fdc7854c228b88f0",
+    "frames/frame-005.jpg": "4c049c992d04bbf69d02f890d4082133afea2328553bc7ab0063fcc64dddcd0e",
+    "frames/frame-006.jpg": "43c6b6b9b0bad26ef2bc322e64dad6d6615593ce25c1044928f8a228702626eb"
+  },
+  "fileSizes": {
+    "summary.md": 23570,
+    "cover.jpg": 129472,
+    "frames/frame-001.jpg": 38785,
+    "frames/frame-002.jpg": 68897,
+    "frames/frame-003.jpg": 80834,
+    "frames/frame-004.jpg": 69471,
+    "frames/frame-005.jpg": 101117,
+    "frames/frame-006.jpg": 39145
+  },
+  "totalBytes": 551291
+}

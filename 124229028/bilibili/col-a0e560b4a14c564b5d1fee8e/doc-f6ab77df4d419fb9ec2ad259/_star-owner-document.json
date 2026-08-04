@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-f6ab77df4d419fb9ec2ad259",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1xWTx6MEmZ",
+  "title": "HappyOyster 怎么用？1分钟快速上手 ！",
+  "owner": "HappyOyster",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.645Z",
+  "updatedAt": "2026-08-04T22:24:18.645Z",
+  "completedAt": "2026-07-13T11:02:27.428Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg"
+  ],
+  "contentSha256": "de4f77480705d4355bad2cca0a353beddc93bf117e97f5a490d8a57c2d2df4ec",
+  "markdownSha256": {
+    "summary.md": "de4f77480705d4355bad2cca0a353beddc93bf117e97f5a490d8a57c2d2df4ec"
+  },
+  "assetSha256": {
+    "cover.jpg": "2fd40d1d1d7843f67daabff858a7bd6d55e5a0c39f2a52d866487defd735485e",
+    "frames/frame-001.jpg": "eaa935f2f03f471a1725df05852726ff38327c212d572f596aef8ecaee93ce9b",
+    "frames/frame-002.jpg": "01fe71007878376827440ea04ad032dae6b8daa90aec10ef0ee4bfed4be1cfda",
+    "frames/frame-003.jpg": "1ef5ce3cf29c6b1f8beb4e844a3032252a05f0ee1ccf133c89250dc3af7adf87"
+  },
+  "fileSizes": {
+    "summary.md": 17312,
+    "cover.jpg": 257426,
+    "frames/frame-001.jpg": 57058,
+    "frames/frame-002.jpg": 14495,
+    "frames/frame-003.jpg": 92912
+  },
+  "totalBytes": 439203
+}

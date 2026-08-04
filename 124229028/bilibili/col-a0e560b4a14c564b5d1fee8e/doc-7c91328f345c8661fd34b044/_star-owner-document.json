@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-7c91328f345c8661fd34b044",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1wGNc6QEnT",
+  "title": "一键安装部署反代工具",
+  "owner": "LiYue聚合",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.339Z",
+  "updatedAt": "2026-08-04T22:24:18.339Z",
+  "completedAt": "2026-07-13T20:14:05.103Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "78f0332592d12a9e57f7a89be424a9bb827ea75a541ab48d8f5649491474692f",
+  "markdownSha256": {
+    "summary.md": "78f0332592d12a9e57f7a89be424a9bb827ea75a541ab48d8f5649491474692f"
+  },
+  "assetSha256": {
+    "cover.jpg": "657dc77a7f6fc6f74a7fc35ff09c692bf34e6ca09e4305d22436154845993012",
+    "frames/frame-001.jpg": "cae27d8f5e5fda3e9a0e8a1cf222d1f5bcf9e44bf1356cca0a8dcbaa8ff26a24",
+    "frames/frame-002.jpg": "865c9e7511f6fb60ab24ee6526c02c766d990d69021999bd1b816f35896408b3"
+  },
+  "fileSizes": {
+    "summary.md": 19874,
+    "cover.jpg": 620802,
+    "frames/frame-001.jpg": 61824,
+    "frames/frame-002.jpg": 64430
+  },
+  "totalBytes": 766930
+}

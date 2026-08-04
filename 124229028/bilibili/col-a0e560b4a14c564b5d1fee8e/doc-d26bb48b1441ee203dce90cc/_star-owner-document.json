@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-d26bb48b1441ee203dce90cc",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV18Rji6FEun",
+  "title": "两小学生",
+  "owner": "一只txt-",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.536Z",
+  "updatedAt": "2026-08-04T22:24:18.536Z",
+  "completedAt": "2026-07-13T11:27:49.701Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "db8f03f08e48f9d7d795ec500fafeca87acda58aab193bae735a069546388f3d",
+  "markdownSha256": {
+    "summary.md": "db8f03f08e48f9d7d795ec500fafeca87acda58aab193bae735a069546388f3d"
+  },
+  "assetSha256": {
+    "cover.jpg": "b8f9856226be1db4e7686aafa4ae0b71fa765e70a4eab6e2e9eeb450af9e9429",
+    "frames/frame-001.jpg": "868acb8e94f39ad893956d643b64625d438505fdaffb61e1a15bf5fb38204d8e",
+    "frames/frame-002.jpg": "cfd8914dc5771986857ca8957c6fd2934e98dcb7c5208e3b3b2f5df9247b7967"
+  },
+  "fileSizes": {
+    "summary.md": 18217,
+    "cover.jpg": 187855,
+    "frames/frame-001.jpg": 60056,
+    "frames/frame-002.jpg": 73823
+  },
+  "totalBytes": 339951
+}

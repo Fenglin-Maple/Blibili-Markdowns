@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-b1e03f794efbb7b157a964d4",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1yB7T63EBq",
+  "title": "AI帮我赚钱第16天，今日总收益130元。新频道起号成功今日收益15元。AI自动脚本教程：https://pan.quark.cn/s/98b978279601",
+  "owner": "小王丨QQ频道脚本",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.896Z",
+  "updatedAt": "2026-08-04T22:24:18.896Z",
+  "completedAt": "2026-07-13T10:06:17.340Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg"
+  ],
+  "contentSha256": "1f1766afa9459f50d874a21eeb80cf2f739202f8c0be55685a530e4b7dbc1508",
+  "markdownSha256": {
+    "summary.md": "1f1766afa9459f50d874a21eeb80cf2f739202f8c0be55685a530e4b7dbc1508"
+  },
+  "assetSha256": {
+    "cover.jpg": "bf24df8242935608af3dc4e9b7dec4453afc0ba1771b7c89d61a219f2f3309c8",
+    "frames/frame-001.jpg": "9f28740079197c5c49511e4a1157df35a278a4a0284dd3118bf5826b58c11cbf",
+    "frames/frame-002.jpg": "2371583c97040ea322cba4631c7b2d1238849e90e1dc414909d898c04d41dc2f",
+    "frames/frame-003.jpg": "39c186bf7e3af22076db9c4bc15ee2c4a79026c9575e32a4612f473c3a29f825",
+    "frames/frame-004.jpg": "d5e1ec93c965923320222b6f356b81e36029d3304ba0a6d75ae2f0e30ac3fd45",
+    "frames/frame-005.jpg": "072322fde64cab4d13f3ecaf61aff71894e218bb129da099f6b8f0fae23ecfdb"
+  },
+  "fileSizes": {
+    "summary.md": 23281,
+    "cover.jpg": 177765,
+    "frames/frame-001.jpg": 54694,
+    "frames/frame-002.jpg": 55249,
+    "frames/frame-003.jpg": 100823,
+    "frames/frame-004.jpg": 124515,
+    "frames/frame-005.jpg": 86965
+  },
+  "totalBytes": 623292
+}

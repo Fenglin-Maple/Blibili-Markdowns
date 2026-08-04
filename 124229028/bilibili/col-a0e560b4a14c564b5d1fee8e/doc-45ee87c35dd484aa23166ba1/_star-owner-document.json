@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-45ee87c35dd484aa23166ba1",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV151Mn6rERd",
+  "title": "一张角色图，如何用AI做出2D角色8方向行走动画？",
+  "owner": "Mok2049",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:19.056Z",
+  "updatedAt": "2026-08-04T22:24:19.056Z",
+  "completedAt": "2026-07-10T01:34:56.294Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg"
+  ],
+  "contentSha256": "ba7b323d72d12c5ac8f797cc3cacff29d4d7c2b98555d6f218f6da7df4b1d2fe",
+  "markdownSha256": {
+    "summary.md": "ba7b323d72d12c5ac8f797cc3cacff29d4d7c2b98555d6f218f6da7df4b1d2fe"
+  },
+  "assetSha256": {
+    "frames/frame-001.jpg": "414b329e2c80d8bee0493ff96608572642bd84b89f88eeb5bb047dacda6a0f6f",
+    "frames/frame-002.jpg": "0d8be5b1961fd5ad49c3f6829317191c63a8694f6abbf76f56c2d283b987cc99",
+    "frames/frame-003.jpg": "1bf2001d13258b078a90ecefddcd9a10acb4fc2206cd508107f20c50958eb19d",
+    "frames/frame-004.jpg": "4ba306e219429cdec5f1db6a9d5aecd3f1f3d1de6fda9d50c88e08bc8522e53f",
+    "frames/frame-005.jpg": "a6553c0c5e12e4c825ad8c282dc46bfe0e9325bf859ed9abb4261de6021d396a"
+  },
+  "fileSizes": {
+    "summary.md": 13322,
+    "frames/frame-001.jpg": 67323,
+    "frames/frame-002.jpg": 79338,
+    "frames/frame-003.jpg": 79873,
+    "frames/frame-004.jpg": 159383,
+    "frames/frame-005.jpg": 40089
+  },
+  "totalBytes": 439328
+}

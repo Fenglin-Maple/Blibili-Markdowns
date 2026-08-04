@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-1cbb03f3e15142e2fb62260b",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1SqTL6mEso",
+  "title": "什么！？能自动分层图片，还能自定义每层内容？",
+  "owner": "小圆圆有大宝贝",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.560Z",
+  "updatedAt": "2026-08-04T22:24:18.560Z",
+  "completedAt": "2026-07-13T11:21:04.795Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg"
+  ],
+  "contentSha256": "d39f0dcfaccc8e82d8ef84edf07aa643e22e0338b5d45ea484bf7961852f3dad",
+  "markdownSha256": {
+    "summary.md": "d39f0dcfaccc8e82d8ef84edf07aa643e22e0338b5d45ea484bf7961852f3dad"
+  },
+  "assetSha256": {
+    "cover.jpg": "f438e8b9345d47bce855dd8703e2617b4027bed44847e6ce4bd649131b7a4e2d",
+    "frames/frame-001.jpg": "8094a51fa27af8b7a1b2aee7dd41925c4ef230a2e66d65bb270c8141da75cc41"
+  },
+  "fileSizes": {
+    "summary.md": 16369,
+    "cover.jpg": 511827,
+    "frames/frame-001.jpg": 30880
+  },
+  "totalBytes": 559076
+}

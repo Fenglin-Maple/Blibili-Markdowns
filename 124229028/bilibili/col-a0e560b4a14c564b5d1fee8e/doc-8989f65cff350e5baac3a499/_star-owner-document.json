@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-8989f65cff350e5baac3a499",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV13r7K6nEaS",
+  "title": "[转]中国人形机器人 MOYA：温热皮肤、表情模仿与92%步态准确率靠谱吗？",
+  "owner": "AI_Express",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:14.815Z",
+  "updatedAt": "2026-08-04T22:24:14.815Z",
+  "completedAt": "2026-07-17T10:35:16.436Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg",
+    "frames/frame-006.jpg"
+  ],
+  "contentSha256": "d111e57147162403bc5f63d2956677cf01d5c48ab8a12bcfc5d761e8fb2c1bf5",
+  "markdownSha256": {
+    "summary.md": "d111e57147162403bc5f63d2956677cf01d5c48ab8a12bcfc5d761e8fb2c1bf5"
+  },
+  "assetSha256": {
+    "cover.jpg": "4beebe6693a3835996c7d50a6b219898376b84e7c399fc9f0e5385e83da77c2d",
+    "frames/frame-001.jpg": "eda2547b6c8f45d2c4152efe552d876d3ddd5ef832f14b88449b4542c5aba75b",
+    "frames/frame-002.jpg": "68ed361193e7ab8c21d7ec123e811d75e3495dae7fa4774811c838ab2aca5fda",
+    "frames/frame-003.jpg": "b1d35ef69f0e0de9b0cbd8934635742de97562e46b12671677dffa46fa032b7c",
+    "frames/frame-004.jpg": "e929128b82c5d7e40513d7ebc25552c6cf9e68a8bf57c25d5b224c29a0ccd919",
+    "frames/frame-005.jpg": "5cfad38804250014002a808bf49f21ed0b387fb247cae61f02128d58fa25b9f6",
+    "frames/frame-006.jpg": "988e90ab79ee443387d0428a4205bc66357f6931a65c216c9ee99a7f2ef0b464"
+  },
+  "fileSizes": {
+    "summary.md": 28824,
+    "cover.jpg": 73927,
+    "frames/frame-001.jpg": 40849,
+    "frames/frame-002.jpg": 41922,
+    "frames/frame-003.jpg": 170223,
+    "frames/frame-004.jpg": 148908,
+    "frames/frame-005.jpg": 111073,
+    "frames/frame-006.jpg": 97133
+  },
+  "totalBytes": 712859
+}

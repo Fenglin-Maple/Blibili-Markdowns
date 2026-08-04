@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-46fd48b5c9127b6d45bc3515",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1NhMF6hENX",
+  "title": "k12 全自动注册教程",
+  "owner": "皮卡丘嘤嘤嘤吗",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.350Z",
+  "updatedAt": "2026-08-04T22:24:18.350Z",
+  "completedAt": "2026-07-13T20:12:04.724Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg"
+  ],
+  "contentSha256": "c97175f876e41a0c2b07a92db574d114f6308a3a04a1c85382b9b5a895f2066c",
+  "markdownSha256": {
+    "summary.md": "c97175f876e41a0c2b07a92db574d114f6308a3a04a1c85382b9b5a895f2066c"
+  },
+  "assetSha256": {
+    "cover.jpg": "29b4d65983806789af784b126720bdbe613d83e14e48bee1a6b21972ead2f721",
+    "frames/frame-001.jpg": "9879eac1bedd86dcfa146334f5690df0c48a4ad961a9946c9559a1e1b917260e",
+    "frames/frame-002.jpg": "f37f084209ccdd15186ce0b17cabfdb5f6848897b8cca6a396d1eb156056216f",
+    "frames/frame-003.jpg": "f02dba7668570e357c7625d5914acf1feb9389ddf658e8358446fcf285128eab",
+    "frames/frame-004.jpg": "148e066fc9fe25a03a2eb07101aa7dc0f06269a2f8bb154dc06a04eea5a8c0aa"
+  },
+  "fileSizes": {
+    "summary.md": 19686,
+    "cover.jpg": 236268,
+    "frames/frame-001.jpg": 71729,
+    "frames/frame-002.jpg": 59817,
+    "frames/frame-003.jpg": 80214,
+    "frames/frame-004.jpg": 90949
+  },
+  "totalBytes": 558663
+}

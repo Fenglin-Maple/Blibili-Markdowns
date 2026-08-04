@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-414b1f34ca572a911a2b32ca",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1WLMG6FEKv",
+  "title": "一人一周只用AI就能做出上架Steam的全平台互通3D卡牌游戏？全程无外部模型导入，纯代码绘制3D建模，音效和UI界面！！",
+  "owner": "RobinsLu_GameDev",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.343Z",
+  "updatedAt": "2026-08-04T22:24:18.343Z",
+  "completedAt": "2026-07-13T20:13:34.981Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg"
+  ],
+  "contentSha256": "f9da6562ed823186e2180a3ea14382d80e5f042ef326c14e13d18fea99eee30f",
+  "markdownSha256": {
+    "summary.md": "f9da6562ed823186e2180a3ea14382d80e5f042ef326c14e13d18fea99eee30f"
+  },
+  "assetSha256": {
+    "cover.jpg": "a3a9cd27ba55e3c24d948d73aae0d334964fe492e64b638314e40d9308f8cc16",
+    "frames/frame-001.jpg": "6c61945617490ce9e07451ccff42dc8873264e9b9c874892b750262d95dcaec8",
+    "frames/frame-002.jpg": "29a36d332174eefc92c38219de5ea04c91ec06dd7391a94a62c0b453d32f63dc",
+    "frames/frame-003.jpg": "1993635f6092a4bcc5ab89d16c1009363a9263d415405e90340884e94006cd1f",
+    "frames/frame-004.jpg": "ff8c026b78d178e2ae0c52ecac0e46e0b27e277cb7d144785b7e6f9e4f4fabe6"
+  },
+  "fileSizes": {
+    "summary.md": 21019,
+    "cover.jpg": 253555,
+    "frames/frame-001.jpg": 49933,
+    "frames/frame-002.jpg": 82688,
+    "frames/frame-003.jpg": 114833,
+    "frames/frame-004.jpg": 87098
+  },
+  "totalBytes": 609126
+}

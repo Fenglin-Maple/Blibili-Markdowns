@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-822ed2cd19c20f8479a15b3d",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1k77464EAd",
+  "title": "AI-Toolkit 分层加载，16G显存即可训练F2K-9B编辑Lora",
+  "owner": "禾雨生",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.449Z",
+  "updatedAt": "2026-08-04T22:24:18.449Z",
+  "completedAt": "2026-07-13T11:46:55.978Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg"
+  ],
+  "contentSha256": "8149ada9e09c59165af1f01f157134821bc651cb8f2fbdd47676deca803dc1f2",
+  "markdownSha256": {
+    "summary.md": "8149ada9e09c59165af1f01f157134821bc651cb8f2fbdd47676deca803dc1f2"
+  },
+  "assetSha256": {
+    "cover.jpg": "0b79e5e4c28fb4926cb1801a33d335d07e4b8aa58736bdad945432cf7bb3442a",
+    "frames/frame-001.jpg": "f39adaea04300582cdac2aa218d2ef8c3b8e910915c9295efd5b6cf3dcadeccc"
+  },
+  "fileSizes": {
+    "summary.md": 17891,
+    "cover.jpg": 342192,
+    "frames/frame-001.jpg": 52231
+  },
+  "totalBytes": 412314
+}

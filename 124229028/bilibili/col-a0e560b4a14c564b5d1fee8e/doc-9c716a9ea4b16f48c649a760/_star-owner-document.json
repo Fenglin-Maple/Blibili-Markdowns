@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-9c716a9ea4b16f48c649a760",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV16YVB6GE7D",
+  "title": "【6.1最新教程】ClaudeCode 桌面版保姆级教学｜汉化 + 免登 + DeepSeek + 自定义 Skill.小白新手一遍学会！",
+  "owner": "程序员黑梦",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:17.132Z",
+  "updatedAt": "2026-08-04T22:24:17.132Z",
+  "completedAt": "2026-07-15T19:40:23.739Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg"
+  ],
+  "contentSha256": "0a46c867a0b71667830d980f54631c604e4fc7afeb155622a68e4857c88d5e27",
+  "markdownSha256": {
+    "summary.md": "0a46c867a0b71667830d980f54631c604e4fc7afeb155622a68e4857c88d5e27"
+  },
+  "assetSha256": {
+    "cover.jpg": "c5bbd3bd1c3d96bc2c254fa18bd9853fbaba388c43a602ff7eb34ef944c4b9e3",
+    "frames/frame-001.jpg": "01299e4e0697ad218888c2b1f9a02c6711ead7d53d648b7caa26ea5af30fc463"
+  },
+  "fileSizes": {
+    "summary.md": 26570,
+    "cover.jpg": 86808,
+    "frames/frame-001.jpg": 32422
+  },
+  "totalBytes": 145800
+}

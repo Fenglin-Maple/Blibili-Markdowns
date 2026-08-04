@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-374418ee7051723ca65af4d2",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1fA756EEMV",
+  "title": "12G显存训练krea2",
+  "owner": "赛博画师GZT",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.438Z",
+  "updatedAt": "2026-08-04T22:24:18.438Z",
+  "completedAt": "2026-07-13T11:48:06.875Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "8af3fb4db62c7d1a5bd218c86282c998defad145effd137b077033bc97c87d96",
+  "markdownSha256": {
+    "summary.md": "8af3fb4db62c7d1a5bd218c86282c998defad145effd137b077033bc97c87d96"
+  },
+  "assetSha256": {
+    "cover.jpg": "7fe311445e3dea32351c1dbaaf1530f2595261ac1f4233bba1941eb5fe1ec7d9",
+    "frames/frame-001.jpg": "6cf08a8dc613d0a9a096d214d1e71cbb0c1784de94db694cd35c05718413dfca",
+    "frames/frame-002.jpg": "1a139b121a6736ac959c73802e1f0eaa2ca8478f9c9defb35ddff7cb73251e8c"
+  },
+  "fileSizes": {
+    "summary.md": 16696,
+    "cover.jpg": 380876,
+    "frames/frame-001.jpg": 70800,
+    "frames/frame-002.jpg": 11841
+  },
+  "totalBytes": 480213
+}

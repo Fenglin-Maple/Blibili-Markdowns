@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-1e0114655db603e8205a3747",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1HfF6zNEK8",
+  "title": "【GPT-SoVITS v2 pro plus】分享洛琪希最新AI语音模型（附保姆级使用教程）",
+  "owner": "独孤欲雪",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:16.438Z",
+  "updatedAt": "2026-08-04T22:24:16.438Z",
+  "completedAt": "2026-07-16T00:49:16.807Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "f389bc50c898beccc4f27568b1d56a3ecc1fc11d2e25a66e31496a3101d674ac",
+  "markdownSha256": {
+    "summary.md": "f389bc50c898beccc4f27568b1d56a3ecc1fc11d2e25a66e31496a3101d674ac"
+  },
+  "assetSha256": {
+    "cover.jpg": "971361ac8001807eed1fce429973c386b28ccea3675fffdbef2e827f9a223954",
+    "frames/frame-001.jpg": "f2f2f33c008e2d9b37881f44498e618d9e58b7ff7278db2244d11c6d4916dfe8",
+    "frames/frame-002.jpg": "5b3c2c0794a79330b057f5c1741fe40f83302d17a5998cb98038f0f610dea334"
+  },
+  "fileSizes": {
+    "summary.md": 19355,
+    "cover.jpg": 289881,
+    "frames/frame-001.jpg": 42533,
+    "frames/frame-002.jpg": 40333
+  },
+  "totalBytes": 392102
+}

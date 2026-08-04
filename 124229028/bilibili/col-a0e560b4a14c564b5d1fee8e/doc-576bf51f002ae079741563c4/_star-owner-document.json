@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-576bf51f002ae079741563c4",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1ZpMH6LEws",
+  "title": "无审核时代！seedream5.0，比肩img2和大香蕉的无审核模型！",
+  "owner": "吃着辣鸡看着你",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.377Z",
+  "updatedAt": "2026-08-04T22:24:18.377Z",
+  "completedAt": "2026-07-13T20:07:01.565Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "aff8102297672e31b1a59779ce9af91779698db48384fabfd5c270e174d0f00c",
+  "markdownSha256": {
+    "summary.md": "aff8102297672e31b1a59779ce9af91779698db48384fabfd5c270e174d0f00c"
+  },
+  "assetSha256": {
+    "cover.jpg": "a1c56b701d9fc80a90a70bb2e2c31191e487083e66a24854a399585c276bb047",
+    "frames/frame-001.jpg": "646535e2221df0b617dfd4d1f3b0be5093cf7b3c16a6eb61df5249a80233373a",
+    "frames/frame-002.jpg": "222a2094607dc1e0e20c335ded62ed4140e6f4bb7cedc2cc4da4fc8d089463c1"
+  },
+  "fileSizes": {
+    "summary.md": 18810,
+    "cover.jpg": 575037,
+    "frames/frame-001.jpg": 109594,
+    "frames/frame-002.jpg": 52294
+  },
+  "totalBytes": 755735
+}

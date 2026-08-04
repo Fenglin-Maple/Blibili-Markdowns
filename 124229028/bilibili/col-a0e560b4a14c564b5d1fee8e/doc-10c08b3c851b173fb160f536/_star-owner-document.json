@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-10c08b3c851b173fb160f536",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1wN7E6eETb",
+  "title": "我开了一家API中转站，但似乎有公司想收购我的用户数据？！",
+  "owner": "mizaawa",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.544Z",
+  "updatedAt": "2026-08-04T22:24:18.544Z",
+  "completedAt": "2026-07-13T11:25:50.697Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg"
+  ],
+  "contentSha256": "1a9b7dfb4b5206615e478d69f575519454dd833f4e486bbc3403968d656b8c05",
+  "markdownSha256": {
+    "summary.md": "1a9b7dfb4b5206615e478d69f575519454dd833f4e486bbc3403968d656b8c05"
+  },
+  "assetSha256": {
+    "cover.jpg": "37036f3e45240490ac93e2927761522f4734c2f83d5617d861e1e9b3397eea85",
+    "frames/frame-001.jpg": "e527143bbea32b2ad83e74b2b5b2e7ebfa1d829b86ddf54ea0b4b9c1b3fcf865"
+  },
+  "fileSizes": {
+    "summary.md": 16590,
+    "cover.jpg": 252367,
+    "frames/frame-001.jpg": 23143
+  },
+  "totalBytes": 292100
+}

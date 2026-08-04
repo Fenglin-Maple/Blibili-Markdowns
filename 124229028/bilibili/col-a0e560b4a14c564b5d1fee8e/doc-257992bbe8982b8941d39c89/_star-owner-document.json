@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-257992bbe8982b8941d39c89",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1bDTg6eEyP",
+  "title": "Codex 的“新工作树”到底是什么？",
+  "owner": "大力Thinking",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.864Z",
+  "updatedAt": "2026-08-04T22:24:18.864Z",
+  "completedAt": "2026-07-13T10:11:43.013Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg",
+    "frames/frame-006.jpg"
+  ],
+  "contentSha256": "4b49b1b7ffdc9321e5177ea1513c9d3de6e9912c30c0af5ca325163cb81fcde3",
+  "markdownSha256": {
+    "summary.md": "4b49b1b7ffdc9321e5177ea1513c9d3de6e9912c30c0af5ca325163cb81fcde3"
+  },
+  "assetSha256": {
+    "cover.jpg": "8b6dbad634f5b84acda151d4883f21d6816e1147df19f7fb896c96933b3f075b",
+    "frames/frame-001.jpg": "72e4627ad516d0ef32ee7adc7a9c3a928bb6085379d9f717c82d18a3ca175aa6",
+    "frames/frame-002.jpg": "b11858686314a18c3b73373e0d0e4a76a075d882e72a9e8c58643740061d5d17",
+    "frames/frame-003.jpg": "11d866bbbacdac38453468ace15b7034d1d751daae3761f671e5466ebb895377",
+    "frames/frame-004.jpg": "f4ca73dc5f32b4a85ade839d6138cf472c29ec7cdd2436eb63c157a89c6ee0cf",
+    "frames/frame-005.jpg": "34ffca79314099ef3de5b3da4ef3df5bc66434e578358045d7f0473651fd73df",
+    "frames/frame-006.jpg": "d8dbeceff006ab2b330a4f2c0629ec16ba2ead79cb8ffe0f8def46b0468747f3"
+  },
+  "fileSizes": {
+    "summary.md": 21914,
+    "cover.jpg": 95845,
+    "frames/frame-001.jpg": 45473,
+    "frames/frame-002.jpg": 71675,
+    "frames/frame-003.jpg": 65704,
+    "frames/frame-004.jpg": 93490,
+    "frames/frame-005.jpg": 119925,
+    "frames/frame-006.jpg": 121605
+  },
+  "totalBytes": 635631
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-6236cfae03774764050e048a",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1a3Js66Ee2",
+  "title": "我总算体会到 codex 用完了人就瘫了的感受了！codex 多 agent 协作，太爽了，为哈 ai 越来越强大了，人却越来越忙了呢？",
+  "owner": "淼淼爸的AI笔记",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.813Z",
+  "updatedAt": "2026-08-04T22:24:18.813Z",
+  "completedAt": "2026-07-13T10:20:27.407Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg",
+    "frames/frame-006.jpg"
+  ],
+  "contentSha256": "3ac0cbe551f1adb1962511ed8c2ce3835bafc392ff183b52cb388eadcaa1e511",
+  "markdownSha256": {
+    "summary.md": "3ac0cbe551f1adb1962511ed8c2ce3835bafc392ff183b52cb388eadcaa1e511"
+  },
+  "assetSha256": {
+    "cover.jpg": "0f5dfe2796e73c3d29418ce1ef1741e9927d3b43ff7b428d4fb172ff30b06bcc",
+    "frames/frame-001.jpg": "4da905778a5d395566dfac9b6e22062c25f126c630dbcf6a9c04f1ae9bd0eb6e",
+    "frames/frame-002.jpg": "40227434843920d445e7ed6a2118160e962d7093c703f56eb5bd91be4dac2cdb",
+    "frames/frame-003.jpg": "fce834b01e3985167ad8e50bf0834c4d55399f6ee7af4371b4c005f7daa20a4c",
+    "frames/frame-004.jpg": "5c53338d339e675b93f65e40f645b4a01083b45181217521bf7a14edc154b8d7",
+    "frames/frame-005.jpg": "3208a5a3e923ba99eaa35e5acc64e82da5e8a1e005710c40a0237dedc4c5c459",
+    "frames/frame-006.jpg": "2e766a6f6881b38fc6446cee2b10f17e59749de856167993d5f8f039ab755228"
+  },
+  "fileSizes": {
+    "summary.md": 21299,
+    "cover.jpg": 468285,
+    "frames/frame-001.jpg": 24691,
+    "frames/frame-002.jpg": 32433,
+    "frames/frame-003.jpg": 44301,
+    "frames/frame-004.jpg": 65733,
+    "frames/frame-005.jpg": 62655,
+    "frames/frame-006.jpg": 41271
+  },
+  "totalBytes": 760668
+}

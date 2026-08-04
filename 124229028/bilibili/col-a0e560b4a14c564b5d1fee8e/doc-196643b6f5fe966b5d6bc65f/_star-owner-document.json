@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-196643b6f5fe966b5d6bc65f",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1GoTj69EmJ",
+  "title": "已将角色扩充2w个，画风扩充6k个，尽情享受吧。",
+  "owner": "二叉树树",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.818Z",
+  "updatedAt": "2026-08-04T22:24:18.818Z",
+  "completedAt": "2026-07-13T10:19:01.298Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg"
+  ],
+  "contentSha256": "16620a60ded864579fe897a58da8bcef495dfd4d51ce79d1f7f184a4144b7ff8",
+  "markdownSha256": {
+    "summary.md": "16620a60ded864579fe897a58da8bcef495dfd4d51ce79d1f7f184a4144b7ff8"
+  },
+  "assetSha256": {
+    "cover.jpg": "740a68ed3685e7388d0bb832ccf0532795ef43831c215e5ffccb11fe88192f58",
+    "frames/frame-001.jpg": "11b6a0b7d0d66842f250854d4f71cdb565f49f30449e8bfcb1cea3e7e3d29abf",
+    "frames/frame-002.jpg": "13538203d34ba32f7c5ed4b30fbf854d997a7bf36b6adbfbfb1a05085fc68a7a",
+    "frames/frame-003.jpg": "355e953d2af6df83b7cffe8a6e505fac6b75a4bbc6dad2537bbfbb96e58271cf",
+    "frames/frame-004.jpg": "c7aa1d4b4983039e0a6d6ecea7c7241b9cf16165ebc839aac5193204ddd8eae6",
+    "frames/frame-005.jpg": "0f5d983361155d4bc5496cd5dff056a145158ebe17f1ca9e5a179fa8fa3edfc4"
+  },
+  "fileSizes": {
+    "summary.md": 19163,
+    "cover.jpg": 18400,
+    "frames/frame-001.jpg": 65672,
+    "frames/frame-002.jpg": 84697,
+    "frames/frame-003.jpg": 103939,
+    "frames/frame-004.jpg": 227969,
+    "frames/frame-005.jpg": 207480
+  },
+  "totalBytes": 727320
+}

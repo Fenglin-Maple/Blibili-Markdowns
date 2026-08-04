@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-e8c437dd0222b330a6cde096",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1EpLy6cEjE",
+  "title": "AI届的力扣来了",
+  "owner": "哆啦K梦_Kaggle金牌",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.605Z",
+  "updatedAt": "2026-08-04T22:24:18.605Z",
+  "completedAt": "2026-07-13T11:11:17.264Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg"
+  ],
+  "contentSha256": "687753cff4b78898185b020feccba7092aec6a7a6d9dba44aa8f32db4cda8d45",
+  "markdownSha256": {
+    "summary.md": "687753cff4b78898185b020feccba7092aec6a7a6d9dba44aa8f32db4cda8d45"
+  },
+  "assetSha256": {
+    "cover.jpg": "458f09dece11e5bbadd7f4120f0fa7199cc11f1fe0da50babdd9489d16b2e917",
+    "frames/frame-001.jpg": "a65bff270f074062a030f094fd17e44ec3ede5f3c10977b7f9e274200586079f"
+  },
+  "fileSizes": {
+    "summary.md": 14547,
+    "cover.jpg": 222667,
+    "frames/frame-001.jpg": 55256
+  },
+  "totalBytes": 292470
+}

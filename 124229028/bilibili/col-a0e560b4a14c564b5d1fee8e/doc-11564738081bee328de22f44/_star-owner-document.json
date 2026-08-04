@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-11564738081bee328de22f44",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1Wa7W6nETk",
+  "title": "为什么Transformer统治了大模型时代？虚拟主播和你学AI~",
+  "owner": "七七_nana酱",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.473Z",
+  "updatedAt": "2026-08-04T22:24:18.473Z",
+  "completedAt": "2026-07-13T11:40:47.877Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg"
+  ],
+  "contentSha256": "8edf5ffb510336af37030f9daacd672bfc210437ed1e94fa53b32c4a9c5ef9b2",
+  "markdownSha256": {
+    "summary.md": "8edf5ffb510336af37030f9daacd672bfc210437ed1e94fa53b32c4a9c5ef9b2"
+  },
+  "assetSha256": {
+    "cover.jpg": "01c38772ae11b54f7ccee00f1e0be2c76cbf709d0c5555b5364fc3433e3b8743",
+    "frames/frame-001.jpg": "3a13dadbb21a62e52354eefa4566c971657f61600e9601c4fbd3f5d711cfe46c",
+    "frames/frame-002.jpg": "03fd59bb0cbba9103d04974b8132d6edf8f699d38c00a6545f903f6832e45432",
+    "frames/frame-003.jpg": "7d71c83e630e92c102d08d4115e12bf4a27174682ce25399b038dd16bf7dc1a9",
+    "frames/frame-004.jpg": "09800e3cbf688a8d15c7556f5cad708cc7d1e292e3315ec818a023274864f2c3",
+    "frames/frame-005.jpg": "e32506dbb1d173ac3b350b1485a5713e1173cc98b17878e7a38ad254fa27306a"
+  },
+  "fileSizes": {
+    "summary.md": 22477,
+    "cover.jpg": 98774,
+    "frames/frame-001.jpg": 41640,
+    "frames/frame-002.jpg": 54986,
+    "frames/frame-003.jpg": 60103,
+    "frames/frame-004.jpg": 82524,
+    "frames/frame-005.jpg": 80948
+  },
+  "totalBytes": 441452
+}
