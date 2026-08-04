@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-2061e603dc1a43ef7873bac8",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1gfTj6pEze",
+  "title": "VibeCoding 高级 3D 粒子模型技巧",
+  "owner": "ai超级个人",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.996Z",
+  "updatedAt": "2026-08-04T22:24:18.996Z",
+  "completedAt": "2026-07-13T09:47:28.547Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "fee8ad9773161babfe64fdc30085762f58432e36946d82e974ffb46dfee82b73",
+  "markdownSha256": {
+    "summary.md": "fee8ad9773161babfe64fdc30085762f58432e36946d82e974ffb46dfee82b73"
+  },
+  "assetSha256": {
+    "cover.jpg": "7e8e999c66cb779d724adec09a1f8a31a5a3df3a60d87859075bca4d3ce98144",
+    "frames/frame-001.jpg": "212b53054f01eb319dd571544aa1f4337f5da80f5744c27803443a09969d2d84",
+    "frames/frame-002.jpg": "4082bf2d693e48fad713458704de154e96a649e6439c9ec8e28c095497c2c547"
+  },
+  "fileSizes": {
+    "summary.md": 19056,
+    "cover.jpg": 679243,
+    "frames/frame-001.jpg": 87422,
+    "frames/frame-002.jpg": 48017
+  },
+  "totalBytes": 833738
+}

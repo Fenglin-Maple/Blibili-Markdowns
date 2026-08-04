@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-657a7d8f9e01e1f6e3ad92d2",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1msEC6SEts",
+  "title": "Codex角色插件-Product Design，让AI生成的页面更具艺术感",
+  "owner": "叫我大G可好",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:19.011Z",
+  "updatedAt": "2026-08-04T22:24:19.011Z",
+  "completedAt": "2026-07-13T09:42:37.588Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg"
+  ],
+  "contentSha256": "524cf0a1acd6c7f1ee1cbf9e6d2e3e67250075532912d6ef0ce5383398c9cf54",
+  "markdownSha256": {
+    "summary.md": "524cf0a1acd6c7f1ee1cbf9e6d2e3e67250075532912d6ef0ce5383398c9cf54"
+  },
+  "assetSha256": {
+    "cover.jpg": "13f00fbf40acba28856dfc8e9d0634064466348e0c98ab600e061162b5ca4232",
+    "frames/frame-001.jpg": "7dd32189c28ba5692180d1e37fd685d1b84c77eff1f81b413fa4b8bb7ed66efe",
+    "frames/frame-002.jpg": "4d83849567e770ef776efce66a297983653546752de3af606fdc6813db469f5d",
+    "frames/frame-003.jpg": "d7467705e8daa157772aa21c03b761e0a45ddeac3df61846ea72ab917edccc77",
+    "frames/frame-004.jpg": "2cda368380c1b120f32a6304cd838b061fc791bf70a557786ba7e9dda70b35f0",
+    "frames/frame-005.jpg": "5717dba370723690c8697d336c83fb0cb76226adfdf8ff9866ede0d8e3c44328"
+  },
+  "fileSizes": {
+    "summary.md": 17778,
+    "cover.jpg": 172378,
+    "frames/frame-001.jpg": 31707,
+    "frames/frame-002.jpg": 83517,
+    "frames/frame-003.jpg": 77818,
+    "frames/frame-004.jpg": 105389,
+    "frames/frame-005.jpg": 89356
+  },
+  "totalBytes": 577943
+}

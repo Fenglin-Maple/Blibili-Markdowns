@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-f29913ca0e6675661d6cc42d",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1fnLc6rETL",
+  "title": "利用AI辅助制作blender风格化全流程",
+  "owner": "再来一瓶辣椒酱",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:15.151Z",
+  "updatedAt": "2026-08-04T22:24:15.151Z",
+  "completedAt": "2026-07-16T03:52:58.164Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "025bf93b4d822b85b79e3c7b5c28416343a1dd53686dafc725ac66c8a83644c8",
+  "markdownSha256": {
+    "summary.md": "025bf93b4d822b85b79e3c7b5c28416343a1dd53686dafc725ac66c8a83644c8"
+  },
+  "assetSha256": {
+    "cover.jpg": "2c467d561be965a927b52a6e778cc2872d3a47d48672d671df91befdc212052b",
+    "frames/frame-001.jpg": "1fe8b808ee5ed8fec67e20de3b0d511cdd004926b471522056c0015ab546f286",
+    "frames/frame-002.jpg": "32a5b240b31bc9db97a980f5c8647aa9a9b568509796db2b8c3694601cc77643"
+  },
+  "fileSizes": {
+    "summary.md": 23949,
+    "cover.jpg": 138101,
+    "frames/frame-001.jpg": 32017,
+    "frames/frame-002.jpg": 23790
+  },
+  "totalBytes": 217857
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-15be03a81379eaa213a8545a",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1kXdFBGE86",
+  "title": "codex自动建模",
+  "owner": "quu森",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.857Z",
+  "updatedAt": "2026-08-04T22:24:18.857Z",
+  "completedAt": "2026-07-13T10:14:12.660Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg"
+  ],
+  "contentSha256": "8bf8cba26788efbba4fee029e35641faf819cca28dc2376a569484e960eaff91",
+  "markdownSha256": {
+    "summary.md": "8bf8cba26788efbba4fee029e35641faf819cca28dc2376a569484e960eaff91"
+  },
+  "assetSha256": {
+    "cover.jpg": "d651edcd9186ddab029d81e7d2faf0c5ec5ee26829b69f6d97d23791ad0bdbf3",
+    "frames/frame-001.jpg": "c48947871981e50fe59775ee30823a08ec9bb2917b9fa7871d55cc8ac5e28ed7",
+    "frames/frame-002.jpg": "69fdc99932df1cd33e47e38ba72a929bc35016a02872311ea8b27b4e99cde264",
+    "frames/frame-003.jpg": "bc5c65289a2561c7b6e7f638d11b5463d5891ce6e7f7c8beb81f814817e44fc7"
+  },
+  "fileSizes": {
+    "summary.md": 20343,
+    "cover.jpg": 248815,
+    "frames/frame-001.jpg": 70579,
+    "frames/frame-002.jpg": 106924,
+    "frames/frame-003.jpg": 153626
+  },
+  "totalBytes": 600287
+}

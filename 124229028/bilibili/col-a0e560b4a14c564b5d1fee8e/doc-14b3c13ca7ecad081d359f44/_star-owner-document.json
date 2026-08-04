@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-14b3c13ca7ecad081d359f44",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV13GVh6kEx8",
+  "title": "薅完你家薅你家！GitHub 5.7K星，用它白嫖十几亿Token？",
+  "owner": "机器之心官方",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.436Z",
+  "updatedAt": "2026-08-04T22:24:18.436Z",
+  "completedAt": "2026-07-13T11:50:41.990Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg"
+  ],
+  "contentSha256": "bf5d6babd930c8a6bb2efbda306cb6c002005fa26fcb10f35b084770982c52a4",
+  "markdownSha256": {
+    "summary.md": "bf5d6babd930c8a6bb2efbda306cb6c002005fa26fcb10f35b084770982c52a4"
+  },
+  "assetSha256": {
+    "cover.jpg": "4dbb5d9e08a1340a4663f56a9868fbc0c85697bef82eae04292113a51d01dd79",
+    "frames/frame-001.jpg": "55a44421692c9e74ce2db184f4fd13394c02ac1229e32a54d67ee917dd749dfd",
+    "frames/frame-002.jpg": "ea36d4d39c1245898e6a3fb08739176a5e0fe1c94b02982611746c0914ff5f54",
+    "frames/frame-003.jpg": "a844f2124ad05de1ff4f8fdda5631dcda67c0d46f378fbee957cc1196c363553"
+  },
+  "fileSizes": {
+    "summary.md": 23904,
+    "cover.jpg": 307693,
+    "frames/frame-001.jpg": 75180,
+    "frames/frame-002.jpg": 40236,
+    "frames/frame-003.jpg": 48852
+  },
+  "totalBytes": 495865
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-c8bcad8a4a7fee8da7bf9b80",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1aUEz6mEdU",
+  "title": "GPT-5.6重磅来袭！大模型价格战正式打响！",
+  "owner": "AI-seeker",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:17.356Z",
+  "updatedAt": "2026-08-04T22:24:17.356Z",
+  "completedAt": "2026-07-15T18:48:50.552Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.png",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg",
+    "frames/frame-006.jpg"
+  ],
+  "contentSha256": "e2e0b94094c08d15ec864888b5dfbbe2160561fc9af6cd2290e3a644fe5c080a",
+  "markdownSha256": {
+    "summary.md": "e2e0b94094c08d15ec864888b5dfbbe2160561fc9af6cd2290e3a644fe5c080a"
+  },
+  "assetSha256": {
+    "cover.png": "ef6ff6c622965c8e49f65920019dbf9dfb2cf016b4bf064452f53099bbcef022",
+    "frames/frame-001.jpg": "f2d19cf641186d72de547de313d41e225cfe1d66328f62d2de0bc06e3be9d41a",
+    "frames/frame-002.jpg": "e94d23963ce8aa5aba00206c3689393a46d2174e4d185c3b3df1e2b1c1de137a",
+    "frames/frame-003.jpg": "d5aad79dd08385d5fcb961b9e11e479e6e447b8888e83077b40519e0f109dbf6",
+    "frames/frame-004.jpg": "b65d5a89056f9c9c83fefc379e00ff7fd418d8003ced00656cf591854e993326",
+    "frames/frame-005.jpg": "3e3f45bbb7a35b03d80783ae0d01ba8df2ea9e680afaf027cb29a8d6b7a3c1e7",
+    "frames/frame-006.jpg": "47e8dca453a36dca745f6736ed011fba9e1ddccee6a995b8280a322c1611e801"
+  },
+  "fileSizes": {
+    "summary.md": 22265,
+    "cover.png": 1294287,
+    "frames/frame-001.jpg": 45053,
+    "frames/frame-002.jpg": 48408,
+    "frames/frame-003.jpg": 100040,
+    "frames/frame-004.jpg": 107846,
+    "frames/frame-005.jpg": 165582,
+    "frames/frame-006.jpg": 135990
+  },
+  "totalBytes": 1919471
+}

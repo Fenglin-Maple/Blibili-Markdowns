@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-b555c9538ab762ea1a90b0d7",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV143Vm67EhL",
+  "title": "【全748集】目前B站最全最细的知识库搭建零基础教程，手把手教你搭建私有AI知识库，从RAG原理到项目落地全教学，全程干货无废话，让你少走99%弯路！",
+  "owner": "AI产品实战",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:15.990Z",
+  "updatedAt": "2026-08-04T22:24:15.990Z",
+  "completedAt": "2026-07-16T01:45:48.102Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg"
+  ],
+  "contentSha256": "de4cb2e78c9b5b590b997d26ff7d88072164d3f376af4f5e8f71fbb6edc32b0c",
+  "markdownSha256": {
+    "summary.md": "de4cb2e78c9b5b590b997d26ff7d88072164d3f376af4f5e8f71fbb6edc32b0c"
+  },
+  "assetSha256": {
+    "cover.jpg": "c34c9f34c49d6cd5f30a9e204c1f32017ad5f2d7f702e7ae1d3de894dfcbde41"
+  },
+  "fileSizes": {
+    "summary.md": 24079,
+    "cover.jpg": 109553
+  },
+  "totalBytes": 133632
+}

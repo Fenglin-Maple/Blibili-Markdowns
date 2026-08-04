@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-60aabd31140d5f650d2dbb6f",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1jM7q65EgH",
+  "title": "Anthropic如何说服理论物理工作者做兼职？",
+  "owner": "弦得发慌",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.410Z",
+  "updatedAt": "2026-08-04T22:24:18.410Z",
+  "completedAt": "2026-07-13T11:57:21.162Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg"
+  ],
+  "contentSha256": "be81b32b22ab66f30e0c033ac52387fc23aa925dfd768d897414d04d41fe3f7d",
+  "markdownSha256": {
+    "summary.md": "be81b32b22ab66f30e0c033ac52387fc23aa925dfd768d897414d04d41fe3f7d"
+  },
+  "assetSha256": {
+    "cover.jpg": "255c97f135d09988d2ad274c72645d1b884f0c2efbdaf1f912055e0e6633f3ad",
+    "frames/frame-001.jpg": "3fdc5209826ae820cc5400bbdedf7167b7b16fa6c9a4077e16251ef1d70a0226",
+    "frames/frame-002.jpg": "201a4f9492dedde0697ff2e8b3f2cb042dac544d439b2b10ede6bd99436dc680",
+    "frames/frame-003.jpg": "e9e728c7a59e92e0d74c5ddecc0096f1e6e4abdf170fb019660326d36227aa1c",
+    "frames/frame-004.jpg": "9fb7458814d79faebcf5acc81e9c08d9ae0a01cd26e6825031f0004de1a173a5",
+    "frames/frame-005.jpg": "e2168e346b68990e9e39334c186b7856ba07eac85cd97c1f8462314a4efb2395"
+  },
+  "fileSizes": {
+    "summary.md": 20940,
+    "cover.jpg": 246312,
+    "frames/frame-001.jpg": 49923,
+    "frames/frame-002.jpg": 57129,
+    "frames/frame-003.jpg": 81742,
+    "frames/frame-004.jpg": 93276,
+    "frames/frame-005.jpg": 94026
+  },
+  "totalBytes": 643348
+}

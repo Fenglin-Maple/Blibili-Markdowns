@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-b06f410d072ddb35661be8d2",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV127LX6vESD",
+  "title": "HappyOyster 1.0 全新上线！",
+  "owner": "HappyOyster",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.675Z",
+  "updatedAt": "2026-08-04T22:24:18.675Z",
+  "completedAt": "2026-07-13T10:55:07.780Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg"
+  ],
+  "contentSha256": "a2c64ff8662d779ce16fb5f3fb512d6fec575257f905252d48b2c3b602dc78ba",
+  "markdownSha256": {
+    "summary.md": "a2c64ff8662d779ce16fb5f3fb512d6fec575257f905252d48b2c3b602dc78ba"
+  },
+  "assetSha256": {
+    "cover.jpg": "ba9d4a313b0c17b44ec09d9e6023a8f04e6198c982a1b71a589faa1dc988d43b",
+    "frames/frame-001.jpg": "af11f9ba8ab229ec9373cac98d7b5cc8d1ae32ea8e40216efdb8c70f858c7e3c",
+    "frames/frame-002.jpg": "96f61314d337f7b017ab805130f6993ff0f53116304e759f49d4b03bf217b72f",
+    "frames/frame-003.jpg": "6b9f4e0cebacfa8bb5c33fcad0191e9dcb2f4f0163578c6718c2a5a07e3d22e6",
+    "frames/frame-004.jpg": "e6df29cd97e461682386c3a3c8e2101fc4e565d12d8fb42e7e0a6c4eea58f365"
+  },
+  "fileSizes": {
+    "summary.md": 21588,
+    "cover.jpg": 2091690,
+    "frames/frame-001.jpg": 38667,
+    "frames/frame-002.jpg": 64846,
+    "frames/frame-003.jpg": 44600,
+    "frames/frame-004.jpg": 59216
+  },
+  "totalBytes": 2320607
+}

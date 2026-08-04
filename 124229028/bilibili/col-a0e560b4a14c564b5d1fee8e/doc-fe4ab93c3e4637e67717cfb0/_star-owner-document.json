@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-fe4ab93c3e4637e67717cfb0",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV19WKD6nEf3",
+  "title": "阿福AI看皮肤为什么和医生的判断一致率能超90%？",
+  "owner": "蚂蚁阿福App",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.801Z",
+  "updatedAt": "2026-08-04T22:24:18.801Z",
+  "completedAt": "2026-07-13T10:23:04.559Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-%03d.jpg"
+  ],
+  "contentSha256": "b870d44f05717f24cb43003bd7e7612b2ff014264db518218c16dd2d79826fcf",
+  "markdownSha256": {
+    "summary.md": "b870d44f05717f24cb43003bd7e7612b2ff014264db518218c16dd2d79826fcf"
+  },
+  "assetSha256": {
+    "cover.jpg": "cbe5835f638a0935b85a42869c574faa8aa97f1382d7fec411c49795069a505e",
+    "frames/frame-%03d.jpg": "90e710914b9e2c84b23412c9c0f2d7f7aa4131b5e76ece5cb50cdcb272e419f3"
+  },
+  "fileSizes": {
+    "summary.md": 19505,
+    "cover.jpg": 127991,
+    "frames/frame-%03d.jpg": 43548
+  },
+  "totalBytes": 191044
+}

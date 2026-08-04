@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-6c370dd67231f122ff07ea52",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1kfdBBQEe4",
+  "title": "腾讯开源HY-World 2.0：一张图生成可玩的3D世界，兼容Unity虚幻引擎",
+  "owner": "锋芒AI",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.667Z",
+  "updatedAt": "2026-08-04T22:24:18.667Z",
+  "completedAt": "2026-07-13T10:57:03.902Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "768cd8bb913d71335b69ff93bafa94e2d20a5a0fda014dc7238a8face6ac4377",
+  "markdownSha256": {
+    "summary.md": "768cd8bb913d71335b69ff93bafa94e2d20a5a0fda014dc7238a8face6ac4377"
+  },
+  "assetSha256": {
+    "cover.jpg": "21a677878c01d30799e43760a2ddfc8cc2cc0867521a26c3e46c62bc6a4448a5",
+    "frames/frame-001.jpg": "ecc64a300007baf2743ff6269b446cd9b3a0e4e66d26291b1a3559176fb36037",
+    "frames/frame-002.jpg": "0c65e1d3f9f8ed73ceddca1dc8b9013ed5b613300bed187f4fb5dc902aaa534a"
+  },
+  "fileSizes": {
+    "summary.md": 21112,
+    "cover.jpg": 70747,
+    "frames/frame-001.jpg": 37703,
+    "frames/frame-002.jpg": 36306
+  },
+  "totalBytes": 165868
+}

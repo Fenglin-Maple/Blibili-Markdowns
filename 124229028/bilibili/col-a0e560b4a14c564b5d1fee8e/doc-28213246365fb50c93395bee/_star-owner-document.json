@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-28213246365fb50c93395bee",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV18QRVB4ERv",
+  "title": "【秋叶 ComfyUI】秋叶最新发布！ComfyUI V35中文整合包来了！支持50 40 30系显卡，Win+Mac一键下载安装（附新Comfyui整合包）",
+  "owner": "秋葉aaakki",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:15.154Z",
+  "updatedAt": "2026-08-04T22:24:15.154Z",
+  "completedAt": "2026-07-16T03:52:23.935Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg"
+  ],
+  "contentSha256": "0fc5fe2c880b4cb5d619ec19500d43d56364e705f8582c45f32419fb043850d4",
+  "markdownSha256": {
+    "summary.md": "0fc5fe2c880b4cb5d619ec19500d43d56364e705f8582c45f32419fb043850d4"
+  },
+  "assetSha256": {
+    "cover.jpg": "94d20ca9c094c07516f86c3f61f141b104e86fedf5c8e405a9d3c9d112fe3cd9"
+  },
+  "fileSizes": {
+    "summary.md": 20990,
+    "cover.jpg": 321264
+  },
+  "totalBytes": 342254
+}

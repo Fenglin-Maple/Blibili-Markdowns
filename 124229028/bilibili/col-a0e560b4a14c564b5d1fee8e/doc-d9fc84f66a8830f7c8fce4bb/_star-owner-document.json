@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-d9fc84f66a8830f7c8fce4bb",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV15sTe6zEhK",
+  "title": "中转站如何对接 GPT、Claude 各类 AI 大模型！Base‑URL 密钥详细配置流程，演示多模型自由切换，办公写代码全部实战落地",
+  "owner": "易速实战学院",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.778Z",
+  "updatedAt": "2026-08-04T22:24:18.778Z",
+  "completedAt": "2026-07-13T10:26:18.678Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg",
+    "frames/frame-006.jpg"
+  ],
+  "contentSha256": "a980681a2a8da3da4d925dbd51a55277fa8ac29bd2a647d48bb24f2064df6f19",
+  "markdownSha256": {
+    "summary.md": "a980681a2a8da3da4d925dbd51a55277fa8ac29bd2a647d48bb24f2064df6f19"
+  },
+  "assetSha256": {
+    "cover.jpg": "7581e8321ae85c959db89289b27eb30157beba593129153c5afdee9229dd6ba6",
+    "frames/frame-001.jpg": "a3871b0ec329bca7631064ada4303effe552c7eccbe52131a351e4fec3d5cbce",
+    "frames/frame-002.jpg": "10e5f74a8077ac4c2a00a6ea4937d5528ccb98fcc05647216fc739be809ffa63",
+    "frames/frame-003.jpg": "a05f32a667e9ca2885d5a2d3418e17f24a48de1b1b657cf6e3ea61c8888d8ded",
+    "frames/frame-004.jpg": "a16af84b09a1a689b3ce9e711d283b0248c525a8c5f437649ae26799be349cd1",
+    "frames/frame-005.jpg": "e5ade1dbbe47ccc9811f5a93350d092b3c83ea96cb9872f50c9fa78a44206bbf",
+    "frames/frame-006.jpg": "edf43a41a4181bb8c9b43dfb88d92be9d1d9cf92e8ba755c5c3739b9d2d1ce51"
+  },
+  "fileSizes": {
+    "summary.md": 19857,
+    "cover.jpg": 164770,
+    "frames/frame-001.jpg": 49574,
+    "frames/frame-002.jpg": 76793,
+    "frames/frame-003.jpg": 80285,
+    "frames/frame-004.jpg": 125940,
+    "frames/frame-005.jpg": 85175,
+    "frames/frame-006.jpg": 139537
+  },
+  "totalBytes": 741931
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-a67f658a53bf42773d084d10",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1BawozyEpD",
+  "title": "codex真的效率惊人，耗时1小时全新版本1.1，复刻杀戮尖塔+godot+ai",
+  "owner": "青青子衿yoyo",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:15.149Z",
+  "updatedAt": "2026-08-04T22:24:15.149Z",
+  "completedAt": "2026-07-16T03:55:25.895Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg"
+  ],
+  "contentSha256": "cde4fc992a7d3859ee26eaffcd65e4a93a2b9d5ff907a330330d82c16f4001cb",
+  "markdownSha256": {
+    "summary.md": "cde4fc992a7d3859ee26eaffcd65e4a93a2b9d5ff907a330330d82c16f4001cb"
+  },
+  "assetSha256": {
+    "cover.jpg": "68de44025696da7c46ad0fc2a3a54ca0d4bb799b89ad660bc6bff3b6531c3405",
+    "frames/frame-001.jpg": "cb3661b642cb7d04cf5ed9d43760939c98b0c1ecd995b6cc85bdcea9c23e29b4"
+  },
+  "fileSizes": {
+    "summary.md": 30210,
+    "cover.jpg": 121864,
+    "frames/frame-001.jpg": 46104
+  },
+  "totalBytes": 198178
+}

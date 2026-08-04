@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-c30adb7b19c8d8f946f1faad",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1UV7h61Edy",
+  "title": "【倒反天罡AI生图法】AI场景人物快速迁移渲染+场景自适应+无噪点4K画质",
+  "owner": "AI动画shine",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.347Z",
+  "updatedAt": "2026-08-04T22:24:18.347Z",
+  "completedAt": "2026-07-13T20:12:53.442Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg"
+  ],
+  "contentSha256": "3cebed063e65754503057d8b2017c487518b8720b317cf9e7f5f95a4c3073a9c",
+  "markdownSha256": {
+    "summary.md": "3cebed063e65754503057d8b2017c487518b8720b317cf9e7f5f95a4c3073a9c"
+  },
+  "assetSha256": {
+    "cover.jpg": "354448cd3a41e23ef090f3a2b0b30242a7bc4c1334e0a45534c44b0107cfb14e",
+    "frames/frame-001.jpg": "89a8b2b243598572733bd9ab3fd29e8232c189e104b6e80dbd8b37fd0a780dfd",
+    "frames/frame-002.jpg": "db2c4d212b1d1e247d7f6230a6f1f23821b352f1e57d442e378321a6c939428f",
+    "frames/frame-003.jpg": "e794a089d4b057bd5bc78534e3a7e476b14dc40e0d857df3108a0c281991f1f2",
+    "frames/frame-004.jpg": "cfff3a3c09cfbce1c85ecbf6c04a1846d1ed3543a12d8e7f839aab2256161de2"
+  },
+  "fileSizes": {
+    "summary.md": 24357,
+    "cover.jpg": 251431,
+    "frames/frame-001.jpg": 37852,
+    "frames/frame-002.jpg": 48842,
+    "frames/frame-003.jpg": 31453,
+    "frames/frame-004.jpg": 36089
+  },
+  "totalBytes": 430024
+}

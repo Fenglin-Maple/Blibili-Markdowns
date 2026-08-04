@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-ae1578db0be115a37b1c0d9a",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1wnCtBRE52",
+  "title": "李飞飞3D世界模型公测，网友已经玩疯了",
+  "owner": "AI逐风",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.718Z",
+  "updatedAt": "2026-08-04T22:24:18.718Z",
+  "completedAt": "2026-07-13T10:42:15.773Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "445c010a1dda0d8acbab6ffac921ed5a65f56c4a1d3dd0150fb35979e585dc91",
+  "markdownSha256": {
+    "summary.md": "445c010a1dda0d8acbab6ffac921ed5a65f56c4a1d3dd0150fb35979e585dc91"
+  },
+  "assetSha256": {
+    "cover.jpg": "5b5f32a46e76a0cac3e0e9dc02049226439e2caae91922c0638f508494e92aeb",
+    "frames/frame-001.jpg": "82babe0d32f575a2706d013da032fedbb5b4e2c81e5fa74d3edad432b83e84a7",
+    "frames/frame-002.jpg": "d897850ac567287063274498237bf5205a1883f874135e2e5e29fd5242677a93"
+  },
+  "fileSizes": {
+    "summary.md": 20646,
+    "cover.jpg": 331488,
+    "frames/frame-001.jpg": 33411,
+    "frames/frame-002.jpg": 35552
+  },
+  "totalBytes": 421097
+}

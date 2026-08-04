@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-a06267eded135649651d0b2f",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1FDTF69ELu",
+  "title": "89.Krea2的风格lora库，共1053个lora有没有你喜欢的",
+  "owner": "遇见AI-yujian5455",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.624Z",
+  "updatedAt": "2026-08-04T22:24:18.624Z",
+  "completedAt": "2026-07-13T11:08:27.854Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "e1aff8ba9fb05daf4ca81937346673d45ec9f9c7db08d811d829dc9bfe904319",
+  "markdownSha256": {
+    "summary.md": "e1aff8ba9fb05daf4ca81937346673d45ec9f9c7db08d811d829dc9bfe904319"
+  },
+  "assetSha256": {
+    "cover.jpg": "eb205549013dd8d5e99bd7f9e13000af421e2cb320980ec269e017056bb32a0b",
+    "frames/frame-001.jpg": "31c745cfa0f21e8483a60217ea654ebbfea73d948044c96eeee6fb5a5a4ca440",
+    "frames/frame-002.jpg": "3b201c4d1720b18f9062ff16ad5e3a5d3d2f6c9bda7f7e482b935b1077987c1c"
+  },
+  "fileSizes": {
+    "summary.md": 16571,
+    "cover.jpg": 233593,
+    "frames/frame-001.jpg": 58748,
+    "frames/frame-002.jpg": 52051
+  },
+  "totalBytes": 360963
+}

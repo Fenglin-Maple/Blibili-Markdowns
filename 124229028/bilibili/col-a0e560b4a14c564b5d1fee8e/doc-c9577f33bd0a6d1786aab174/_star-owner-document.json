@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-c9577f33bd0a6d1786aab174",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1ZeKS69EhB",
+  "title": "Codex王炸插件❗️1分钟直出审美拉满的设计稿",
+  "owner": "AI教练振轩",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:19.000Z",
+  "updatedAt": "2026-08-04T22:24:19.000Z",
+  "completedAt": "2026-07-13T09:44:46.809Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg"
+  ],
+  "contentSha256": "70a40f69ccf89f5c0c841ebc376e10f775870f800ce3648e9bbf8e965d24faee",
+  "markdownSha256": {
+    "summary.md": "70a40f69ccf89f5c0c841ebc376e10f775870f800ce3648e9bbf8e965d24faee"
+  },
+  "assetSha256": {
+    "cover.jpg": "e29149ec03634a9b71b4bf4cb564c545ee174cb40882e1cad6a4bd44f037049d",
+    "frames/frame-001.jpg": "1124db04aeafc295be8c16816fe9b4ae550e76d611b42d2a2f94d2a8492a5607",
+    "frames/frame-002.jpg": "b96b79618a965e1bffa0b7ca3f21eed89d4986399432e329a67b98276a59f3b5",
+    "frames/frame-003.jpg": "0842b9bc4a418b830cbb0b02705923c6f360eb561bebcb0b62cb9d99d021aa29"
+  },
+  "fileSizes": {
+    "summary.md": 20371,
+    "cover.jpg": 232132,
+    "frames/frame-001.jpg": 56260,
+    "frames/frame-002.jpg": 52600,
+    "frames/frame-003.jpg": 101599
+  },
+  "totalBytes": 462962
+}

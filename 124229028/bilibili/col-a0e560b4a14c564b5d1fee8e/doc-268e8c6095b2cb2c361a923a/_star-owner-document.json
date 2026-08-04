@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-268e8c6095b2cb2c361a923a",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1KFjA6ZE3o",
+  "title": "【Kipfel】少女版猫猫？(补档)",
+  "owner": "绘篇AI手艺",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:17.878Z",
+  "updatedAt": "2026-08-04T22:24:17.878Z",
+  "completedAt": "2026-07-15T17:39:12.091Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg"
+  ],
+  "contentSha256": "d0718025c2b6f20d23d18721902f0b1d4e9e2333a68f8afbbef5ee9ca0c25a27",
+  "markdownSha256": {
+    "summary.md": "d0718025c2b6f20d23d18721902f0b1d4e9e2333a68f8afbbef5ee9ca0c25a27"
+  },
+  "assetSha256": {
+    "cover.jpg": "ef9be3e2de4e00cc0e858ed4a58c2c734ecba4d1c8a91caffd0bc0b6b886fe5c",
+    "frames/frame-001.jpg": "71086669bf6eb4780ee81ef8e629e9271ffa92ccddb1192b8a475589e0f05dfc",
+    "frames/frame-002.jpg": "d7f00e4d5465080819cddd5e61ac0003136cb36379940076d30c0bde7ba25529",
+    "frames/frame-003.jpg": "2dc9e899edfa3e8cc764efbaa31e29b5f816eab88c2de946ab75999a5a9fe513",
+    "frames/frame-004.jpg": "58967cc11dde575015434dcde097810ce75fb44c6c9a3ec531daa7de7570761f"
+  },
+  "fileSizes": {
+    "summary.md": 20352,
+    "cover.jpg": 100164,
+    "frames/frame-001.jpg": 26672,
+    "frames/frame-002.jpg": 34581,
+    "frames/frame-003.jpg": 42487,
+    "frames/frame-004.jpg": 41465
+  },
+  "totalBytes": 265721
+}

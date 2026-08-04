@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-8c1b62988e1850fb463f2f3d",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1x5M56BEiK",
+  "title": "l2d表情解算（附gui）",
+  "owner": "Zaxpris",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:19.035Z",
+  "updatedAt": "2026-08-04T22:24:19.035Z",
+  "completedAt": "2026-07-13T09:34:08.671Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg",
+    "frames/frame-006.jpg"
+  ],
+  "contentSha256": "91c4660b52d17613804a9088ec94a35984d5f79c8f6a216fbc0e3e50f928d5c8",
+  "markdownSha256": {
+    "summary.md": "91c4660b52d17613804a9088ec94a35984d5f79c8f6a216fbc0e3e50f928d5c8"
+  },
+  "assetSha256": {
+    "cover.jpg": "5a9577acf7658f893316801e2445b72f79829fc7b7f6685f1695f3df3df20b7b",
+    "frames/frame-001.jpg": "41adc7615bef53d1252f750226f533c9a3b9cdf9901ed50d17f517735e196ef9",
+    "frames/frame-002.jpg": "06b9c46e92bba9cd1982e3f77de5a91f359660762eee7db0975f73debe367838",
+    "frames/frame-003.jpg": "b72d7423309dbe3409a132a122dbc775ca46570def6a9b45c03ab4a92937a654",
+    "frames/frame-004.jpg": "c09fc2f2fe9f3ca33c7b327015524c1127cfc31ebaa08f1a52d973524a3f5482",
+    "frames/frame-005.jpg": "b2cb19509628632e1743d5fd81948a3727d4fa73faf84ece4faba1cece188074",
+    "frames/frame-006.jpg": "5c05c861cb04c767741ec8196d963d309a84947a4a92ae33786cb3be3a92483a"
+  },
+  "fileSizes": {
+    "summary.md": 18491,
+    "cover.jpg": 413195,
+    "frames/frame-001.jpg": 69528,
+    "frames/frame-002.jpg": 88016,
+    "frames/frame-003.jpg": 117078,
+    "frames/frame-004.jpg": 143907,
+    "frames/frame-005.jpg": 160943,
+    "frames/frame-006.jpg": 159157
+  },
+  "totalBytes": 1170315
+}

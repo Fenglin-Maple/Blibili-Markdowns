@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-25c4fe0499d22f2fc275ca8f",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1Z1PezWEn3",
+  "title": "这一声“喵”直接使我原地飞升！",
+  "owner": "W博士与AI猫娘",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:15.975Z",
+  "updatedAt": "2026-08-04T22:24:15.975Z",
+  "completedAt": "2026-07-16T01:48:03.149Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "293bf7610063b2852012ef394ba514b718c911d1921d20f4b4eaf3f09d85f3b1",
+  "markdownSha256": {
+    "summary.md": "293bf7610063b2852012ef394ba514b718c911d1921d20f4b4eaf3f09d85f3b1"
+  },
+  "assetSha256": {
+    "cover.jpg": "5d7d2810fb62c14792bc9686443c449d489cec0cde39af4ef101c60432993e86",
+    "frames/frame-001.jpg": "e3a4e7c2fa2a3b354200035b46fa8e440dc5aca7a19b694efefb8feb9826e73b",
+    "frames/frame-002.jpg": "49c365eff761d088a943c8da3411ef6b6ba9057511edfbecd73d16bd567fee3f"
+  },
+  "fileSizes": {
+    "summary.md": 19671,
+    "cover.jpg": 134765,
+    "frames/frame-001.jpg": 91510,
+    "frames/frame-002.jpg": 44078
+  },
+  "totalBytes": 290024
+}

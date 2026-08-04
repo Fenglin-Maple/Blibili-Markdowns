@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-ffe7bee738ff770722d27346",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1xr7a6jEcp",
+  "title": "krea2 对比 anima",
+  "owner": "青龙圣者",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.975Z",
+  "updatedAt": "2026-08-04T22:24:18.975Z",
+  "completedAt": "2026-07-13T09:50:53.520Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.png",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "b6a9da62bafc91ddb22eea0f0172c385a937fbb62a21b58ea8ca2004d8cf7b9f",
+  "markdownSha256": {
+    "summary.md": "b6a9da62bafc91ddb22eea0f0172c385a937fbb62a21b58ea8ca2004d8cf7b9f"
+  },
+  "assetSha256": {
+    "cover.png": "faf6dc68807462cb6eb0c2b99ab8b0a37391657acdebc8497afb69850b575ce4",
+    "frames/frame-001.jpg": "6eabd711491898173ac790131142fe0cbf3b9eb39d5a3dad282b552ae6fcd8f4",
+    "frames/frame-002.jpg": "e551d709d7fbee84d24b1b14832471114eb0d02da4d56c8e676f67cac0a3d1cb"
+  },
+  "fileSizes": {
+    "summary.md": 21172,
+    "cover.png": 399411,
+    "frames/frame-001.jpg": 65227,
+    "frames/frame-002.jpg": 78792
+  },
+  "totalBytes": 564602
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-07fc6babdab4f43f00791ac3",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1efTT6hELt",
+  "title": "codex破甲技巧分享，破除道德约束限制破限制 全程全自动帮微信好友破一个游戏脚ben #chatgpt #codex #AI #逆向",
+  "owner": "dafa7438",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.927Z",
+  "updatedAt": "2026-08-04T22:24:18.927Z",
+  "completedAt": "2026-07-13T09:58:47.499Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg",
+    "frames/frame-005.jpg"
+  ],
+  "contentSha256": "b875217447072f6040c7cc716fb85d002f92df26117e132bf3d411e3fffde97d",
+  "markdownSha256": {
+    "summary.md": "b875217447072f6040c7cc716fb85d002f92df26117e132bf3d411e3fffde97d"
+  },
+  "assetSha256": {
+    "cover.jpg": "27c78f9bf38c6cbf753a3029e0b7a44636dbb25d73f81fb330b1f9ae1abfc6b6",
+    "frames/frame-001.jpg": "67fdf2e69284769763fe325534259f9bfe3fbe00ce8dd2bf0e0867ba5b1f19c6",
+    "frames/frame-002.jpg": "22b6a0f46cc014d9b93f2a25f7de75d8304c6af9716962680ea6d70cadc3b698",
+    "frames/frame-003.jpg": "2818ff15a6a9e9bf6577f9a9b89c54aed70454ed0786d80dbe0912e8db60a987",
+    "frames/frame-004.jpg": "6475d83723b8af1deafdedf1ff60ae967279809fa12d6aba7818eba52dbbfde6",
+    "frames/frame-005.jpg": "f22e494d33a9ecb64aa39760a74f683ed66a9ea0ed689f43280f6d0867f88c08"
+  },
+  "fileSizes": {
+    "summary.md": 22330,
+    "cover.jpg": 478662,
+    "frames/frame-001.jpg": 47955,
+    "frames/frame-002.jpg": 46801,
+    "frames/frame-003.jpg": 102177,
+    "frames/frame-004.jpg": 122533,
+    "frames/frame-005.jpg": 93861
+  },
+  "totalBytes": 914319
+}

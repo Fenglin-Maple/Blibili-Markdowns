@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-522931034a8f1626ff5de696",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "124229028",
+  "contributorGithubLogin": "Fenglin-Maple",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3915148685",
+  "bvid": "BV1TYmgBtEX5",
+  "title": "B站首发！VSCode AI插件安装避坑指南：Claude + Codex 详细配置教程 (附演示)",
+  "owner": "烟神殿殿主",
+  "collectionName": "AIcode",
+  "collectionId": "84354285:3915148685",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-04T22:24:18.562Z",
+  "updatedAt": "2026-08-04T22:24:18.562Z",
+  "completedAt": "2026-07-13T11:18:17.569Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg",
+    "frames/frame-003.jpg",
+    "frames/frame-004.jpg"
+  ],
+  "contentSha256": "ff119a048039aa1959e62ec1dac4afbd97795c80fd1ad01fbe1ae5312725cb0d",
+  "markdownSha256": {
+    "summary.md": "ff119a048039aa1959e62ec1dac4afbd97795c80fd1ad01fbe1ae5312725cb0d"
+  },
+  "assetSha256": {
+    "cover.jpg": "5ba618f512dd118938b70fb5766729e8e7f472668c17971626eedb1e07e035c6",
+    "frames/frame-001.jpg": "0896a45b5b7214f7466c2fdc3b8d2e53f1728ddf4c1084a9ff6c7d81acfe0440",
+    "frames/frame-002.jpg": "f6148c17cb38287454f31c76de75bf1e133f44757e375fd99f1309cbbeea743b",
+    "frames/frame-003.jpg": "f22e88cb2356abb60e1df9332ea8ebbd101ebb4cdf1e5e6975ffae380a04321c",
+    "frames/frame-004.jpg": "b95f7c14bb6eefe00102e43f7d67c0600cbdb701f69aafbe25a9ca8593d7e46d"
+  },
+  "fileSizes": {
+    "summary.md": 20626,
+    "cover.jpg": 142011,
+    "frames/frame-001.jpg": 84547,
+    "frames/frame-002.jpg": 66396,
+    "frames/frame-003.jpg": 75375,
+    "frames/frame-004.jpg": 92005
+  },
+  "totalBytes": 480960
+}
