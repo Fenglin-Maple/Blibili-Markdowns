@@ -11,7 +11,7 @@ const forbiddenNames = /(?:cookie|secret|api[-_]?key|token|credential|database|s
 const infrastructureFiles = new Set([
   'README.md', '_star-owner-repository.json', '.gitattributes', '.gitignore', 'CONTRIBUTING.md', 'SECURITY.md', 'catalog.json',
   '.github/CODEOWNERS', '.github/pull_request_template.md', '.github/workflows/validate-shared-docs.yml', '.github/workflows/build-catalog.yml',
-  'scripts/validate-shared-docs.mjs', 'scripts/build-catalog.mjs'
+  'scripts/validate-shared-docs.mjs', 'scripts/build-catalog.mjs', 'scripts/publish-shared-catalog.mjs'
 ]);
 const errors = [];
 
