@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-a2f39cd5df9fac1fd0d834ed",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "103600402",
+  "contributorGithubLogin": "maples921",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3094344085",
+  "bvid": "BV1wi4y1r7av",
+  "title": "重磅！VRC最知名最火恐怖图《The Smile Room第二章》3月31日更新！【VRChat】【The Smile Room Chapter 2】",
+  "owner": "CJPの晟",
+  "collectionName": "vrchat地图",
+  "collectionId": "84354285:3094344085",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-07T00:14:46.077Z",
+  "updatedAt": "2026-08-07T00:14:46.077Z",
+  "completedAt": "2026-07-12T21:06:54.451Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "e29130b182bf8e49be2ed1c0d65c44f7f270faf57a5dc2465da1c8366ac2cb5c",
+  "markdownSha256": {
+    "summary.md": "e29130b182bf8e49be2ed1c0d65c44f7f270faf57a5dc2465da1c8366ac2cb5c"
+  },
+  "assetSha256": {
+    "cover.jpg": "0451649f594b60ca9d07e6e558c5c587c2c28e5bfe567f878482d29e20564980",
+    "frames/frame-001.jpg": "8311932a5d12a4778a1e123051c399c3665cae18913ac537222b74be9befa8ed",
+    "frames/frame-002.jpg": "9b7728df6ea21d0641f3b1f53417c2f71cd33524cf1f6ccd67b29a38242e4ea2"
+  },
+  "fileSizes": {
+    "summary.md": 15548,
+    "cover.jpg": 192920,
+    "frames/frame-001.jpg": 13736,
+    "frames/frame-002.jpg": 34226
+  },
+  "totalBytes": 256430
+}

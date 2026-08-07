@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 3,
+  "documentId": "doc-38448c000d2d758f6baa6730",
+  "sourceType": "bilibili-video-summary",
+  "documentType": "single-video",
+  "contributorGithubId": "103600402",
+  "contributorGithubLogin": "maples921",
+  "bilibiliUid": "84354285",
+  "remoteCollectionId": "bilibili:3094344085",
+  "bvid": "BV1Zm4y1x7f6",
+  "title": "【VRchat恐怖地图】把人吓到胡言乱语",
+  "owner": "TREAOo",
+  "collectionName": "vrchat地图",
+  "collectionId": "84354285:3094344085",
+  "userName": "枫林_Maples",
+  "userId": "84354285",
+  "parentDocumentId": "",
+  "partId": "",
+  "page": 0,
+  "multiPartRole": "",
+  "cid": "",
+  "sourceCollectionKind": "bilibili",
+  "uploadedAt": "2026-08-07T00:14:46.068Z",
+  "updatedAt": "2026-08-07T00:14:46.068Z",
+  "completedAt": "2026-07-13T06:58:17.894Z",
+  "entryMarkdown": "summary.md",
+  "files": [
+    "summary.md",
+    "cover.jpg",
+    "frames/frame-001.jpg",
+    "frames/frame-002.jpg"
+  ],
+  "contentSha256": "2daa943a43a5dc8565dec4b8c66e6842518001d933bfdc9d734493dc0ae0b418",
+  "markdownSha256": {
+    "summary.md": "2daa943a43a5dc8565dec4b8c66e6842518001d933bfdc9d734493dc0ae0b418"
+  },
+  "assetSha256": {
+    "cover.jpg": "66cffa4d1f9ac2da23ac4953b40770f79479472c0a1f2ff8348a63b6a2b99a76",
+    "frames/frame-001.jpg": "bad28be150efa191acc0417b59db6f53db31ce6e2b98fe6705b2ee75564bba26",
+    "frames/frame-002.jpg": "ef0da58b88da99c0e7eed060fa3998feb1ca0179b650507c4c71c54fb3d9936a"
+  },
+  "fileSizes": {
+    "summary.md": 21225,
+    "cover.jpg": 117360,
+    "frames/frame-001.jpg": 43367,
+    "frames/frame-002.jpg": 21131
+  },
+  "totalBytes": 203083
+}
